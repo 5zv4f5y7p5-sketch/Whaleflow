@@ -1,7 +1,499 @@
 {
-  "updated_at": "2026-11-03 11:40 UTC",
-  "total_cards": 12,
+  "updated_at": "2026-11-03 23:29 UTC",
+  "total_cards": 24,
   "cards": [
+    {
+      "id": "news_5657313",
+      "category": "macro",
+      "tag": "🌍 全球宏观巨鲸快讯",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "Yahoo Finance",
+      "heroMetric": "Ackman calls stock mar...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-03",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "Yahoo Finance",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "全球宏观巨鲸快讯",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-03",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Ackman calls stock market \"broken\" but touts Visa, MasterCard and Netflix",
+      "instAvatar": "📡",
+      "instName": "Yahoo Finance",
+      "sourceName": "Yahoo Finance (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRUVQekMwVDh0SVZ5ZXpfVG5BeW1EZ3JmV1psRUI3Z2lRWjd1eU11RWluN1N1V1B4RjBHUlI4bjk1elNUQUZERFUweGhVak9xZ2w0T1RtQ2x0VGtVdG9NX3dlNy1rTkNXSklfT0prNVJMSjhXZFhPemp1ZW9ia0FaaXplSmNuT1lyR0o1dE5ZWjBjZDdTTm51S1lrUl9IQQ?oc=5",
+      "filingDate": "2026-11-03",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Ackman calls stock market \"broken\" but touts Visa, MasterCard and Netflix",
+        "【信息来源与时间】首发媒体：Yahoo Finance | 原始时间戳：Tue, 03 Nov 2026 19:01:09 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_4364529",
+      "category": "macro",
+      "tag": "🌍 全球宏观巨鲸快讯",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "BigGo Finance",
+      "heroMetric": "Ackman Puts $500 Billi...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-03",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "BigGo Finance",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "全球宏观巨鲸快讯",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-03",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Ackman Puts $500 Billion Price Tag on Fannie, Freddie Exit as Shares Surge",
+      "instAvatar": "📡",
+      "instName": "BigGo Finance",
+      "sourceName": "BigGo Finance (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tN0p4ZFJYTXVtdWdWVlZuSG1weTZST2JTaTBEUzZ1dHhqZG1zZUdOYVdxMkw4c18xZE9oZldvQWtldm4xdHZmSUs0N2NzRUYyWHIyYnNaRTdUSHVMSGZOQ1FycnVlT0RMRUNxalVlNm1NZV8tWUE?oc=5",
+      "filingDate": "2026-11-03",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Ackman Puts $500 Billion Price Tag on Fannie, Freddie Exit as Shares Surge",
+        "【信息来源与时间】首发媒体：BigGo Finance | 原始时间戳：Tue, 03 Nov 2026 20:35:00 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_3923472",
+      "category": "sovereign",
+      "tag": "🏛️ 主权与长线基金异动",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "Morningstar",
+      "heroMetric": "Berkshire Hathaway Sha...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-03",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "Morningstar",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "主权与长线基金异动",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-03",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Berkshire Hathaway Shares Are Up 11% This Year. Is the Stock a Buy Ahead of Earnings?",
+      "instAvatar": "📡",
+      "instName": "Morningstar",
+      "sourceName": "Morningstar (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRm5DaTN3NmRadmh5LVczYXBueVBlUnhtaDZrQ2FGRGtmS0J1WnRkOWcwQ1FmT1pLN0dwQUV2ajRWZENUTGRFRmRBMEpJdjBMbUVmcnB0ZGxRWTNDRWV6RlItbjBfWndhNWVhVVZuWkxWdUY5RnZmU3h5dVlfaXItdEs4NDN5RVdnTFF6RnNBWXZMTExSRUoyS3B6UTNiSE9qbWx2X3VHNVZYRENl?oc=5",
+      "filingDate": "2026-11-03",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Berkshire Hathaway Shares Are Up 11% This Year. Is the Stock a Buy Ahead of Earnings?",
+        "【信息来源与时间】首发媒体：Morningstar | 原始时间戳：Tue, 03 Nov 2026 19:43:52 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_5016215",
+      "category": "sovereign",
+      "tag": "🏛️ 主权与长线基金异动",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "Chief Investment O",
+      "heroMetric": "BlackRock Sees OCIO Ma...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-03",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "Chief Investme",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "主权与长线基金异动",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-03",
+          "val": "当日最新"
+        }
+      ],
+      "title": "BlackRock Sees OCIO Mandates Continuing to Grow in Size",
+      "instAvatar": "📡",
+      "instName": "Chief Investment Officer",
+      "sourceName": "Chief Investment Officer (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVmF5VHZGdElRcldyWTBlck9oUDdZaWtvVng3U2VZZUlKWXJNNFhaOF9paXNWR3d1ZkZ2Y0YxUVZkTTFwNUtTZDhtbnlmMUVmSm1mVEl5c3NuWEhLNWZlemJEZ2xXOTNPc2NnNE1lT1ZxdGhuV1g0S2trSGp3cmV5YUFSZE5EeVlYejl4Vw?oc=5",
+      "filingDate": "2026-11-03",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】BlackRock Sees OCIO Mandates Continuing to Grow in Size",
+        "【信息来源与时间】首发媒体：Chief Investment Officer | 原始时间戳：Tue, 03 Nov 2026 17:54:11 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_4505190",
+      "category": "sovereign",
+      "tag": "🏛️ 主权与长线基金异动",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "Yahoo Finance",
+      "heroMetric": "What a $100 Monthly In...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-03",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "Yahoo Finance",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "主权与长线基金异动",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-03",
+          "val": "当日最新"
+        }
+      ],
+      "title": "What a $100 Monthly Investment in BlackRock Could Grow Into Over 20 Years",
+      "instAvatar": "📡",
+      "instName": "Yahoo Finance",
+      "sourceName": "Yahoo Finance (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdnZra0JYYkJ5RC12dzluUGppLUdWT0wtVVplWUw3VHZCQmFFZk1tY3VPbWQxYXpVUlBMRWl3VzNsS1h3RWpVZGxjUm94M09kdzdWTGVDQVRHd05TMWp6VlV2R1h2MEdpdXRBUEg3c0VsTHdUSlBUWGh1d0lRbmZ0WXRrVkYyUU03U05iTk1TTm9rdUs4NlFhODBPVkxhSVJHRnhYQjlB?oc=5",
+      "filingDate": "2026-11-03",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】What a $100 Monthly Investment in BlackRock Could Grow Into Over 20 Years",
+        "【信息来源与时间】首发媒体：Yahoo Finance | 原始时间戳：Tue, 03 Nov 2026 11:56:00 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_3903967",
+      "category": "hk_cn",
+      "tag": "🇨🇳 中资与港股外资席位",
+      "tagColor": "bg-amber-500/20 text-amber-300 border border-amber-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "J.P. Morgan Privat",
+      "heroMetric": "标普500指数如何突破9,000点 | 摩根...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-03",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "J.P. Morgan Pr",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "中资与港股外资席位",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-03",
+          "val": "当日最新"
+        }
+      ],
+      "title": "标普500指数如何突破9,000点 | 摩根大通私人银行亚洲",
+      "instAvatar": "📡",
+      "instName": "J.P. Morgan Private Bank",
+      "sourceName": "J.P. Morgan Private Bank (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZWl6WjNkTnRXYVdIU054RXVVYlJ6di1FYWdLZ1dub2NHTHlBTFM4NUtTRHdHbWZfYlFaZ0JORVIzek1vdGphWXhwa2FLc1ZIeGtqalJoeHo2R0lOLVowWENIVE1XN0NSY0FiWldJemo3MjgyMzJ0Q2xMRmE4WUdVUjBwNDZLSzJnX1JWV1l1MzJnaGhQSVNFSXJqT3JJdkxZOXJiTWQ3elNaTGhKZEhfaXNQQQ?oc=5",
+      "filingDate": "2026-11-03",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】标普500指数如何突破9,000点 | 摩根大通私人银行亚洲",
+        "【信息来源与时间】首发媒体：J.P. Morgan Private Bank | 原始时间戳：Tue, 03 Nov 2026 09:10:05 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_4094519",
+      "category": "hk_cn",
+      "tag": "🇨🇳 中资与港股外资席位",
+      "tagColor": "bg-amber-500/20 text-amber-300 border border-amber-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "21财经",
+      "heroMetric": "广州工控资本获批增持广州银行6.15亿股 持...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-03",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "21财经",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "中资与港股外资席位",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-03",
+          "val": "当日最新"
+        }
+      ],
+      "title": "广州工控资本获批增持广州银行6.15亿股 持股升至11.3%",
+      "instAvatar": "📡",
+      "instName": "21财经",
+      "sourceName": "21财经 (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORktkQ2pnTkJzWXBmQTd0T2ZMQWQzLTkzLS1xSkRySjVfZU5iNjZzakRfTkxzNEpWYVAtcFdUbXZLZGR6T19OdFVxYV9DMThJUlJFYUNpUTdjaGhlQXpRSUVnTmU3bHlKVHFWLTRkVGNJVXlHd2xTWXpyV2Y1TGJCdzVtSTVJM3RuUmk2aUxwRGdPUmNl?oc=5",
+      "filingDate": "2026-11-03",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】广州工控资本获批增持广州银行6.15亿股 持股升至11.3%",
+        "【信息来源与时间】首发媒体：21财经 | 原始时间戳：Tue, 03 Nov 2026 11:33:29 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_9584065",
+      "category": "hk_cn",
+      "tag": "🇨🇳 中资与港股外资席位",
+      "tagColor": "bg-amber-500/20 text-amber-300 border border-amber-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "同花顺",
+      "heroMetric": "【持仓分析】乙二醇前20期商多头增持0.72...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-03",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "同花顺",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "中资与港股外资席位",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-03",
+          "val": "当日最新"
+        }
+      ],
+      "title": "【持仓分析】乙二醇前20期商多头增持0.72万手、空头减持0.42万手！",
+      "instAvatar": "📡",
+      "instName": "同花顺",
+      "sourceName": "同花顺 (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnbHp6dGZaZ2ZFZ0I0WmZHNmZoYnRmcFo4aDlBVmdFNW1jSWRfcTlLLWZ3N3FjaENxWUZnTFdsYVdSaWN3MTE2M0gyRUh3WE5tWVJPYzhjcWZiaWVHQnZYSg?oc=5",
+      "filingDate": "2026-11-03",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】【持仓分析】乙二醇前20期商多头增持0.72万手、空头减持0.42万手！",
+        "【信息来源与时间】首发媒体：同花顺 | 原始时间戳：Tue, 03 Nov 2026 12:03:58 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_6452388",
+      "category": "hk_cn",
+      "tag": "🇨🇳 中资与港股外资席位",
+      "tagColor": "bg-amber-500/20 text-amber-300 border border-amber-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "证券之星",
+      "heroMetric": "A股有色金属行业2026Q3基金持仓分析：基...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-03",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "证券之星",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "中资与港股外资席位",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-03",
+          "val": "当日最新"
+        }
+      ],
+      "title": "A股有色金属行业2026Q3基金持仓分析：基金重新增持有色行业，重点加仓金铜板块_行业研究_研报",
+      "instAvatar": "📡",
+      "instName": "证券之星",
+      "sourceName": "证券之星 (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14c2RRNzZpNGNXZzN4TFBGOHFEVkU2QzlYQ0RvU2RGNkRMdmdNallRUDdSZHdSX1ZhQ3U1VU03LWxkODBkUzFCRGEyaXlLOGJvTGZPeUNVZHRNbVd2QkN0Sy1n?oc=5",
+      "filingDate": "2026-11-03",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】A股有色金属行业2026Q3基金持仓分析：基金重新增持有色行业，重点加仓金铜板块_行业研究_研报",
+        "【信息来源与时间】首发媒体：证券之星 | 原始时间戳：Tue, 03 Nov 2026 06:58:00 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_3675986",
+      "category": "sovereign",
+      "tag": "🏛️ 主权与长线基金异动",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "BlackRock",
+      "heroMetric": "Weekly market commenta...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-02",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "BlackRock",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "主权与长线基金异动",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-02",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Weekly market commentary",
+      "instAvatar": "📡",
+      "instName": "BlackRock",
+      "sourceName": "BlackRock (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+      "filingDate": "2026-11-02",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Weekly market commentary",
+        "【信息来源与时间】首发媒体：BlackRock | 原始时间戳：Mon, 02 Nov 2026 08:00:00 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_5494764",
+      "category": "macro",
+      "tag": "🌍 全球宏观巨鲸快讯",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "CNBC",
+      "heroMetric": "Rare Stanley Druckenmi...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-10-29",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "CNBC",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "全球宏观巨鲸快讯",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-10-29",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Rare Stanley Druckenmiller post sends crypto-linked stock surging",
+      "instAvatar": "📡",
+      "instName": "CNBC",
+      "sourceName": "CNBC (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSUEtiOEhPMWRaOWZuRUNoaFd1VmF0cWdQOXJDUENteExHSDJMU05WLVQtRTJscm8wQ1RYbEJTQVlsTUNYRjBKQWFSTG84ejlLZTFmOHE5c1kzZXpnVEJVVHRickZzNzZndUdmeENleVpKWl9KWjNr0gF8QVVfeXFMT0tKakhuV3RPVHg4UFpLRnB5U01IeXpTNGNOQXlLakVuUHBQM0NOdmJrcGVBUGdaOW5DOXZ1SFFzQ1l5UUlWWGRla19ObjBtZ3lDb3NkTnp2ZnR5R3luRm56QjN2akNSZHcwSEstakFMOHMzelVXX2Vld2tweQ?oc=5",
+      "filingDate": "2026-10-29",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Rare Stanley Druckenmiller post sends crypto-linked stock surging",
+        "【信息来源与时间】首发媒体：CNBC | 原始时间戳：Thu, 29 Oct 2026 18:53:50 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_1502601",
+      "category": "macro",
+      "tag": "🌍 全球宏观巨鲸快讯",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "CoinDesk",
+      "heroMetric": "Stanley Druckenmiller'...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-10-29",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "CoinDesk",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "全球宏观巨鲸快讯",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-10-29",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Stanley Druckenmiller's first X post backs Hyperliquid venture after $23 million indirect investment",
+      "instAvatar": "📡",
+      "instName": "CoinDesk",
+      "sourceName": "CoinDesk (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUUpiRHF2enVoaUtmNWVfZktyREJpTTM1T1A1cjZfUmJwa1p3SDNybHFRY014M19GRmZHMnIzbGtobW5SOWhvYnFZRWx1el9vSW0wQ1gxczhDQjVfLTM0WE9Gei03SzBQWkFpaTNSUzJ4SUFjYktpYS11WE1tU2NaYl9VRmZ4aTlWblYwQkNtU25LZXByekVoRGF2aFpYZ0JOazRLdHE1cE5RTUZ3dWVmemx5T0h1NGloVFFTeThvYXYxZExTZldhWkFLb1FmcmtEeTc0Nk1OZXVpd3NYNEg2Ng?oc=5",
+      "filingDate": "2026-10-29",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Stanley Druckenmiller's first X post backs Hyperliquid venture after $23 million indirect investment",
+        "【信息来源与时间】首发媒体：CoinDesk | 原始时间戳：Thu, 29 Oct 2026 17:04:19 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
     {
       "id": "news_5513939",
       "category": "sovereign",
