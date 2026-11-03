@@ -1,0 +1,31 @@
+name: Daily Whale 13F Sync
+
+on:
+  schedule:
+    - cron: '0 23,11 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync_sec_13f:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run SEC 13F Diff Engine
+        run: python build_feed.py
+
+      - name: Commit and Push updated cards_feed.json
+        run: |
+          git config user.name "WhaleFlow Bot"
+          git config user.email "bot@whaleflow.local"
+          git add cards_feed.json
+          git diff --staged --quiet || (git commit -m "Auto-update SEC 13F whale holdings feed" && git push)
