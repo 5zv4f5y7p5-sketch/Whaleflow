@@ -493,9 +493,11 @@ async function syncLiveSecData() {
     const resp = await fetch('/api/sync');
     const data = await resp.json();
     if (data.status === 'ok' && data.cards && data.cards.length > 0) {
-      cardsData.unshift(...data.cards);
+      const existingIds = new Set(cardsData.map(c => String(c.id)));
+      const newUnique = data.cards.filter(c => !existingIds.has(String(c.id)));
+      cardsData.unshift(...newUnique);
       renderCards('all');
-      btn.innerHTML = '<span>✅ 已更新最新 13F</span>';
+      btn.innerHTML = `<span>✅ 已前置 ${newUnique.length} 条新异动</span>`;
     } else {
       alert('当前处于纯静态网页模式。云端每日由 GitHub Actions 自动同步 cards_feed.json，或在本地运行 python whale_server.py 手动实时拉取。');
       btn.innerHTML = origText;
@@ -519,7 +521,10 @@ async function loadCloudStaticFeed() {
       }
       const cloudCards = Array.isArray(payload) ? payload : (payload.cards || []);
       if (cloudCards.length > 0) {
-        cardsData.unshift(...cloudCards);
+        // 保留所有旧卡片，仅将新抓取的卡片前置插入（按 id 自动去重）
+        const existingIds = new Set(cardsData.map(c => String(c.id)));
+        const newUniqueCards = cloudCards.filter(c => !existingIds.has(String(c.id)));
+        cardsData.unshift(...newUniqueCards);
       }
     }
   } catch (e) {
