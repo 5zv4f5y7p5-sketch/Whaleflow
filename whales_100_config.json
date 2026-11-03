@@ -1,0 +1,26 @@
+{
+  "version": "2026.11",
+  "description": "全球 >10亿美元 核心金融机构监管寻址池 (SEC CIK & 港股席位)",
+  "institutions": [
+    {"id": "berkshire", "name": "Berkshire Hathaway (伯克希尔·巴菲特)", "cik": "0001067983", "category": "long", "avatar": "💎", "aum_b": 285},
+    {"id": "bridgewater", "name": "Bridgewater Associates (桥水基金)", "cik": "0001350694", "category": "macro", "avatar": "🌍", "aum_b": 124},
+    {"id": "duquesne", "name": "Duquesne Family Office (德鲁肯米勒)", "cik": "0001536411", "category": "macro", "avatar": "🦅", "aum_b": 3.5},
+    {"id": "himalaya", "name": "Himalaya Capital (喜马拉雅·李录)", "cik": "0001709323", "category": "long", "avatar": "🏔️", "aum_b": 2.6},
+    {"id": "hhlr", "name": "HHLR Advisors (高瓴资本)", "cik": "0001762304", "category": "hk_cn", "avatar": "🇨🇳", "aum_b": 4.5},
+    {"id": "greenwoods", "name": "Greenwoods Asset (景林资产)", "cik": "0001540531", "category": "hk_cn", "avatar": "🌲", "aum_b": 3.1},
+    {"id": "appaloosa", "name": "Appaloosa Management (大卫·泰珀)", "cik": "0001656456", "category": "macro", "avatar": "⚡", "aum_b": 6.4},
+    {"id": "pershing", "name": "Pershing Square (比尔·阿克曼)", "cik": "0001336528", "category": "long", "avatar": "🎯", "aum_b": 11.2},
+    {"id": "baupost", "name": "Baupost Group (塞斯·卡拉曼)", "cik": "0001061768", "category": "long", "avatar": "🛡️", "aum_b": 27.0},
+    {"id": "tiger", "name": "Tiger Global Management (老虎环球)", "cik": "0001167483", "category": "long", "avatar": "🐯", "aum_b": 23.0},
+    {"id": "coatue", "name": "Coatue Management (科图资本)", "cik": "0001135730", "category": "long", "avatar": "📡", "aum_b": 25.4},
+    {"id": "scions", "name": "Scion Asset Management (迈克尔·伯里)", "cik": "0001649339", "category": "macro", "avatar": "🔮", "aum_b": 1.2},
+    {"id": "soros", "name": "Soros Fund Management (索罗斯基金)", "cik": "0001029160", "category": "macro", "avatar": "🌊", "aum_b": 5.8},
+    {"id": "temasek", "name": "Temasek Holdings (新加坡淡马锡)", "cik": "0001021944", "category": "sovereign", "avatar": "🏛️", "aum_b": 290},
+    {"id": "norges", "name": "Norges Bank (挪威政府全球养老基金)", "cik": "0001377739", "category": "sovereign", "avatar": "🇳🇴", "aum_b": 1650},
+    {"id": "pif", "name": "Public Investment Fund (沙特主权基金 PIF)", "cik": "0001767640", "category": "sovereign", "avatar": "🇸🇦", "aum_b": 925},
+    {"id": "citadel", "name": "Citadel Advisors (城堡投资 - 需剥离期权噪音)", "cik": "0001423053", "category": "quant_mm", "avatar": "🏰", "aum_b": 63.0, "strip_options": true},
+    {"id": "millennium", "name": "Millennium Management (千禧年 - 多策略)", "cik": "0001273087", "category": "quant_mm", "avatar": "⚙️", "aum_b": 68.0, "strip_options": true},
+    {"id": "point72", "name": "Point72 Asset Management (史蒂夫·科恩)", "cik": "0001603466", "category": "quant_mm", "avatar": "🎲", "aum_b": 35.2, "strip_options": true},
+    {"id": "renaissance", "name": "Renaissance Technologies (文艺复兴大奖章)", "cik": "0001037389", "category": "quant_mm", "avatar": "🧮", "aum_b": 65.0, "strip_options": true}
+  ]
+}

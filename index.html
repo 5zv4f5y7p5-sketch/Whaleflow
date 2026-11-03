@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="WhaleFlow">
+<meta name="theme-color" content="#090a0f">
+<title>WhaleFlow - 全球百大机构持仓信息流</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+  body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif;
+    background-color: #090a0f;
+    color: #f1f5f9;
+    margin: 0;
+    padding: 0;
+  }
+  .no-scrollbar::-webkit-scrollbar { display: none; }
+  .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+  
+  .masonry-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px;
+    align-items: start;
+  }
+  @media (min-width: 768px) {
+    .masonry-grid {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 16px;
+    }
+  }
+  .xhs-card {
+    background: #12141d;
+    border: 1px solid #1e2230;
+    border-radius: 14px;
+    overflow: hidden;
+    transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+    cursor: pointer;
+  }
+  .xhs-card:hover {
+    transform: translateY(-3px);
+    border-color: #38bdf8;
+    box-shadow: 0 12px 28px -8px rgba(0, 0, 0, 0.7);
+  }
+  .cover-box {
+    position: relative;
+    padding: 16px 14px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    aspect-ratio: 4 / 4.6;
+  }
+  .badge-pill {
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    padding: 3px 8px;
+    border-radius: 999px;
+    text-transform: uppercase;
+  }
+</style>
+</head>
+<body class="min-h-screen flex flex-col items-center pb-12">
+
+  <!-- 顶部导航栏与架构切换器 -->
+  <header class="w-full max-w-4xl sticky top-0 z-30 bg-[#090a0f]/90 backdrop-blur-md border-b border-slate-800/80 px-4 py-3">
+    <div class="flex items-center justify-between">
+      <div class="flex items-center gap-2.5">
+        <div class="w-8 h-8 rounded-lg bg-gradient-to-br from-emerald-400 to-cyan-600 flex items-center justify-center font-black text-slate-950 text-lg">W</div>
+        <div>
+          <h1 class="text-base font-bold tracking-tight text-white flex items-center gap-2">
+            WhaleFlow 巨鲸流
+            <span class="text-[10px] bg-emerald-500/15 text-emerald-400 border border-emerald-500/30 px-2 py-0.5 rounded-full font-semibold">100 Whales 实时监控</span>
+          </h1>
+          <p class="text-[11px] text-slate-400">全球100家 >$1B 顶级机构监管底稿 (13F / 13D / CCASS) 视觉化引擎</p>
+        </div>
+      </div>
+
+      <!-- 视图切换：APP前端预览 vs Agent管线架构 -->
+      <div class="flex items-center gap-2">
+        <button id="btnSync" onclick="syncLiveSecData()" class="px-3 py-1.5 rounded-lg bg-emerald-500 hover:bg-emerald-400 text-slate-950 font-bold text-xs shadow transition flex items-center gap-1">
+          <span>⚡ 同步 SEC 实时底稿</span>
+        </button>
+        <div class="flex bg-slate-900 p-1 rounded-lg border border-slate-800 text-xs font-medium">
+          <button id="tabApp" onclick="switchTab('app')" class="px-3 py-1.5 rounded-md bg-slate-800 text-white shadow">APP 信息流预览</button>
+          <button id="tabArch" onclick="switchTab('arch')" class="px-3 py-1.5 rounded-md text-slate-400 hover:text-white">Agent 编译管线</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- 小红书式频道分类栏 -->
+    <div id="channelBar" class="flex items-center gap-2 overflow-x-auto no-scrollbar mt-3 pt-1">
+      <button onclick="filterCards('all', this)" class="channel-btn active shrink-0 px-3 py-1 rounded-full text-xs font-semibold bg-white text-slate-950">全部异动 (All)</button>
+      <button onclick="filterCards('consensus', this)" class="channel-btn shrink-0 px-3 py-1 rounded-full text-xs font-medium bg-slate-900 text-slate-300 border border-slate-800 hover:border-slate-700">🔥 多头共振</button>
+      <button onclick="filterCards('macro', this)" class="channel-btn shrink-0 px-3 py-1 rounded-full text-xs font-medium bg-slate-900 text-slate-300 border border-slate-800 hover:border-slate-700">🌍 宏观大鳄 (20)</button>
+      <button onclick="filterCards('long', this)" class="channel-btn shrink-0 px-3 py-1 rounded-full text-xs font-medium bg-slate-900 text-slate-300 border border-slate-800 hover:border-slate-700">💎 价值长线 (35)</button>
+      <button onclick="filterCards('sovereign', this)" class="channel-btn shrink-0 px-3 py-1 rounded-full text-xs font-medium bg-slate-900 text-slate-300 border border-slate-800 hover:border-slate-700">🏛️ 主权与养老金 (15)</button>
+      <button onclick="filterCards('hk_cn', this)" class="channel-btn shrink-0 px-3 py-1 rounded-full text-xs font-medium bg-slate-900 text-slate-300 border border-slate-800 hover:border-slate-700">🇨🇳 中资/港股席位</button>
+      <button onclick="filterCards('crowding', this)" class="channel-btn shrink-0 px-3 py-1 rounded-full text-xs font-medium bg-rose-950/40 text-rose-300 border border-rose-800/50">⚠️ 拥挤度踩踏预警</button>
+    </div>
+  </header>
+
+  <!-- 主体容器：小红书式双列/三列瀑布流 -->
+  <main id="appView" class="w-full max-w-4xl px-3 md:px-4 mt-4">
+    <div id="feedContainer" class="masonry-grid">
+      <!-- 动态渲染卡片 -->
+    </div>
+  </main>
+
+  <!-- 架构视图：Agent 生产管线详解 (默认隐藏) -->
+  <section id="archView" class="w-full max-w-4xl px-4 mt-6 hidden space-y-4">
+    <div class="bg-[#12141d] border border-slate-800 rounded-xl p-5">
+      <h2 class="text-sm font-bold text-emerald-400 uppercase tracking-wider mb-2">核心工程逻辑：如何让 Agent 自动生成“小红书图卡”？</h2>
+      <p class="text-xs text-slate-300 leading-relaxed mb-4">
+        传统金融终端（如 Bloomberg/Wind）罗列上万行表格，阅读摩擦力极高；而普通自媒体又充满情绪叙事和滞后误导。本系统通过 <strong>4 个子 Agent 节点</strong>，在监管文件披露后的 <strong>60 秒内</strong>，自动将枯燥的 XML/CSV 转化为高信息密度的“小红书首图+结构化归因笔记”：
+      </p>
+      <div class="grid grid-cols-1 md:grid-cols-4 gap-3 text-xs">
+        <div class="bg-slate-900/90 border border-slate-800 p-3.5 rounded-lg">
+          <div class="text-cyan-400 font-bold mb-1">01. 监管嗅探 Agent</div>
+          <p class="text-slate-400 text-[11px] leading-normal">7×24轮询 SEC EDGAR (13F/13D)、港交所 CCASS 席位、日本 EDINET 及 A股十大流通股东，锁定 100 家目标 CIK。</p>
+        </div>
+        <div class="bg-slate-900/90 border border-slate-800 p-3.5 rounded-lg">
+          <div class="text-emerald-400 font-bold mb-1">02. 量化差分引擎 (Python)</div>
+          <p class="text-slate-400 text-[11px] leading-normal">剔除股价涨跌干扰，只算真实股数变动 (ΔShares)；自动剥离 Citadel 等做市商的 Put/Call 期权对冲噪音。</p>
+        </div>
+        <div class="bg-slate-900/90 border border-slate-800 p-3.5 rounded-lg">
+          <div class="text-amber-400 font-bold mb-1">03. 视觉编译 Agent (SVG/HTML)</div>
+          <p class="text-slate-400 text-[11px] leading-normal">根据信号类型（单票建仓、跨机构共振、清仓逃顶），自动套用 5 套高对比度数据海报模板，生成 4:5 比例首图。</p>
+        </div>
+        <div class="bg-slate-900/90 border border-slate-800 p-3.5 rounded-lg">
+          <div class="text-purple-400 font-bold mb-1">04. 交叉验证笔记 Agent</div>
+          <p class="text-slate-400 text-[11px] leading-normal">结合当季宏观利率基差、大宗交易折溢价及建仓均价区间，生成 200 字零废话硬核穿透内页，挂载原始 SEC 链接。</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 小红书式点击弹窗详情 (Modal) -->
+  <div id="detailModal" class="fixed inset-0 z-50 bg-black/80 backdrop-blur-sm hidden items-center justify-center p-4" onclick="closeModal()">
+    <div class="bg-[#12141d] border border-slate-700/80 rounded-2xl max-w-lg w-full overflow-hidden shadow-2xl" onclick="event.stopPropagation()">
+      <div id="modalHeader" class="p-5 border-b border-slate-800 flex justify-between items-start">
+      </div>
+      <div id="modalBody" class="p-5 space-y-4 max-h-[70vh] overflow-y-auto text-xs leading-relaxed text-slate-300">
+      </div>
+      <div class="px-5 py-3 bg-slate-900/80 border-t border-slate-800 flex justify-between items-center text-[11px] text-slate-400">
+        <span id="modalSource">数据源：SEC EDGAR 官方原始底稿</span>
+        <button onclick="closeModal()" class="px-3 py-1 bg-slate-800 hover:bg-slate-700 text-white rounded-md font-medium">关闭窗口</button>
+      </div>
+    </div>
+  </div>
+
+<script>
+const cardsData = [
+  {
+    id: 1,
+    category: 'consensus',
+    tag: '跨机构强共振 · 5巨头同买',
+    tagColor: 'bg-emerald-500/20 text-emerald-300 border border-emerald-500/40',
+    bgGradient: 'from-emerald-950/90 via-[#111827] to-[#0f172a]',
+    accentColor: '#10b981',
+    heroTicker: 'TSM / 台积电',
+    heroMetric: '+42.8%',
+    heroLabel: '5家顶级宏观/长线基金 Q3 净增持均值',
+    subData: [
+      { name: 'Bridgewater (桥水)', action: '新进建仓', val: '$3.8B' },
+      { name: 'Duquesne (德鲁肯米勒)', action: '股数 +65%', val: '$1.4B' },
+      { name: 'Tiger Global (老虎)', action: '股数 +38%', val: '$2.1B' }
+    ],
+    title: '算力底座共识锁死：5家百亿美金巨鲸Q3同步大幅加仓台积电，剔除价格涨幅后净买入超1800万股',
+    instAvatar: '🔥',
+    instName: 'Consensus Engine · 共振雷达',
+    filingType: 'SEC 13F-HR 交叉比对',
+    timeAgo: '12分钟前',
+    conviction: '9.4 / 10',
+    detailLogic: [
+      '【真实股数差分】剔除Q3股价变动影响后，100家监控机构中有14家净增持TSM，其中5家纯多头与宏观主权机构将其提拔至前五大重仓（Conviction Weight > 4.5%）。',
+      '【期权噪音剥离】已自动过滤 Citadel 与 Susquehanna 合计 $4.2B 的 Put/Call 双向做市对冲头寸，确保多头信号纯净。',
+      '【建仓成本测绘】结合Q3 VWAP（成交量加权均价）推算，本轮机构集中吸筹区间位于 $162 - $175，安全垫清晰。'
+    ]
+  },
+  {
+    id: 2,
+    category: 'macro',
+    tag: '宏观巨鳄 · 13F 突变',
+    tagColor: 'bg-cyan-500/20 text-cyan-300 border border-cyan-500/40',
+    bgGradient: 'from-cyan-950/80 via-[#111827] to-[#0f172a]',
+    accentColor: '#06b6d4',
+    heroTicker: 'Duquesne 家族办',
+    heroMetric: '清仓 NVDA / 切入医疗与美债',
+    heroLabel: 'Stan Druckenmiller 最新组合换手率 34%',
+    subData: [
+      { name: 'NVDA (英伟达)', action: '股数 -100%', val: '彻底清仓' },
+      { name: 'TLT / 短端美债套利', action: '新进建仓', val: '占比 14.2%' },
+      { name: 'NTRA / 基因检测', action: '股数 +112%', val: '晋升TOP 3' }
+    ],
+    title: '德鲁肯米勒的冷酷切换：彻底清空AI硬件高拥挤头寸，将14%算力切入生物医疗与利率曲线陡峭化交易',
+    instAvatar: '🦅',
+    instName: 'Duquesne Family Office',
+    filingType: 'CIK: 0001536411',
+    timeAgo: '38分钟前',
+    conviction: '9.1 / 10',
+    detailLogic: [
+      '【节点特征】Stan Druckenmiller 以极高的宏观拐点嗅觉著称，从不恋战高拥挤度资产。',
+      '【头寸结构拆解】本季前三大动作：1) 结清 NVDA 剩余正股与 Call 期权；2) 大举增配非周期性的医疗诊断标的；3) 配合美债收益率曲线结构变动调整久期暴露。',
+      '【系统启示】典型的高位流动性兑现动作——当全市场散户涌入单叙事标的时，主权级资金开始向低估值、高赔率侧翼转移。'
+    ]
+  },
+  {
+    id: 3,
+    category: 'hk_cn',
+    tag: '港股 CCASS 席位异动 · T+2',
+    tagColor: 'bg-amber-500/20 text-amber-300 border border-amber-500/40',
+    bgGradient: 'from-amber-950/80 via-[#111827] to-[#0f172a]',
+    accentColor: '#f59e0b',
+    heroTicker: '00939.HK / 建设银行',
+    heroMetric: '+3.12 亿股',
+    heroLabel: '摩根大通 & 花旗托管席位近5日净流入',
+    subData: [
+      { name: 'JPMorgan 托管席位', action: '+1.85亿股', val: '持仓占比 +0.08%' },
+      { name: 'Citibank 托管席位', action: '+1.27亿股', val: '连续4日净转入' },
+      { name: '12月中旬中期派息', action: '0.201元/股', val: '分红率 31%' }
+    ],
+    title: '除权前夕的长线抢筹：建行12月中旬中期派息窗口临近，外资主权托管席位连续5日大额净转入超3亿股',
+    instAvatar: '🏦',
+    instName: 'HKEX CCASS 席位穿透',
+    filingType: '港交所中央结算 T+2',
+    timeAgo: '1小时前',
+    conviction: '8.7 / 10',
+    detailLogic: [
+      '【为什么看CCASS】相比滞后45天的13F，港交所CCASS中央结算系统提供T+2级别的物理股票托管搬家数据。',
+      '【除权套利周期】工行、农行已于10月21日完成中期派息，四大行中仅剩建行、中行将在12月中旬派发31%分红率的中期红包（建行每股0.201元）。',
+      '【资金属性判定】流入席位高度集中在摩根大通与花旗银行（典型的主权基金与海外长线养老金托管通道），而非高频交易券商席位，属配置型锁仓。'
+    ]
+  },
+  {
+    id: 4,
+    category: 'crowding',
+    tag: '⚠️ 筹码松动与踩踏预警',
+    tagColor: 'bg-rose-500/20 text-rose-300 border border-rose-500/40',
+    bgGradient: 'from-rose-950/90 via-[#111827] to-[#0f172a]',
+    accentColor: '#f43f5e',
+    heroTicker: '某热门 AI 软件标的',
+    heroMetric: '拥挤度 96% 分位',
+    heroLabel: '38家对冲基金持有，但边际 ΔShares 转负 (-18%)',
+    subData: [
+      { name: 'Millennium (千禧年)', action: '股数 -42%', val: '高位减持' },
+      { name: 'Point72', action: '股数 -65%', val: '接近清仓' },
+      { name: '散户ETF资金流', action: '仍在净流入', val: '典型派发背离' }
+    ],
+    title: '危险的背离信号：38家对冲基金扎堆持仓达历史极值，但三大头部多策略基金已悄然砍掉半数头寸',
+    instAvatar: '🚨',
+    instName: 'Crowding Risk · 拥挤度风控',
+    filingType: '100 Whales 筹码矩阵',
+    timeAgo: '2小时前',
+    conviction: '9.6 / 10 (风控级)',
+    detailLogic: [
+      '【踩踏模型触发条件】当100家机构池中持有某标的的机构数 >30家（高拥挤），且当季头部多策略基金（Millennium/Point72/Citadel）同步出现 >30% 的真实股数减持时，系统自动拉响红色预警。',
+      '【微观博弈结构】目前股价仍维持高位，主要靠被动指数基金与零售端接盘，但聪明钱已在利用充沛流动性执行无冲击派发（Distribution）。'
+    ]
+  },
+  {
+    id: 5,
+    category: 'long',
+    tag: '价值长线 · 零换手定力',
+    tagColor: 'bg-purple-500/20 text-purple-300 border border-purple-500/40',
+    bgGradient: 'from-purple-950/80 via-[#111827] to-[#0f172a]',
+    accentColor: '#a855f7',
+    heroTicker: 'Himalaya / 李录',
+    heroMetric: '前3大持仓占 76%',
+    heroLabel: '极致集中度：连续两个季度零废动作，加码银行与高现金流垄断节点',
+    subData: [
+      { name: 'BAC (美国银行)', action: '持仓不变', val: '权重 28.4%' },
+      { name: 'GOOGL (谷歌)', action: '股数 +12%', val: '权重 26.1%' },
+      { name: 'BRK.B (伯克希尔)', action: '持仓不变', val: '权重 21.5%' }
+    ],
+    title: '极简主义的降维打击：李录喜马拉雅资本最新持仓穿透，全季仅1次微调，前三大重仓锁死76%仓位',
+    instAvatar: '💎',
+    instName: 'Himalaya Capital',
+    filingType: 'CIK: 0001709323',
+    timeAgo: '3小时前',
+    conviction: '8.9 / 10',
+    detailLogic: [
+      '【节点特征】喜马拉雅资本（李录）是100家机构池中“低频高赔率”的标杆，年化换手率长期低于15%。',
+      '【信号提纯】对于极低换手率的Long-Only节点，其“不动”是常态，一旦出现 >10% 的单票股数增加（如本季逢回调增配GOOGL），其信号权重远高于量化基金的日常调仓。'
+    ]
+  },
+  {
+    id: 6,
+    category: 'sovereign',
+    tag: '主权基金 · 跨市场举牌',
+    tagColor: 'bg-blue-500/20 text-blue-300 border border-blue-500/40',
+    bgGradient: 'from-blue-950/80 via-[#111827] to-[#0f172a]',
+    accentColor: '#3b82f6',
+    heroTicker: 'GIC & Norges Bank',
+    heroMetric: '举牌越过 5.0% 红线',
+    heroLabel: '新加坡GIC与挪威主权基金同步增持全球电网与铜矿基础设施',
+    subData: [
+      { name: '电力电网设备龙头', action: '持股达 5.12%', val: '触发13G强制披露' },
+      { name: '南美核心铜矿商', action: '股数 +29%', val: '长周期实物锚定' },
+      { name: '投资周期属性', action: '5-10年跨周期', val: '非短期博弈' }
+    ],
+    title: '脱虚向实的物理底座卡位：新加坡GIC与挪威央行最新举牌文件曝光，百亿资金绕开AI叙事直扑电网与铜矿',
+    instAvatar: '🏛️',
+    instName: 'Sovereign Wealth Tracker',
+    filingType: 'Schedule 13G / 欧洲监管披露',
+    timeAgo: '4小时前',
+    conviction: '9.2 / 10',
+    detailLogic: [
+      '【主权节点优势】GIC（新加坡政府投资）与Norges Bank（挪威央行）掌握超万亿美元长线低成本资金，无短期赎回压力，专司宏观物理瓶颈卡位。',
+      '【跨域同构】与其在AI应用层参与高估值内卷，主权资本直接卡位算力尽头的物理刚需——高压输配电网络与上游铜资源。'
+    ]
+  }
+];
+
+function renderCards(filter = 'all') {
+  const container = document.getElementById('feedContainer');
+  container.innerHTML = '';
+  const list = filter === 'all' ? cardsData : cardsData.filter(c => c.category === filter);
+
+  list.forEach(card => {
+    const subRows = card.subData.map(row => `
+      <div class="flex items-center justify-between text-[11px] py-1 border-b border-white/10 last:border-0">
+        <span class="text-slate-300 font-medium truncate pr-2">${row.name}</span>
+        <div class="flex items-center gap-2 shrink-0">
+          <span class="text-white font-semibold">${row.action}</span>
+          <span class="text-[10px] px-1.5 py-0.5 rounded bg-white/10 text-slate-200">${row.val}</span>
+        </div>
+      </div>
+    `).join('');
+
+    const el = document.createElement('article');
+    el.className = 'xhs-card flex flex-col';
+    el.onclick = () => openModal(card.id);
+    el.innerHTML = `
+      <div class="cover-box bg-gradient-to-b ${card.bgGradient}">
+        <div class="flex items-center justify-between gap-1">
+          <span class="badge-pill ${card.tagColor}">${card.tag}</span>
+          <span class="text-[10px] text-slate-400 font-mono">${card.filingType}</span>
+        </div>
+
+        <div class="my-auto py-3">
+          <div class="text-xs text-slate-400 font-semibold tracking-wide uppercase">${card.heroTicker}</div>
+          <div class="text-2xl md:text-3xl font-extrabold text-white tracking-tight mt-0.5" style="color:${card.accentColor}">${card.heroMetric}</div>
+          <div class="text-[11px] text-slate-300 mt-1 leading-snug">${card.heroLabel}</div>
+        </div>
+
+        <div class="bg-black/40 backdrop-blur-sm rounded-lg p-2.5 border border-white/10">
+          ${subRows}
+        </div>
+      </div>
+
+      <div class="p-3.5 flex flex-col justify-between flex-1 bg-[#12141d]">
+        <h3 class="text-xs md:text-[13px] font-bold text-slate-100 leading-snug line-clamp-2 mb-3">
+          ${card.title}
+        </h3>
+        <div class="flex items-center justify-between text-[11px] text-slate-400 pt-2 border-t border-slate-800/80">
+          <div class="flex items-center gap-1.5 truncate">
+            <span class="text-sm">${card.instAvatar}</span>
+            <span class="truncate font-medium text-slate-300">${card.instName}</span>
+          </div>
+          <div class="flex items-center gap-1 shrink-0 text-emerald-400 font-mono text-[10px] bg-emerald-950/50 px-1.5 py-0.5 rounded border border-emerald-800/40">
+            置信度 ${card.conviction}
+          </div>
+        </div>
+      </div>
+    `;
+    container.appendChild(el);
+  });
+}
+
+function filterCards(cat, btnEl) {
+  document.querySelectorAll('.channel-btn').forEach(btn => {
+    btn.className = 'channel-btn shrink-0 px-3 py-1 rounded-full text-xs font-medium bg-slate-900 text-slate-300 border border-slate-800 hover:border-slate-700';
+  });
+  if (btnEl) {
+    btnEl.className = 'channel-btn active shrink-0 px-3 py-1 rounded-full text-xs font-semibold bg-white text-slate-950';
+  }
+  renderCards(cat);
+}
+
+function openModal(id) {
+  const card = cardsData.find(c => c.id === id);
+  if (!card) return;
+  document.getElementById('modalHeader').innerHTML = `
+    <div>
+      <span class="badge-pill ${card.tagColor}">${card.tag}</span>
+      <h2 class="text-base font-bold text-white mt-2 leading-snug">${card.title}</h2>
+      <p class="text-[11px] text-slate-400 mt-1">${card.instName} · ${card.filingType} · ${card.timeAgo}</p>
+    </div>
+  `;
+  const logicHtml = card.detailLogic.map(item => `
+    <div class="p-3 rounded-lg bg-slate-900/90 border border-slate-800 text-slate-200 leading-relaxed">
+      ${item}
+    </div>
+  `).join('');
+  document.getElementById('modalBody').innerHTML = `
+    <div class="text-xs font-semibold text-emerald-400 uppercase tracking-wider">Agent 底层数据穿透与归因 (Zero-Narrative)</div>
+    ${logicHtml}
+  `;
+  document.getElementById('modalSource').innerText = `原始凭证校验：${card.filingType} | 已剥离期权做市噪音`;
+  const modal = document.getElementById('detailModal');
+  modal.classList.remove('hidden');
+  modal.classList.add('flex');
+}
+
+function closeModal() {
+  const modal = document.getElementById('detailModal');
+  modal.classList.add('hidden');
+  modal.classList.remove('flex');
+}
+
+function switchTab(tab) {
+  const appView = document.getElementById('appView');
+  const archView = document.getElementById('archView');
+  const channelBar = document.getElementById('channelBar');
+  const tabApp = document.getElementById('tabApp');
+  const tabArch = document.getElementById('tabArch');
+
+  if (tab === 'app') {
+    appView.classList.remove('hidden');
+    channelBar.classList.remove('hidden');
+    archView.classList.add('hidden');
+    tabApp.className = 'px-3 py-1.5 rounded-md bg-slate-800 text-white shadow';
+    tabArch.className = 'px-3 py-1.5 rounded-md text-slate-400 hover:text-white';
+  } else {
+    appView.classList.add('hidden');
+    channelBar.classList.add('hidden');
+    archView.classList.remove('hidden');
+    tabArch.className = 'px-3 py-1.5 rounded-md bg-slate-800 text-white shadow';
+    tabApp.className = 'px-3 py-1.5 rounded-md text-slate-400 hover:text-white';
+  }
+}
+
+async function syncLiveSecData() {
+  const btn = document.getElementById('btnSync');
+  const origText = btn.innerHTML;
+  btn.innerHTML = '<span>⏳ 正在拉取 SEC XML...</span>';
+  btn.disabled = true;
+  try {
+    const resp = await fetch('/api/sync');
+    const data = await resp.json();
+    if (data.status === 'ok' && data.cards && data.cards.length > 0) {
+      cardsData.unshift(...data.cards);
+      renderCards('all');
+      btn.innerHTML = '<span>✅ 已更新最新 13F</span>';
+    } else {
+      alert('当前处于纯前端静态预览模式。将3个文件下载到本地运行 python whale_server.py 后，点击此按钮即可直连美国证监会 SEC EDGAR 拉取实时数据。');
+      btn.innerHTML = origText;
+    }
+  } catch (err) {
+    alert('提示：当前为云端静态预览。请按部署说明在本地运行 python whale_server.py，即可激活实时 SEC API 抓取功能！');
+    btn.innerHTML = origText;
+  } finally {
+    btn.disabled = false;
+  }
+}
+
+// 页面加载时自动读取云端定时任务生成的 cards_feed.json 静态数据流
+async function loadCloudStaticFeed() {
+  try {
+    const resp = await fetch('./cards_feed.json?t=' + Date.now());
+    if (resp.ok) {
+      const payload = await resp.json();
+      const cloudCards = Array.isArray(payload) ? payload : (payload.cards || []);
+      if (cloudCards.length > 0) {
+        cardsData.unshift(...cloudCards);
+      }
+    }
+  } catch (e) {
+    // 若未找到静态缓存则直接展示内置基准图卡
+  } finally {
+    renderCards('all');
+  }
+}
+
+loadCloudStaticFeed();
+</script>
+</body>
+</html>
