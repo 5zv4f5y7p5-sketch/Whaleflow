@@ -1,7 +1,417 @@
 {
-  "updated_at": "2026-11-03 23:29 UTC",
-  "total_cards": 24,
+  "updated_at": "2026-11-04 11:45 UTC",
+  "total_cards": 34,
   "cards": [
+    {
+      "id": "news_3591485",
+      "category": "macro",
+      "tag": "🌍 全球宏观巨鲸快讯",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "TradingView",
+      "heroMetric": "Key facts: BlackRock D...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-04",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "TradingView",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "全球宏观巨鲸快讯",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-04",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Key facts: BlackRock Discloses 10.19 Million Prologis Shares; Citadel Reports Transfer",
+      "instAvatar": "📡",
+      "instName": "TradingView",
+      "sourceName": "TradingView (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQU0o3MFl6U0VFTWUwdWJBV2FfWUs5SmxRR3dtR0V3b3VmSVIzNG04OFU0UkdkMFlHSDNsV2t2UGgxa1ppOVg3NGpscGpCX3JSZC15VXhFbHJ0a3UtQU9CV0ZGeU9PZ2FkbGRKUGhLNnVUMjNIU0MwRVhyekNtQlVKenRvTEJNbGI1Ylp1Q3VCMU8yeThvWmZVX05JZlJjbUFyXzJrZlBoZWZtRUVacVZVTmlfZDhmYzY0MUlxTU5UNDh5T2lDTncwbVJqaWZFMWMxcThON2p3eXFfU3VPbjhn?oc=5",
+      "filingDate": "2026-11-04",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Key facts: BlackRock Discloses 10.19 Million Prologis Shares; Citadel Reports Transfer",
+        "【信息来源与时间】首发媒体：TradingView | 原始时间戳：Wed, 04 Nov 2026 08:00:00 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_7535831",
+      "category": "macro",
+      "tag": "🌍 全球宏观巨鲸快讯",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "Simply Wall St",
+      "heroMetric": "This Insider Has Just ...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-04",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "Simply Wall St",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "全球宏观巨鲸快讯",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-04",
+          "val": "当日最新"
+        }
+      ],
+      "title": "This Insider Has Just Sold Shares In Bridgewater Bancshares",
+      "instAvatar": "📡",
+      "instName": "Simply Wall St",
+      "sourceName": "Simply Wall St (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMENpY1BxbXNOYVRGMUJ4YWltOEVQaXg0aHNyRkNYcW1nODlSUmFoclhHaXdsQlNycnM4cnJiLTdiZnc1TktCTk80S2FuOEFNNExmdFZEVnhaZE5sWHhkZklpeTVPbmF1VEtBZnRwYUFuMFl1UTZTOERKS1JJOFBhejltTGFIUlp0VFBwMzFGQmhvZTZMQTdKRXhJRUJnTVBOQnN0T1FrX1RnTTlJTDRGUFZhQjROQm5OY2tUeE1GOW02TzBjM05tS1NnaUlfNDVQXzRMVtIB2gFBVV95cUxOVjFrMWhfQ1R3R0gwNkw5TER5dnl4VVhfa3lZdkg4SlFLTGZzNVNVQ2dKcXpYREtaZ1hka1NBc3JyeUVSWTdodllnZDRmcDRRNktEdmxkWTAxd2tlclA5dFdheDM2Y0dJXzhPXzlTWWQ0dkV4aTNrbFFPMldtSXN1UU1OVjZDWWcwR2dfMFVMNjRDeVRMWExlLUx3eXZHbDUwYnJXdzZ6MUlvWUstWFgzYmJTOUp6N29uLS11M0xSSG9WcXd3cWRuc0N1SU0ycWtsYm0tNWdBV2tqZw?oc=5",
+      "filingDate": "2026-11-04",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】This Insider Has Just Sold Shares In Bridgewater Bancshares",
+        "【信息来源与时间】首发媒体：Simply Wall St | 原始时间戳：Wed, 04 Nov 2026 10:16:41 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_6644580",
+      "category": "hk_cn",
+      "tag": "🇨🇳 中资与港股外资席位",
+      "tagColor": "bg-amber-500/20 text-amber-300 border border-amber-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "东方财富",
+      "heroMetric": "中国人民银行加力实施股票回购增持再贷款政策",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-04",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "东方财富",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "中资与港股外资席位",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-04",
+          "val": "当日最新"
+        }
+      ],
+      "title": "中国人民银行加力实施股票回购增持再贷款政策",
+      "instAvatar": "📡",
+      "instName": "东方财富",
+      "sourceName": "东方财富 (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qZVhtdzI4OFFRdUlzZ3poZlowTFJubkdSZDNzZnBPdVRSRjZrT1otUWhWSkszaU1nVUtEUzJWdjJVWkdzYlNkRFBZS3dWcDZKeWVhNlZTbW0yN0RKTFJLLQ?oc=5",
+      "filingDate": "2026-11-04",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】中国人民银行加力实施股票回购增持再贷款政策",
+        "【信息来源与时间】首发媒体：东方财富 | 原始时间戳：Wed, 04 Nov 2026 01:12:13 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_4082775",
+      "category": "hk_cn",
+      "tag": "🇨🇳 中资与港股外资席位",
+      "tagColor": "bg-amber-500/20 text-amber-300 border border-amber-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "中金在线",
+      "heroMetric": "上海银行强化风险处置、夯实发展基础，中信证券...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-04",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "中金在线",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "中资与港股外资席位",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-04",
+          "val": "当日最新"
+        }
+      ],
+      "title": "上海银行强化风险处置、夯实发展基础，中信证券给予“增持”评级_银行业内动态",
+      "instAvatar": "📡",
+      "instName": "中金在线",
+      "sourceName": "中金在线 (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YOG1NMEtLZEUtTUdYU2VaTEZKNUN0b1hUYUJEMGxyVGlyaWdBZHpsaTdvRno5MVlWSFVVdTJVRGVlNTBHNVVMcDJrNVJybU5VcmZzRlRWcktmcnFycHRHMk5OUWV0Z29ENXdzd2J0VjBhS3M?oc=5",
+      "filingDate": "2026-11-04",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】上海银行强化风险处置、夯实发展基础，中信证券给予“增持”评级_银行业内动态",
+        "【信息来源与时间】首发媒体：中金在线 | 原始时间戳：Wed, 04 Nov 2026 07:28:01 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_9817151",
+      "category": "macro",
+      "tag": "🌍 全球宏观巨鲸快讯",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "Yahoo Finance",
+      "heroMetric": "Ackman calls stock mar...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-03",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "Yahoo Finance",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "全球宏观巨鲸快讯",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-03",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Ackman calls stock market \"broken\" but touts Visa, MasterCard and Netflix",
+      "instAvatar": "📡",
+      "instName": "Yahoo Finance",
+      "sourceName": "Yahoo Finance (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRUVQekMwVDh0SVZ5ZXpfVG5BeW1EZ3JmV1psRUI3Z2lRWjd1eU11RWluN1N1V1B4RjBHUlI4bjk1elNUQUZERFUweGhVak9xZ2w0T1RtQ2x0VGtVdG9NX3dlNy1rTkNXSklfT0prNVJMSjhXZFhPemp1ZW9ia0FaaXplSmNuT1lyR0o1dE5ZWjBjZDdTTm51S1lrUl9IQQ?oc=5",
+      "filingDate": "2026-11-03",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Ackman calls stock market \"broken\" but touts Visa, MasterCard and Netflix",
+        "【信息来源与时间】首发媒体：Yahoo Finance | 原始时间戳：Tue, 03 Nov 2026 19:01:09 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_8397929",
+      "category": "macro",
+      "tag": "🌍 全球宏观巨鲸快讯",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "BigGo Finance",
+      "heroMetric": "Ackman Puts $500 Billi...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-03",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "BigGo Finance",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "全球宏观巨鲸快讯",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-03",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Ackman Puts $500 Billion Price Tag on Fannie, Freddie Exit as Shares Surge",
+      "instAvatar": "📡",
+      "instName": "BigGo Finance",
+      "sourceName": "BigGo Finance (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tN0p4ZFJYTXVtdWdWVlZuSG1weTZST2JTaTBEUzZ1dHhqZG1zZUdOYVdxMkw4c18xZE9oZldvQWtldm4xdHZmSUs0N2NzRUYyWHIyYnNaRTdUSHVMSGZOQ1FycnVlT0RMRUNxalVlNm1NZV8tWUE?oc=5",
+      "filingDate": "2026-11-03",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Ackman Puts $500 Billion Price Tag on Fannie, Freddie Exit as Shares Surge",
+        "【信息来源与时间】首发媒体：BigGo Finance | 原始时间戳：Tue, 03 Nov 2026 20:35:00 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_9814411",
+      "category": "sovereign",
+      "tag": "🏛️ 主权与长线基金异动",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "Morningstar",
+      "heroMetric": "Berkshire Hathaway Sha...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-03",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "Morningstar",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "主权与长线基金异动",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-03",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Berkshire Hathaway Shares Are Up 11% This Year. Is the Stock a Buy Ahead of Earnings?",
+      "instAvatar": "📡",
+      "instName": "Morningstar",
+      "sourceName": "Morningstar (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRm5DaTN3NmRadmh5LVczYXBueVBlUnhtaDZrQ2FGRGtmS0J1WnRkOWcwQ1FmT1pLN0dwQUV2ajRWZENUTGRFRmRBMEpJdjBMbUVmcnB0ZGxRWTNDRWV6RlItbjBfWndhNWVhVVZuWkxWdUY5RnZmU3h5dVlfaXItdEs4NDN5RVdnTFF6RnNBWXZMTExSRUoyS3B6UTNiSE9qbWx2X3VHNVZYRENl?oc=5",
+      "filingDate": "2026-11-03",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Berkshire Hathaway Shares Are Up 11% This Year. Is the Stock a Buy Ahead of Earnings?",
+        "【信息来源与时间】首发媒体：Morningstar | 原始时间戳：Tue, 03 Nov 2026 19:44:12 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_9098111",
+      "category": "sovereign",
+      "tag": "🏛️ 主权与长线基金异动",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "Chief Investment O",
+      "heroMetric": "BlackRock Sees OCIO Ma...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-03",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "Chief Investme",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "主权与长线基金异动",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-03",
+          "val": "当日最新"
+        }
+      ],
+      "title": "BlackRock Sees OCIO Mandates Continuing to Grow in Size",
+      "instAvatar": "📡",
+      "instName": "Chief Investment Officer",
+      "sourceName": "Chief Investment Officer (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVmF5VHZGdElRcldyWTBlck9oUDdZaWtvVng3U2VZZUlKWXJNNFhaOF9paXNWR3d1ZkZ2Y0YxUVZkTTFwNUtTZDhtbnlmMUVmSm1mVEl5c3NuWEhLNWZlemJEZ2xXOTNPc2NnNE1lT1ZxdGhuV1g0S2trSGp3cmV5YUFSZE5EeVlYejl4Vw?oc=5",
+      "filingDate": "2026-11-03",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】BlackRock Sees OCIO Mandates Continuing to Grow in Size",
+        "【信息来源与时间】首发媒体：Chief Investment Officer | 原始时间戳：Tue, 03 Nov 2026 17:54:11 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_7488305",
+      "category": "hk_cn",
+      "tag": "🇨🇳 中资与港股外资席位",
+      "tagColor": "bg-amber-500/20 text-amber-300 border border-amber-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "J.P. Morgan Privat",
+      "heroMetric": "标普500指数如何突破9,000点 | 摩根...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-03",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "J.P. Morgan Pr",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "中资与港股外资席位",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-03",
+          "val": "当日最新"
+        }
+      ],
+      "title": "标普500指数如何突破9,000点 | 摩根大通私人银行亚洲",
+      "instAvatar": "📡",
+      "instName": "J.P. Morgan Private Bank",
+      "sourceName": "J.P. Morgan Private Bank (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZWl6WjNkTnRXYVdIU054RXVVYlJ6di1FYWdLZ1dub2NHTHlBTFM4NUtTRHdHbWZfYlFaZ0JORVIzek1vdGphWXhwa2FLc1ZIeGtqalJoeHo2R0lOLVowWENIVE1XN0NSY0FiWldJemo3MjgyMzJ0Q2xMRmE4WUdVUjBwNDZLSzJnX1JWV1l1MzJnaGhQSVNFSXJqT3JJdkxZOXJiTWQ3elNaTGhKZEhfaXNQQQ?oc=5",
+      "filingDate": "2026-11-03",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】标普500指数如何突破9,000点 | 摩根大通私人银行亚洲",
+        "【信息来源与时间】首发媒体：J.P. Morgan Private Bank | 原始时间戳：Tue, 03 Nov 2026 09:10:05 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_3898871",
+      "category": "sovereign",
+      "tag": "🏛️ 主权与长线基金异动",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "BlackRock",
+      "heroMetric": "Weekly market commenta...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-02",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "BlackRock",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "主权与长线基金异动",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-02",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Weekly market commentary",
+      "instAvatar": "📡",
+      "instName": "BlackRock",
+      "sourceName": "BlackRock (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+      "filingDate": "2026-11-02",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Weekly market commentary",
+        "【信息来源与时间】首发媒体：BlackRock | 原始时间戳：Mon, 02 Nov 2026 08:00:00 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
     {
       "id": "news_5657313",
       "category": "macro",
