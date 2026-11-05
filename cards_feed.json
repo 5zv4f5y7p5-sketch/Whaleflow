@@ -1,7 +1,499 @@
 {
-  "updated_at": "2026-11-05 11:45 UTC",
-  "total_cards": 58,
+  "updated_at": "2026-11-05 23:33 UTC",
+  "total_cards": 70,
   "cards": [
+    {
+      "id": "news_4592109",
+      "category": "macro",
+      "tag": "🌍 全球宏观巨鲸快讯",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "24/7 Wall St.",
+      "heroMetric": "Billionaire Bill Ackma...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-05",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "24/7 Wall St.",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "全球宏观巨鲸快讯",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-05",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Billionaire Bill Ackman Sees Potential $500 Billion Windfall — Even After These Investments Plunged 61%",
+      "instAvatar": "📡",
+      "instName": "24/7 Wall St.",
+      "sourceName": "24/7 Wall St. (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNS01oTXFfWDhKMUFZS3oyRThwV3M5VEt0cV9MQlp6Qm51U05mQmMzRjk5eDcxYjUtUzZXT2wyUzZBVmRSaUROdHp0dzd3cUlPWG5jT3V5bUNGanVhZUl6TTJBZ3dzNWRWNmVNdWthRk9hOXpPd1RWSGYwY3NMci16ZS1RY3RYMVNIWGtRSmMyTmxOS2huRWZxdVktZkFyRENRTmphdUxjdnRaZWx5VzcwZTNmTUZuV2xBSWFVM1E1bmF6T1k4RUFEYWxlWExHQ3d6cjJfTUJWQzZleXM?oc=5",
+      "filingDate": "2026-11-05",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Billionaire Bill Ackman Sees Potential $500 Billion Windfall — Even After These Investments Plunged 61%",
+        "【信息来源与时间】首发媒体：24/7 Wall St. | 原始时间戳：Thu, 05 Nov 2026 16:52:00 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_9179513",
+      "category": "sovereign",
+      "tag": "🏛️ 主权与长线基金异动",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "Morningstar",
+      "heroMetric": "Berkshire Hathaway Sha...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-05",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "Morningstar",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "主权与长线基金异动",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-05",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Berkshire Hathaway Shares Are Up 11% This Year. Is the Stock a Buy Ahead of Earnings?",
+      "instAvatar": "📡",
+      "instName": "Morningstar",
+      "sourceName": "Morningstar (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQak5Sd0pMYUk0aERTSUVoOXlTMXpCdk90V0dWSDVySW5HcEpyOVFQNUtUM2pDdTBKM2I3OERlbDRJcWk4OHVtdWdZazZEOXBfVDJzbk1RbmlaR3JMUmRnVUQ1bmpZVUdtVDNUUkJnTDhaZmtRaXdjci1CUklzVkE4RTc3TTZBMEkxNzYzWG5Qejk2anFWR3BESk11al9KWkVsMXNsRGlNeF9VRG5UMzFVcnlRbXdUa1oz?oc=5",
+      "filingDate": "2026-11-05",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Berkshire Hathaway Shares Are Up 11% This Year. Is the Stock a Buy Ahead of Earnings?",
+        "【信息来源与时间】首发媒体：Morningstar | 原始时间戳：Thu, 05 Nov 2026 10:30:29 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_63942",
+      "category": "sovereign",
+      "tag": "🏛️ 主权与长线基金异动",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "Investor's Busines",
+      "heroMetric": "Berkshire After Buffet...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-05",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "Investor's Bus",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "主权与长线基金异动",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-05",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Berkshire After Buffett: Steady Hands, Big Bets In The Greg Abel Era",
+      "instAvatar": "📡",
+      "instName": "Investor's Business Daily",
+      "sourceName": "Investor's Business Daily (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc1FqWWVkbUpRTGV3cVpaa1VnN3N0dk5zYnF6LVhBd1NjczU0UEJmV014ZUdBYno2akE5NTB6cC1XY2VMVnlUeVRoNnJqQ01Qbk5KRll2SlRQZVg2V1JGZDdOaVdmSEFxNWRZeVBCM2QtOUlnRnktM0pyU2FaWGh1dXoyN2Y0U1J6QWpSZmlSWEZSdDV2ODFodjA4QUx2V1p1MkE?oc=5",
+      "filingDate": "2026-11-05",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Berkshire After Buffett: Steady Hands, Big Bets In The Greg Abel Era",
+        "【信息来源与时间】首发媒体：Investor's Business Daily | 原始时间戳：Thu, 05 Nov 2026 22:53:00 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_6135981",
+      "category": "sovereign",
+      "tag": "🏛️ 主权与长线基金异动",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "Yahoo Finance UK",
+      "heroMetric": "BlackRock Investment T...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-05",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "Yahoo Finance ",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "主权与长线基金异动",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-05",
+          "val": "当日最新"
+        }
+      ],
+      "title": "BlackRock Investment Trusts - Net Asset Value(s)",
+      "instAvatar": "📡",
+      "instName": "Yahoo Finance UK",
+      "sourceName": "Yahoo Finance UK (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPM0xwVkRBVXRJU1Q1LXh1eGwtNHI5dFJQOTJiZlM3SmtaR0MwZzlOcnptN2l0bERQTS1wei1MYnF3NFJuaGwzX2JLal9XN19qaHRfbUR0RDZIMFNQZHgtRlBmZzhXVFBMRXA2dVJwOVdTdFhjeUM3TGhaR2VHdTVsamZTRTh3b1dGVEJuamJ0Zw?oc=5",
+      "filingDate": "2026-11-05",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】BlackRock Investment Trusts - Net Asset Value(s)",
+        "【信息来源与时间】首发媒体：Yahoo Finance UK | 原始时间戳：Thu, 05 Nov 2026 11:39:00 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_3979672",
+      "category": "hk_cn",
+      "tag": "🇨🇳 中资与港股外资席位",
+      "tagColor": "bg-amber-500/20 text-amber-300 border border-amber-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "东方财富",
+      "heroMetric": "持仓63亿！太保年内二度出手举牌中国神华",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-05",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "东方财富",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "中资与港股外资席位",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-05",
+          "val": "当日最新"
+        }
+      ],
+      "title": "持仓63亿！太保年内二度出手举牌中国神华",
+      "instAvatar": "📡",
+      "instName": "东方财富",
+      "sourceName": "东方财富 (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFNnBUMnltMWd4bkhvcE5iNnZUaURjaDFkOW1MZEhFM0d1ZW1jOVlvaXVxS3dJY2MtS2U0NEJNRXkxb284Q0VmRExSaGFmLVY0SW94RmNCMm5JQWJSSnloYw?oc=5",
+      "filingDate": "2026-11-05",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】持仓63亿！太保年内二度出手举牌中国神华",
+        "【信息来源与时间】首发媒体：东方财富 | 原始时间戳：Thu, 05 Nov 2026 14:45:37 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_3682722",
+      "category": "hk_cn",
+      "tag": "🇨🇳 中资与港股外资席位",
+      "tagColor": "bg-amber-500/20 text-amber-300 border border-amber-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "财联社",
+      "heroMetric": "央行：加力实施股票回购增持再贷款政策",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-05",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "财联社",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "中资与港股外资席位",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-05",
+          "val": "当日最新"
+        }
+      ],
+      "title": "央行：加力实施股票回购增持再贷款政策",
+      "instAvatar": "📡",
+      "instName": "财联社",
+      "sourceName": "财联社 (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9LX21NRDRHSkxjbjBGcGFDNnBjUmxhaHB3ck9pRmZ6RmR1STFUNG5Wci1KeFREX1I4Yk15SFVnQmM4enRnWnI1Zw?oc=5",
+      "filingDate": "2026-11-05",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】央行：加力实施股票回购增持再贷款政策",
+        "【信息来源与时间】首发媒体：财联社 | 原始时间戳：Thu, 05 Nov 2026 10:35:17 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_3861350",
+      "category": "hk_cn",
+      "tag": "🇨🇳 中资与港股外资席位",
+      "tagColor": "bg-amber-500/20 text-amber-300 border border-amber-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "证券之星",
+      "heroMetric": "超额完成三成！上海银行董事高管及中层干部完成...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-05",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "证券之星",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "中资与港股外资席位",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-05",
+          "val": "当日最新"
+        }
+      ],
+      "title": "超额完成三成！上海银行董事高管及中层干部完成1977万元增持_银行新闻",
+      "instAvatar": "📡",
+      "instName": "证券之星",
+      "sourceName": "证券之星 (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5abzNTZzFnWUJqUWUwWmJ6aU9kOWszelVBWDU5R2Y0QlREcW0zZ3l6QllzZm1aS2tVVWZRU1FrRWR6d1RJdjNDbldtN0ozelRwWXowU0x4NFM0WjNHVkpycA?oc=5",
+      "filingDate": "2026-11-05",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】超额完成三成！上海银行董事高管及中层干部完成1977万元增持_银行新闻",
+        "【信息来源与时间】首发媒体：证券之星 | 原始时间戳：Thu, 05 Nov 2026 08:58:47 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_7935625",
+      "category": "macro",
+      "tag": "🌍 全球宏观巨鲸快讯",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "Yahoo Finance",
+      "heroMetric": "Why Bill Ackman Says H...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-04",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "Yahoo Finance",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "全球宏观巨鲸快讯",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-04",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Why Bill Ackman Says He Feels Like “Markets Are Broken” Casinos",
+      "instAvatar": "📡",
+      "instName": "Yahoo Finance",
+      "sourceName": "Yahoo Finance (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWlEzd1JxY0YtSjJIZ2FQMFJLd0xkd3FaVjQ3c1dLVFdUQmdsa1ZMaVMtUmpTY1AwREJoTnVMcHJOX244VmUzb1A5UDFXUTNOZndHbklMNVNhSWdkTnZFa3dic3lsTGMtdXRMZXUwY1ZYdHpzWXp6MEg5T3VNQjhHRGlHWG15WnNaVTJmcWd2WHoxWlNNX1E?oc=5",
+      "filingDate": "2026-11-04",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Why Bill Ackman Says He Feels Like “Markets Are Broken” Casinos",
+        "【信息来源与时间】首发媒体：Yahoo Finance | 原始时间戳：Wed, 04 Nov 2026 17:56:21 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_8948094",
+      "category": "macro",
+      "tag": "🌍 全球宏观巨鲸快讯",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "TradingView",
+      "heroMetric": "Bridgewater Bancshares...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-04",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "TradingView",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "全球宏观巨鲸快讯",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-04",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Bridgewater Bancshares CEO Sold Shares Worth Over $812K",
+      "instAvatar": "📡",
+      "instName": "TradingView",
+      "sourceName": "TradingView (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSXIyR0UtVE5YX01vWERLclhKRDIzZld3MEpGMmxsNnZyUlE3TWhtbmdJUFNlMDlFbm9yY0VuNjJmTHhwNFdvcUNzaEFoVWNfRkVpVFNBQ2pLXy1Rd1BBaXpocExnanRTSHRQTGJCamNpZWFiYnQ0T0ZxcGFrZmpHaG1VamZKNURBUlZUd0pZdFh3T3F1R2h6Q1FRaEFhdG83S1FuV1BlU05iZ19NUUtUdDhjN1BxVEk?oc=5",
+      "filingDate": "2026-11-04",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Bridgewater Bancshares CEO Sold Shares Worth Over $812K",
+        "【信息来源与时间】首发媒体：TradingView | 原始时间戳：Wed, 04 Nov 2026 21:50:01 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_46365",
+      "category": "macro",
+      "tag": "🌍 全球宏观巨鲸快讯",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "BigGo Finance",
+      "heroMetric": "Ackman Puts $500 Billi...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-03",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "BigGo Finance",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "全球宏观巨鲸快讯",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-03",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Ackman Puts $500 Billion Price Tag on Fannie, Freddie Exit as Shares Surge",
+      "instAvatar": "📡",
+      "instName": "BigGo Finance",
+      "sourceName": "BigGo Finance (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tN0p4ZFJYTXVtdWdWVlZuSG1weTZST2JTaTBEUzZ1dHhqZG1zZUdOYVdxMkw4c18xZE9oZldvQWtldm4xdHZmSUs0N2NzRUYyWHIyYnNaRTdUSHVMSGZOQ1FycnVlT0RMRUNxalVlNm1NZV8tWUE?oc=5",
+      "filingDate": "2026-11-03",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Ackman Puts $500 Billion Price Tag on Fannie, Freddie Exit as Shares Surge",
+        "【信息来源与时间】首发媒体：BigGo Finance | 原始时间戳：Tue, 03 Nov 2026 20:35:00 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_7925346",
+      "category": "hk_cn",
+      "tag": "🇨🇳 中资与港股外资席位",
+      "tagColor": "bg-amber-500/20 text-amber-300 border border-amber-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "J.P. Morgan Privat",
+      "heroMetric": "跨越障碍：冲刺年末| 摩根大通私人银行亚洲",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-03",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "J.P. Morgan Pr",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "中资与港股外资席位",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-03",
+          "val": "当日最新"
+        }
+      ],
+      "title": "跨越障碍：冲刺年末| 摩根大通私人银行亚洲",
+      "instAvatar": "📡",
+      "instName": "J.P. Morgan Private Bank",
+      "sourceName": "J.P. Morgan Private Bank (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeXBsN0R1SWc2Q3JpRjN3QUlTdzczT2tKMVB0QWFZZnhZWFNFdEtEdGM2RERUcUp5SXNNdkNKdTRRSXVZRnZoX2N4ZzgzUnloUWtIa0Y1ZlpzSV9IakhhYXQzbkFZX214OFNsV2FFREZ5ZWxKdjZPdmh5UnktOXVpcU44SUVhMkhTNmExdkMwVnFMTWw0TWhzNUt5Q1l0d3pPekZxeUM5cUdxMV92ZkJ3MnVn?oc=5",
+      "filingDate": "2026-11-03",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】跨越障碍：冲刺年末| 摩根大通私人银行亚洲",
+        "【信息来源与时间】首发媒体：J.P. Morgan Private Bank | 原始时间戳：Tue, 03 Nov 2026 05:00:00 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_2263989",
+      "category": "sovereign",
+      "tag": "🏛️ 主权与长线基金异动",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "BlackRock",
+      "heroMetric": "Weekly market commenta...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-02",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "BlackRock",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "主权与长线基金异动",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-02",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Weekly market commentary",
+      "instAvatar": "📡",
+      "instName": "BlackRock",
+      "sourceName": "BlackRock (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+      "filingDate": "2026-11-02",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Weekly market commentary",
+        "【信息来源与时间】首发媒体：BlackRock | 原始时间戳：Mon, 02 Nov 2026 08:00:00 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
     {
       "id": "news_4916431",
       "category": "sovereign",
