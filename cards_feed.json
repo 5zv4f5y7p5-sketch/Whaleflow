@@ -1,7 +1,376 @@
 {
-  "updated_at": "2026-11-10 11:42 UTC",
-  "total_cards": 175,
+  "updated_at": "2026-11-10 23:24 UTC",
+  "total_cards": 184,
   "cards": [
+    {
+      "id": "news_4769990",
+      "category": "macro",
+      "tag": "🌍 全球宏观巨鲸快讯",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "fox10tv.com",
+      "heroMetric": "Photographer with Vall...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-10",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "fox10tv.com",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "全球宏观巨鲸快讯",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-10",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Photographer with Valley ties shares new exhibit at Bridgewater College",
+      "instAvatar": "📡",
+      "instName": "fox10tv.com",
+      "sourceName": "fox10tv.com (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNekZ4SVpqVmFzTTZGVjBkbXJnN29IXzcyZHhsa3pidEJTOXg5WExWVEZRbWNtd3ZBOGs1T0pfTjR2LS1WS2I2SzFwcnpvVy0wb19rcDJXUUJCWHluVVQyeGNESFd1dUZ3TGY0WlF0bVJJT01PUm5fUXFhVWNDSkFIbk9qQVN4QnhlWXlYcXRET21SUFR6M2FGbnVZZTVLS0lLWWR4czl6eW5NWmJ2TEk0?oc=5",
+      "filingDate": "2026-11-10",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Photographer with Valley ties shares new exhibit at Bridgewater College",
+        "【信息来源与时间】首发媒体：fox10tv.com | 原始时间戳：Tue, 10 Nov 2026 04:54:00 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_6904683",
+      "category": "sovereign",
+      "tag": "🏛️ 主权与长线基金异动",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "Yahoo Finance",
+      "heroMetric": "‘Baby Berkshire’ Portf...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-10",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "Yahoo Finance",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "主权与长线基金异动",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-10",
+          "val": "当日最新"
+        }
+      ],
+      "title": "‘Baby Berkshire’ Portfolio: 10 Best AI Stocks to Buy According to Warren Buffett Disciple Tom Gayner",
+      "instAvatar": "📡",
+      "instName": "Yahoo Finance",
+      "sourceName": "Yahoo Finance (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcThDYXV6T3FFWm8yRnVIY2RWbnNINDdOOTMwMmtXU3Q4ZW81c0JHaUpOSi1jZnJkMGZtZDNnVEZyWTA0R1VuYjNrLVNlZGJHSU1aN0NKeGRnTFpvalBHbFVkVDNaQVEwOXNLc2NtOUFOQWp1WWRFcjBWaHNUY0gzR2FQUlhlalJQQWVCUnE0S2VSZ2dubF90MW1lcFRBUQ?oc=5",
+      "filingDate": "2026-11-10",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】‘Baby Berkshire’ Portfolio: 10 Best AI Stocks to Buy According to Warren Buffett Disciple Tom Gayner",
+        "【信息来源与时间】首发媒体：Yahoo Finance | 原始时间戳：Tue, 10 Nov 2026 15:29:42 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_996445",
+      "category": "sovereign",
+      "tag": "🏛️ 主权与长线基金异动",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "Politico",
+      "heroMetric": "BlackRock's John Kelly...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-10",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "Politico",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "主权与长线基金异动",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-10",
+          "val": "当日最新"
+        }
+      ],
+      "title": "BlackRock's John Kelly talks investment environment, job market and more in wake of blue wave | POLITICO at B20 USA",
+      "instAvatar": "📡",
+      "instName": "Politico",
+      "sourceName": "Politico (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUmRsSkVoTEhBdVV3M3ljS3RXS1R6RlBocEptWXgwSDFNVEFiT2ZENUlSYkJuVG52cjFoYUFuR3R1UUhTUkxwVzBhLV81dVAwLUFvc3FiY0NaaXpHelcxYzhDQnd5cF9OTHB5bW1KQnhfVW5BblRtSGhpWkFoYlBLSG1ydXdlUmtVdDQtdDhnUmpISFF4LVNZbWxfejlfamlvV1pqeTIzUXlVVWhLQ3ZwMm5kR2pSSDhYai1MeFh5TUZVdi1aNUNnR00zZEFNY3VnZUthcXN3SUx1bEt0eWhlNkx5SGc2YUd2cm81TFROY3BXeGM?oc=5",
+      "filingDate": "2026-11-10",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】BlackRock's John Kelly talks investment environment, job market and more in wake of blue wave | POLITICO at B20 USA",
+        "【信息来源与时间】首发媒体：Politico | 原始时间戳：Tue, 10 Nov 2026 21:36:08 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_4887201",
+      "category": "hk_cn",
+      "tag": "🇨🇳 中资与港股外资席位",
+      "tagColor": "bg-amber-500/20 text-amber-300 border border-amber-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "J.P. Morgan Privat",
+      "heroMetric": "标普500指数如何突破9,000点 | 摩根...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-10",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "J.P. Morgan Pr",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "中资与港股外资席位",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-10",
+          "val": "当日最新"
+        }
+      ],
+      "title": "标普500指数如何突破9,000点 | 摩根大通私人银行亚洲",
+      "instAvatar": "📡",
+      "instName": "J.P. Morgan Private Bank",
+      "sourceName": "J.P. Morgan Private Bank (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZWl6WjNkTnRXYVdIU054RXVVYlJ6di1FYWdLZ1dub2NHTHlBTFM4NUtTRHdHbWZfYlFaZ0JORVIzek1vdGphWXhwa2FLc1ZIeGtqalJoeHo2R0lOLVowWENIVE1XN0NSY0FiWldJemo3MjgyMzJ0Q2xMRmE4WUdVUjBwNDZLSzJnX1JWV1l1MzJnaGhQSVNFSXJqT3JJdkxZOXJiTWQ3elNaTGhKZEhfaXNQQQ?oc=5",
+      "filingDate": "2026-11-10",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】标普500指数如何突破9,000点 | 摩根大通私人银行亚洲",
+        "【信息来源与时间】首发媒体：J.P. Morgan Private Bank | 原始时间戳：Tue, 10 Nov 2026 21:29:51 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_590844",
+      "category": "hk_cn",
+      "tag": "🇨🇳 中资与港股外资席位",
+      "tagColor": "bg-amber-500/20 text-amber-300 border border-amber-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "钢铁网",
+      "heroMetric": "有色持仓日报：沪铝跌3.45%，东证期货增持...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-10",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "钢铁网",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "中资与港股外资席位",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-10",
+          "val": "当日最新"
+        }
+      ],
+      "title": "有色持仓日报：沪铝跌3.45%，东证期货增持超3.2千手空单",
+      "instAvatar": "📡",
+      "instName": "钢铁网",
+      "sourceName": "钢铁网 (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xcWNkcUlfdDZKbGZma003ZGNMcVBwaDdyT1dpckl3aXR3N09NV2YtXzh3TkoyOWhqZmhpektLaXFfN0lzNDZtWGtyS0ZvNFNackRwWlZZLXUtTnRwY3hKVEdoRHZrRkpt?oc=5",
+      "filingDate": "2026-11-10",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】有色持仓日报：沪铝跌3.45%，东证期货增持超3.2千手空单",
+        "【信息来源与时间】首发媒体：钢铁网 | 原始时间戳：Tue, 10 Nov 2026 08:02:00 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_3305509",
+      "category": "sovereign",
+      "tag": "🏛️ 主权与长线基金异动",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "BlackRock",
+      "heroMetric": "Weekly market commenta...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-09",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "BlackRock",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "主权与长线基金异动",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-09",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Weekly market commentary",
+      "instAvatar": "📡",
+      "instName": "BlackRock",
+      "sourceName": "BlackRock (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+      "filingDate": "2026-11-09",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Weekly market commentary",
+        "【信息来源与时间】首发媒体：BlackRock | 原始时间戳：Mon, 09 Nov 2026 08:00:00 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_5763498",
+      "category": "hk_cn",
+      "tag": "🇨🇳 中资与港股外资席位",
+      "tagColor": "bg-amber-500/20 text-amber-300 border border-amber-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "湖南红网",
+      "heroMetric": "连续24个月，人民银行增持黄金！",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-09",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "湖南红网",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "中资与港股外资席位",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-09",
+          "val": "当日最新"
+        }
+      ],
+      "title": "连续24个月，人民银行增持黄金！",
+      "instAvatar": "📡",
+      "instName": "湖南红网",
+      "sourceName": "湖南红网 (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13cTRTc1BMVGR0UjJaUWN3R2FCUHFuSVBISGx0bXVXWXREaEV2aTdxUHZuMGxwZzJvVVRmc3dmR1VudEVCM2pLbjduY2hLb2xUWV9DTGZCN09yQUdIVzVWU0M3al9Edw?oc=5",
+      "filingDate": "2026-11-09",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】连续24个月，人民银行增持黄金！",
+        "【信息来源与时间】首发媒体：湖南红网 | 原始时间戳：Mon, 09 Nov 2026 01:25:32 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_8298798",
+      "category": "hk_cn",
+      "tag": "🇨🇳 中资与港股外资席位",
+      "tagColor": "bg-amber-500/20 text-amber-300 border border-amber-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "东方财富",
+      "heroMetric": "大股东加仓、管理层自购 年内多家银行获真金白...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-09",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "东方财富",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "中资与港股外资席位",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-09",
+          "val": "当日最新"
+        }
+      ],
+      "title": "大股东加仓、管理层自购 年内多家银行获真金白银增持",
+      "instAvatar": "📡",
+      "instName": "东方财富",
+      "sourceName": "东方财富 (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB6aW42aE5XMHZJS0l3TXpqNnYyWlB3ZjRTajFTQl9TemxHZllOT29JMVZCQTVYVTNWZVhBalpBaHVRNnZxZ09FSVdVT0Y3QjBkS1hDeERIRVN5YkF1RmUzR0FvZw?oc=5",
+      "filingDate": "2026-11-09",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】大股东加仓、管理层自购 年内多家银行获真金白银增持",
+        "【信息来源与时间】首发媒体：东方财富 | 原始时间戳：Mon, 09 Nov 2026 13:00:46 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_495116",
+      "category": "sovereign",
+      "tag": "🏛️ 主权与长线基金异动",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "CNBC",
+      "heroMetric": "Berkshire shares surge...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-07",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "CNBC",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "主权与长线基金异动",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-07",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Berkshire shares surge as Wall Street swoons amid AI fears",
+      "instAvatar": "📡",
+      "instName": "CNBC",
+      "sourceName": "CNBC (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQXgyQmpJT1lzSWhTZ01uZWJoRngzWm44N2hQT2lRcUNLWVZONlZQa3lHOTN0VE1zNEZvSjNzUEk4aThrNk1DbTZpazdtTm43TmJUYWNwYWlnTDJocHM3T3BybUpWSlM1ZElKTExkRTBoQy1NVy1zZDRCWHNPZDJFcXJReDR2OF81MkxPS282anN1UzRlUzNBb0tWTQ?oc=5",
+      "filingDate": "2026-11-07",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Berkshire shares surge as Wall Street swoons amid AI fears",
+        "【信息来源与时间】首发媒体：CNBC | 原始时间戳：Sat, 07 Nov 2026 12:49:19 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
     {
       "id": "news_3883097",
       "category": "macro",
