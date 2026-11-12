@@ -1,7 +1,458 @@
 {
-  "updated_at": "2026-11-11 23:39 UTC",
-  "total_cards": 202,
+  "updated_at": "2026-11-12 11:46 UTC",
+  "total_cards": 213,
   "cards": [
+    {
+      "id": "news_5657545",
+      "category": "macro",
+      "tag": "🌍 全球宏观巨鲸快讯",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "Bloomberg.com",
+      "heroMetric": "Citadel Builds Stake i...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-12",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "Bloomberg.com",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "全球宏观巨鲸快讯",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-12",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Citadel Builds Stake in Japanese Railway Firm Hankyu Hanshin",
+      "instAvatar": "📡",
+      "instName": "Bloomberg.com",
+      "sourceName": "Bloomberg.com (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTV81UHdsZEdyaUFDMzNZWXJLY0xjQzR1ZTQtaERkOXgzWGg1alNScGpOcXVwZ0xYSGhjQnEyWDNkcVpsbkNiUEpKYWdVamFUNDFZUUtydmwtQXh2SkpnOFRweGZKbHVnekwybDVMVGlfaGpWUHVCel8yMEVJNUxrcGpvUm83VVdfRGdSMFhlcy1meDhuSXJlS3hxa1lxejQzYWxkZml2NGZUT09ERjBDMjZn?oc=5",
+      "filingDate": "2026-11-12",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Citadel Builds Stake in Japanese Railway Firm Hankyu Hanshin",
+        "【信息来源与时间】首发媒体：Bloomberg.com | 原始时间戳：Thu, 12 Nov 2026 02:48:00 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_9752283",
+      "category": "macro",
+      "tag": "🌍 全球宏观巨鲸快讯",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "Hedgeweek",
+      "heroMetric": "Citadel builds 4.5% st...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-12",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "Hedgeweek",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "全球宏观巨鲸快讯",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-12",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Citadel builds 4.5% stake in Japanese railway operator Hankyu Hanshin",
+      "instAvatar": "📡",
+      "instName": "Hedgeweek",
+      "sourceName": "Hedgeweek (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbTRnb3Y5VjBadWxTcmczWkJlZzRlVm9NNTRZUm5WS00wdy1FaGdlZERZeTNiQ3ZBekM3ZS1faEJTVWM3dnBaODNqQVRqWWRjd1hvaGRneGZGY0owcWhUcXZCOS0tTUhEQWpZUVVwZVhwbzUzeXJSYllaVUhCZFFTMlhjdTktSXRIdEpnZXFxZkpHcndObDFLR1E3aw?oc=5",
+      "filingDate": "2026-11-12",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Citadel builds 4.5% stake in Japanese railway operator Hankyu Hanshin",
+        "【信息来源与时间】首发媒体：Hedgeweek | 原始时间戳：Thu, 12 Nov 2026 10:12:11 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_1372602",
+      "category": "sovereign",
+      "tag": "🏛️ 主权与长线基金异动",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "Reuters",
+      "heroMetric": "Singapore's Temasek to...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-12",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "Reuters",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "主权与长线基金异动",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-12",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Singapore's Temasek to invest $267 million in Godrej Industries' financial services arm",
+      "instAvatar": "📡",
+      "instName": "Reuters",
+      "sourceName": "Reuters (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONGNKbWRjYUdDVWczM0UtSi1hQVktWndmQXJVeVZRaXczbHBacy0xb2dLLUpJSmxxWGo3bG56OWoxRnVwSGJNR2N2dVNQQ213REFPOENPYXJNaUVpNllwWHV6VlNZWUl1M2JaRDhSbUxLdU1XZjJuemE2dkZmUlQza1Y5OTdtTkJGYzBKMzFsT0JBU24tTDl0YU9xSnNKN0tfQWZ4ajNwUVhyOTdqNW9tVkFSMjI0WkJtUlFGdExVVmpVNTZW?oc=5",
+      "filingDate": "2026-11-12",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Singapore's Temasek to invest $267 million in Godrej Industries' financial services arm",
+        "【信息来源与时间】首发媒体：Reuters | 原始时间戳：Thu, 12 Nov 2026 08:27:38 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_648466",
+      "category": "sovereign",
+      "tag": "🏛️ 主权与长线基金异动",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "Yahoo Finance UK",
+      "heroMetric": "BlackRock Greater Euro...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-12",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "Yahoo Finance ",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "主权与长线基金异动",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-12",
+          "val": "当日最新"
+        }
+      ],
+      "title": "BlackRock Greater Europe Investment Trust Plc - Total Voting Rights",
+      "instAvatar": "📡",
+      "instName": "Yahoo Finance UK",
+      "sourceName": "Yahoo Finance UK (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONko2Q0dqWjFTNk1IZ0ZKVUd5bEV1a0xXTEhabDJ6Q3JmM3pxVUFRRFdyaWRzTXZHNTd6NkpRYXIwMHl1ODl3ZXJnclNfVkVnc0M3YVNLVmhvUzZWbENhNE1STWJQVHJNUk90eFNKUF92ZUhnTE8yeXNlSHlYR2FIWjFjMW5jMm1Vbmw4Q0FubGZ6QnF1?oc=5",
+      "filingDate": "2026-11-12",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】BlackRock Greater Europe Investment Trust Plc - Total Voting Rights",
+        "【信息来源与时间】首发媒体：Yahoo Finance UK | 原始时间戳：Thu, 12 Nov 2026 07:00:00 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_5886428",
+      "category": "hk_cn",
+      "tag": "🇨🇳 中资与港股外资席位",
+      "tagColor": "bg-amber-500/20 text-amber-300 border border-amber-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "Sohu",
+      "heroMetric": "崔保强Cameron Chui，出任摩根大通...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-12",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "Sohu",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "中资与港股外资席位",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-12",
+          "val": "当日最新"
+        }
+      ],
+      "title": "崔保强Cameron Chui，出任摩根大通私人银行股票策略部亚洲主管",
+      "instAvatar": "📡",
+      "instName": "Sohu",
+      "sourceName": "Sohu (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbld4QWh3RnFyMF9aRWU1S2xfRHBJbVRNc1BCamhPYkpYbnFfbGloODJ6YWl2RjhieTA5VkJUQld1WDRNQW9XYkktbWNoNlRBa0JUaER1dUoyendvYUFTY2ZFX0hMZDJkUVVBem01OUZ3WGVIdS1kOE9UZmdCMElJelAxWjVvWGdtNUdDOQ?oc=5",
+      "filingDate": "2026-11-12",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】崔保强Cameron Chui，出任摩根大通私人银行股票策略部亚洲主管",
+        "【信息来源与时间】首发媒体：Sohu | 原始时间戳：Thu, 12 Nov 2026 05:30:40 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_5768015",
+      "category": "hk_cn",
+      "tag": "🇨🇳 中资与港股外资席位",
+      "tagColor": "bg-amber-500/20 text-amber-300 border border-amber-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "手机新浪网",
+      "heroMetric": "财富规划师已成私行“稀缺资产”",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-12",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "手机新浪网",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "中资与港股外资席位",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-12",
+          "val": "当日最新"
+        }
+      ],
+      "title": "财富规划师已成私行“稀缺资产”",
+      "instAvatar": "📡",
+      "instName": "手机新浪网",
+      "sourceName": "手机新浪网 (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPejhKVm5YLUZBVEpyRU8wbFNSZXR3b1F5UXpqM2k0MVJoYTR0dEJTYkNmMi10WjF2bnhqcm1JZDJiSk5vWElmQUpra2JMbzZuZndfOEN4emsyWWhiakMxYkVTcXpGbFowVDI1OEJxT0NRSzdTMXFnajNoMkxZbVBhQzJzZw?oc=5",
+      "filingDate": "2026-11-12",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】财富规划师已成私行“稀缺资产”",
+        "【信息来源与时间】首发媒体：手机新浪网 | 原始时间戳：Thu, 12 Nov 2026 00:18:00 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_5615425",
+      "category": "macro",
+      "tag": "🌍 全球宏观巨鲸快讯",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "WHSV",
+      "heroMetric": "Photographer with Vall...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-10",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "WHSV",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "全球宏观巨鲸快讯",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-10",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Photographer with Valley ties shares new exhibit at Bridgewater College",
+      "instAvatar": "📡",
+      "instName": "WHSV",
+      "sourceName": "WHSV (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQajBWd05wOVQ2bktDUzhYMWd5ZERtV3BZeWZnaXZjOHFGS3UxUnRhUzY0VDRndHllWXhueDZHanJZRlRlNnNJSG5OVnlYUFBBcmFZWDVQcjVoYmVxeWlwX2lwZ25OanZxVW1QeTYyMDZZcU83NkxNbkI4X3d1WkFGYUUwOU9PVDZZNjdaSWljUnk5bzBOWi1LZnl4My1zYVc1YzhF0gG3AUFVX3lxTE9DVWJwSnYzT2JSM3NRMW9pUGM3YUJrRlJFWV9HWU94WHZUU1Z4bVAtYlBuUnZFTF8tbkRFUzJ3bmpPQThiMDRRQjlrWlA4Vm1mNXlZYmxJZGJjRmtORGJTRHRCZzlGMVd5aEoyUk10RElBd0NreTJOT3JYVlhacFBLWkdmS1VZSDFCV2VteHV2bXJ0VGZkdDRHM3VBREttRWpqWWMycjNEdlJBRTdPYTU3c3owTzJwZw?oc=5",
+      "filingDate": "2026-11-10",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Photographer with Valley ties shares new exhibit at Bridgewater College",
+        "【信息来源与时间】首发媒体：WHSV | 原始时间戳：Tue, 10 Nov 2026 05:19:00 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_841916",
+      "category": "hk_cn",
+      "tag": "🇨🇳 中资与港股外资席位",
+      "tagColor": "bg-amber-500/20 text-amber-300 border border-amber-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "J.P. Morgan Privat",
+      "heroMetric": "标普500指数如何突破9,000点 | 摩根...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-10",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "J.P. Morgan Pr",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "中资与港股外资席位",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-10",
+          "val": "当日最新"
+        }
+      ],
+      "title": "标普500指数如何突破9,000点 | 摩根大通私人银行亚洲",
+      "instAvatar": "📡",
+      "instName": "J.P. Morgan Private Bank",
+      "sourceName": "J.P. Morgan Private Bank (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZWl6WjNkTnRXYVdIU054RXVVYlJ6di1FYWdLZ1dub2NHTHlBTFM4NUtTRHdHbWZfYlFaZ0JORVIzek1vdGphWXhwa2FLc1ZIeGtqalJoeHo2R0lOLVowWENIVE1XN0NSY0FiWldJemo3MjgyMzJ0Q2xMRmE4WUdVUjBwNDZLSzJnX1JWV1l1MzJnaGhQSVNFSXJqT3JJdkxZOXJiTWQ3elNaTGhKZEhfaXNQQQ?oc=5",
+      "filingDate": "2026-11-10",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】标普500指数如何突破9,000点 | 摩根大通私人银行亚洲",
+        "【信息来源与时间】首发媒体：J.P. Morgan Private Bank | 原始时间戳：Tue, 10 Nov 2026 21:29:51 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_2032670",
+      "category": "hk_cn",
+      "tag": "🇨🇳 中资与港股外资席位",
+      "tagColor": "bg-amber-500/20 text-amber-300 border border-amber-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "东方财富",
+      "heroMetric": "有进有退 险资差异化配置银行股",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-10",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "东方财富",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "中资与港股外资席位",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-10",
+          "val": "当日最新"
+        }
+      ],
+      "title": "有进有退 险资差异化配置银行股",
+      "instAvatar": "📡",
+      "instName": "东方财富",
+      "sourceName": "东方财富 (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zZG56RUlMQXBIVWVraUxsUUVCM0U3c2hwNFNPNVoycGhnZjVzMVVYclVXZGRvOVJJY0RKREtuTldncVVkOVVTWEpPbDdoYnVrY3pqcEFscXV3bENyTmJNU0JhSjc3dw?oc=5",
+      "filingDate": "2026-11-10",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】有进有退 险资差异化配置银行股",
+        "【信息来源与时间】首发媒体：东方财富 | 原始时间戳：Tue, 10 Nov 2026 18:27:26 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_8463272",
+      "category": "sovereign",
+      "tag": "🏛️ 主权与长线基金异动",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "BlackRock",
+      "heroMetric": "Weekly market commenta...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-09",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "BlackRock",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "主权与长线基金异动",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-09",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Weekly market commentary",
+      "instAvatar": "📡",
+      "instName": "BlackRock",
+      "sourceName": "BlackRock (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+      "filingDate": "2026-11-09",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Weekly market commentary",
+        "【信息来源与时间】首发媒体：BlackRock | 原始时间戳：Mon, 09 Nov 2026 08:00:00 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_1326107",
+      "category": "macro",
+      "tag": "🌍 全球宏观巨鲸快讯",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "Reuters",
+      "heroMetric": "Citadel buys most of S...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-07-30",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "Reuters",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "全球宏观巨鲸快讯",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-07-30",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Citadel buys most of Situational's stock holdings after AI share rout, sources say",
+      "instAvatar": "📡",
+      "instName": "Reuters",
+      "sourceName": "Reuters (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcHJIU1otWHVrMEU0Y1FqRFhmazB2bklSYzhzSzRsQXNJZzFzbk9SM3ZEU2hBZ2ZiWVlTMnhwcWZzTXJhamcxREluUnZDbWNCZjlYbVBSLU5aaGoxbWhYN1BsYy1ZTDN1M2VZampoaGVvNmZWSEsydnptM05OWlQ0QWFmbGd4M1h4WjZzR0RpMUZQRWpaOVh3UGhMenFZMmk5djdxOURGb25qeDh5b01udEU2UFVDNWRNSkhnY2x5Rk8wZw?oc=5",
+      "filingDate": "2026-07-30",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Citadel buys most of Situational's stock holdings after AI share rout, sources say",
+        "【信息来源与时间】首发媒体：Reuters | 原始时间戳：Thu, 30 Jul 2026 07:00:00 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
     {
       "id": "news_6295201",
       "category": "sovereign",
