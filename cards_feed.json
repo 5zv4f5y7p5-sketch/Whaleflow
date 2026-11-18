@@ -1,7 +1,499 @@
 {
-  "updated_at": "2026-11-17 23:39 UTC",
+  "updated_at": "2026-11-18 11:49 UTC",
   "total_cards": 300,
   "cards": [
+    {
+      "id": "news_2055678",
+      "category": "macro",
+      "tag": "🌍 全球宏观巨鲸快讯",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "Benzinga",
+      "heroMetric": "Druckenmiller Buys Min...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-18",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "Benzinga",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "全球宏观巨鲸快讯",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-18",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Druckenmiller Buys Miners, Warns '27 Could Be 'Disappointing'",
+      "instAvatar": "📡",
+      "instName": "Benzinga",
+      "sourceName": "Benzinga (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTElxcW9PU0VsTDRmc0FvOHJqUFJCd25kNlYzRzM4MGEzcTJOV082TU00VEV0OGtBV21sckdyb0hPRUVyandVaEpjNHBtY0dBRUZCX1NWdmxzNmx4M3B1RWpNcDh3dGlDTzQ5SmM0MG5KdUNSWVJxaFJaaWtTOGR0WHR0M1pVNV9SWFgxTXQzR2lRRk5Wa1ZXUlFvbnUzZUxXZEVwZndQbXA3SFBqYzJKSHR0RmpVd0g3?oc=5",
+      "filingDate": "2026-11-18",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Druckenmiller Buys Miners, Warns '27 Could Be 'Disappointing'",
+        "【信息来源与时间】首发媒体：Benzinga | 原始时间戳：Wed, 18 Nov 2026 10:22:40 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_9148580",
+      "category": "macro",
+      "tag": "🌍 全球宏观巨鲸快讯",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "Yahoo Finance",
+      "heroMetric": "Newmont (NEM) Drew A N...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-18",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "Yahoo Finance",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "全球宏观巨鲸快讯",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-18",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Newmont (NEM) Drew A New Stake From Stanley Druckenmiller’s Family Office",
+      "instAvatar": "📡",
+      "instName": "Yahoo Finance",
+      "sourceName": "Yahoo Finance (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc21oajFma0RHbnVLU3I3X1lwbmc2R1NvcjNTeDVmZ0c0WHBaOVMzZExodGVSaWdINE80Rm9oRUlYMGl5REZsZkpRLTBDZnVpdk9xNWNRNExkMWdjdzFQZ3pGRlhHNUJ6anFUd0FDOEg5Rk5DSUFWaUU4UnNtNUViWFFNZHk3NDhQT3NkRnpDLW4xRi1reGZHZndETQ?oc=5",
+      "filingDate": "2026-11-18",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Newmont (NEM) Drew A New Stake From Stanley Druckenmiller’s Family Office",
+        "【信息来源与时间】首发媒体：Yahoo Finance | 原始时间戳：Wed, 18 Nov 2026 05:04:17 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_9085330",
+      "category": "macro",
+      "tag": "🌍 全球宏观巨鲸快讯",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "BeInCrypto",
+      "heroMetric": "Investor Stanley Druck...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-18",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "BeInCrypto",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "全球宏观巨鲸快讯",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-18",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Investor Stanley Druckenmiller Is in “Capital Preservation” Mode. What Did He Sell?",
+      "instAvatar": "📡",
+      "instName": "BeInCrypto",
+      "sourceName": "BeInCrypto (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5kNlE5aDV2RGdDLWlCVEp6VElDNXdmNS0xZ1lMdjlXaVpodXdlVEFwQXNGemxkQzdMWkJtUjlsNVBUMlpoYXZRTkU1Z3pISVB3d0llWW1UNHFDVnR2LVl5U0NXNk5lVTNFTmdSN1hqbW1MazA?oc=5",
+      "filingDate": "2026-11-18",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Investor Stanley Druckenmiller Is in “Capital Preservation” Mode. What Did He Sell?",
+        "【信息来源与时间】首发媒体：BeInCrypto | 原始时间戳：Wed, 18 Nov 2026 10:49:02 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_5803101",
+      "category": "macro",
+      "tag": "🌍 全球宏观巨鲸快讯",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "BigGo Finance",
+      "heroMetric": "Druckenmiller Slashes ...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-18",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "BigGo Finance",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "全球宏观巨鲸快讯",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-18",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Druckenmiller Slashes TSMC Stake by 94%, Bets on HDDs as AI Investment Axis Shifts to Storage",
+      "instAvatar": "📡",
+      "instName": "BigGo Finance",
+      "sourceName": "BigGo Finance (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90cFpIeFRKNWtKNVFpdHd3Z3J1YXZFa252Mjl3QTdCTGM4c2lnN0ptb3k1R3Qzbjg1NGI4MmlkVVlVdEhLbUR1ZlBseW1od3EzeVJnZXIybmhGekxyVWM5bVdhcWVudkQ1Y2hRUWlKdDNObklxOEE?oc=5",
+      "filingDate": "2026-11-18",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Druckenmiller Slashes TSMC Stake by 94%, Bets on HDDs as AI Investment Axis Shifts to Storage",
+        "【信息来源与时间】首发媒体：BigGo Finance | 原始时间戳：Wed, 18 Nov 2026 10:55:00 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_6760149",
+      "category": "sovereign",
+      "tag": "🏛️ 主权与长线基金异动",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "InvestmentNews",
+      "heroMetric": "NewEdge taps BlackRock...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-18",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "InvestmentNews",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "主权与长线基金异动",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-18",
+          "val": "当日最新"
+        }
+      ],
+      "title": "NewEdge taps BlackRock veteran to lead strategic initiatives",
+      "instAvatar": "📡",
+      "instName": "InvestmentNews",
+      "sourceName": "InvestmentNews (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRzdIVVJiQ0pQc1VOMVlQVXRHTUVNVFNJYWpJbm1Wd3ZTZ09uM3YyQncyVXd0TDFrNHhDRjNndXNkNFFKNHZoWC1YTEFJR3Jia1JpYWtfQmZfeERIRndlbDhNMnV5OGhSQjB4Ri1yOVdmQ044U0hRa0VvalhsODRvWlBqT21JM0J6c0QxZXdOTUo0eFU1emFnZVpmMTRYVVA2bW9rT0owMjViMzg?oc=5",
+      "filingDate": "2026-11-18",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】NewEdge taps BlackRock veteran to lead strategic initiatives",
+        "【信息来源与时间】首发媒体：InvestmentNews | 原始时间戳：Wed, 18 Nov 2026 11:38:55 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_5135233",
+      "category": "sovereign",
+      "tag": "🏛️ 主权与长线基金异动",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "Yahoo Finance",
+      "heroMetric": "Warren Buffett Just Ga...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-18",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "Yahoo Finance",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "主权与长线基金异动",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-18",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Warren Buffett Just Gave Away $5.5 Billion of Berkshire Stock. He Says His Confidence in Berkshire Is \"As Strong as Ever.\"",
+      "instAvatar": "📡",
+      "instName": "Yahoo Finance",
+      "sourceName": "Yahoo Finance (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZWE3aFRHaTlWWkdRRUxteUdMX1pOSVRBc1NlNmZTMFZlMEdMeHVQRDdSY1JfNlZHMVRZaHJNdkthM3ByYm1udHVFMVROVHhuVk82eGJtcFVXS3pDOTdrQmRfa0dEQ0lTUlNGcW1GenlDQ2QyWGt5dGVuaFNMRmNIQzBaMkt4c1JoenBsQlhEeTBXMmxNR3l0cFlR?oc=5",
+      "filingDate": "2026-11-18",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Warren Buffett Just Gave Away $5.5 Billion of Berkshire Stock. He Says His Confidence in Berkshire Is \"As Strong as Ever.\"",
+        "【信息来源与时间】首发媒体：Yahoo Finance | 原始时间戳：Wed, 18 Nov 2026 01:54:00 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_4343978",
+      "category": "hk_cn",
+      "tag": "🇨🇳 中资与港股外资席位",
+      "tagColor": "bg-amber-500/20 text-amber-300 border border-amber-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "财新",
+      "heroMetric": "摩根大通系统故障波及多家美国银行 基础服务稳...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-18",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "财新",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "中资与港股外资席位",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-18",
+          "val": "当日最新"
+        }
+      ],
+      "title": "摩根大通系统故障波及多家美国银行 基础服务稳定性受考验",
+      "instAvatar": "📡",
+      "instName": "财新",
+      "sourceName": "财新 (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtb0sxNi1kemxHOTZTTXhpb2hHS29WX1dwXzZiT25uQi1nbEczbkJBTVFBYmstZkZaX1kxNWFBNjcwRHBxMmh4ekpqV2huTEhsaHRacTNhQ2MtUWp4bnVDenpMLXI?oc=5",
+      "filingDate": "2026-11-18",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】摩根大通系统故障波及多家美国银行 基础服务稳定性受考验",
+        "【信息来源与时间】首发媒体：财新 | 原始时间戳：Wed, 18 Nov 2026 06:44:00 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_7568998",
+      "category": "hk_cn",
+      "tag": "🇨🇳 中资与港股外资席位",
+      "tagColor": "bg-amber-500/20 text-amber-300 border border-amber-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "21财经",
+      "heroMetric": "回购增持再贷款扩围：红利资产迎来政策“护航”",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-18",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "21财经",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "中资与港股外资席位",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-18",
+          "val": "当日最新"
+        }
+      ],
+      "title": "回购增持再贷款扩围：红利资产迎来政策“护航”",
+      "instAvatar": "📡",
+      "instName": "21财经",
+      "sourceName": "21财经 (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNmw1Z2tJbnhhRVpVclZudENDM0ppRWdVNWF2UDJsc1lxMVRVUG1VV0lqVDg5RmhNaWpkNzRFbm55S09sdkEtd2gtRVNwLTRxQlFBdWdXdk03LTR1Q09SdE51bUxuTnZYVHdBMlVOeDNKblJ6ZTUyUktKUWU5Y1lHbkNaY3FzbGpGR0RmWWg2aw?oc=5",
+      "filingDate": "2026-11-18",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】回购增持再贷款扩围：红利资产迎来政策“护航”",
+        "【信息来源与时间】首发媒体：21财经 | 原始时间戳：Wed, 18 Nov 2026 07:12:00 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_9400776",
+      "category": "hk_cn",
+      "tag": "🇨🇳 中资与港股外资席位",
+      "tagColor": "bg-amber-500/20 text-amber-300 border border-amber-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "南方财经",
+      "heroMetric": "南方财经全媒体集团",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-18",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "南方财经",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "中资与港股外资席位",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-18",
+          "val": "当日最新"
+        }
+      ],
+      "title": "南方财经全媒体集团",
+      "instAvatar": "📡",
+      "instName": "南方财经",
+      "sourceName": "南方财经 (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlVmtIMnJqb0xuaWJmalE0dDFuQktRZW44cTBxc0N6MV9ydEdFUkxDWGdNZm01bnBDOHBqWXNsdUx1MUNjaVU4NXFrM01vRWN6bGZYU092N3FfTVY4dTZJYmhCVWkzN0hpekE?oc=5",
+      "filingDate": "2026-11-18",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】南方财经全媒体集团",
+        "【信息来源与时间】首发媒体：南方财经 | 原始时间戳：Wed, 18 Nov 2026 09:09:08 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_8949151",
+      "category": "hk_cn",
+      "tag": "🇨🇳 中资与港股外资席位",
+      "tagColor": "bg-amber-500/20 text-amber-300 border border-amber-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "国际金融报",
+      "heroMetric": "伯克希尔Q3持仓报告出炉：减持美国银行，全新...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-17",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "国际金融报",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "中资与港股外资席位",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-17",
+          "val": "当日最新"
+        }
+      ],
+      "title": "伯克希尔Q3持仓报告出炉：减持美国银行，全新建仓披露",
+      "instAvatar": "📡",
+      "instName": "国际金融报",
+      "sourceName": "国际金融报 (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Cb3VfSFQ2dzBPcVNmM2Ixd1loaVpzWWlCNkpBa3ZxNEdMRExCQWF5MEdrWUMtVTFLTGtJcjFIeXk2LUY1dGN0LWx0bU91dDNFM1pOWjVwTnVQcnVHTUI0?oc=5",
+      "filingDate": "2026-11-17",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】伯克希尔Q3持仓报告出炉：减持美国银行，全新建仓披露",
+        "【信息来源与时间】首发媒体：国际金融报 | 原始时间戳：Tue, 17 Nov 2026 14:24:00 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_516335",
+      "category": "sovereign",
+      "tag": "🏛️ 主权与长线基金异动",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "BlackRock",
+      "heroMetric": "Weekly market commenta...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-16",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "BlackRock",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "主权与长线基金异动",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-16",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Weekly market commentary",
+      "instAvatar": "📡",
+      "instName": "BlackRock",
+      "sourceName": "BlackRock (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+      "filingDate": "2026-11-16",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Weekly market commentary",
+        "【信息来源与时间】首发媒体：BlackRock | 原始时间戳：Mon, 16 Nov 2026 08:00:00 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_1157522",
+      "category": "sovereign",
+      "tag": "🏛️ 主权与长线基金异动",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "WSJ",
+      "heroMetric": "Berkshire Boosts Stake...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-16",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "WSJ",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "主权与长线基金异动",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-16",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Berkshire Boosts Stake in Lennar, Doubling Down on Its U.S. Housing Bet",
+      "instAvatar": "📡",
+      "instName": "WSJ",
+      "sourceName": "WSJ (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaTMyWlBkeVVjYW5mWmZ0RFFmcE9KX1FJNnpxRDRnaEFpblpPS0FOQ1MyZE1hakZfRVhfTVZwX2owSUoxVGpvaUN1Q2xSUURBMWtJbzRySDRBLWZUTFMxOE5YMGVWYXd5b1hVMFpBd09vcFRvdGtfZmREUXJjbEdoUDZLTTlBcHB6NVlHQTY2Q3ZTRXRuY3lxVFd5YjRqNnBMcHZNUnJLU0trM2h1NEltd3Zobw?oc=5",
+      "filingDate": "2026-11-16",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Berkshire Boosts Stake in Lennar, Doubling Down on Its U.S. Housing Bet",
+        "【信息来源与时间】首发媒体：WSJ | 原始时间戳：Mon, 16 Nov 2026 22:51:00 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
     {
       "id": "news_8150417",
       "category": "macro",
@@ -11807,498 +12299,6 @@
       "detailLogic": [
         "【实时异动快讯】Bridgewater Bancshares CEO Sold Shares Worth Over $812K",
         "【信息来源与时间】首发媒体：TradingView | 原始时间戳：Wed, 04 Nov 2026 21:50:01 GMT",
-        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
-      ]
-    },
-    {
-      "id": "news_916562",
-      "category": "macro",
-      "tag": "🌍 全球宏观巨鲸快讯",
-      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
-      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
-      "accentColor": "#38bdf8",
-      "heroTicker": "24/7 Wall St.",
-      "heroMetric": "Fannie Mae Jumped 9% a...",
-      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-04",
-      "subData": [
-        {
-          "name": "信源媒体",
-          "action": "24/7 Wall St.",
-          "val": "实时快讯"
-        },
-        {
-          "name": "监控维度",
-          "action": "全球宏观巨鲸快讯",
-          "val": "7×24 滚动"
-        },
-        {
-          "name": "发布日期",
-          "action": "2026-11-04",
-          "val": "当日最新"
-        }
-      ],
-      "title": "Fannie Mae Jumped 9% and Freddie Mac 7% on Election Day as Ackman Pushes for an Exit",
-      "instAvatar": "📡",
-      "instName": "24/7 Wall St.",
-      "sourceName": "24/7 Wall St. (实时快讯)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQXdsU0N3Tl9oOWU4Z25tV3I1bk9aMDB1Qk5vUVduTHVwY2hVLUV5SERxM01PeDhrZGE2TUkzdDYwZHRFQXpnNERaaWpvcXVVVXRlRzdDekxBZUZ3VXFkX1BjeElRWHZ5ZWhmYll4Y3FWSU1IUEN2SkNUaXNXVVNsTjVfQWM4SUY5S3VNQU84T0phSzJtSzBhYkgtTFdxcVFsaHZoZUNLU3RKZEk4Z3NRWWw0RGFZeUN5eGxHZmtnc2M0eGZf?oc=5",
-      "filingDate": "2026-11-04",
-      "reportPeriod": "7×24 实时流",
-      "conviction": "8.8 / 10",
-      "detailLogic": [
-        "【实时异动快讯】Fannie Mae Jumped 9% and Freddie Mac 7% on Election Day as Ackman Pushes for an Exit",
-        "【信息来源与时间】首发媒体：24/7 Wall St. | 原始时间戳：Wed, 04 Nov 2026 16:29:00 GMT",
-        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
-      ]
-    },
-    {
-      "id": "news_2136863",
-      "category": "macro",
-      "tag": "🌍 全球宏观巨鲸快讯",
-      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
-      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
-      "accentColor": "#38bdf8",
-      "heroTicker": "Stock Titan",
-      "heroMetric": "CEO Jerry J. Baack sol...",
-      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-04",
-      "subData": [
-        {
-          "name": "信源媒体",
-          "action": "Stock Titan",
-          "val": "实时快讯"
-        },
-        {
-          "name": "监控维度",
-          "action": "全球宏观巨鲸快讯",
-          "val": "7×24 滚动"
-        },
-        {
-          "name": "发布日期",
-          "action": "2026-11-04",
-          "val": "当日最新"
-        }
-      ],
-      "title": "CEO Jerry J. Baack sold 20,000 Bridgewater Bancshares (BWB) shares each on November 2 and 3.",
-      "instAvatar": "📡",
-      "instName": "Stock Titan",
-      "sourceName": "Stock Titan (实时快讯)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORGxmYThRTDFScTVza1RldURoSzlPejZoN25DUmZaeDAtWDRWTzRpcXRlNnRzdUhCZFF6M2pBekFnYmw1U0cyZmFVSEJvekIxaDRMRTNVbGtKUGI5MG1MbVhfMkVaN0c2d3BTMGZVdUhnZGxIY21RZzgyc01yM1htSDY0YVdlSW9XNjRkcU9OamJLSVJMT3J6MVNtNnhJMkRUcVZ3azhiZkNReUgtbUNEOWd1ZXdrWE42bW9Z?oc=5",
-      "filingDate": "2026-11-04",
-      "reportPeriod": "7×24 实时流",
-      "conviction": "8.8 / 10",
-      "detailLogic": [
-        "【实时异动快讯】CEO Jerry J. Baack sold 20,000 Bridgewater Bancshares (BWB) shares each on November 2 and 3.",
-        "【信息来源与时间】首发媒体：Stock Titan | 原始时间戳：Wed, 04 Nov 2026 21:48:36 GMT",
-        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
-      ]
-    },
-    {
-      "id": "news_4567984",
-      "category": "sovereign",
-      "tag": "🏛️ 主权与长线基金异动",
-      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
-      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
-      "accentColor": "#38bdf8",
-      "heroTicker": "ETF Database",
-      "heroMetric": "Berkshire Hathaway Ear...",
-      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-04",
-      "subData": [
-        {
-          "name": "信源媒体",
-          "action": "ETF Database",
-          "val": "实时快讯"
-        },
-        {
-          "name": "监控维度",
-          "action": "主权与长线基金异动",
-          "val": "7×24 滚动"
-        },
-        {
-          "name": "发布日期",
-          "action": "2026-11-04",
-          "val": "当日最新"
-        }
-      ],
-      "title": "Berkshire Hathaway Earnings Put BRKU in the Limelight",
-      "instAvatar": "📡",
-      "instName": "ETF Database",
-      "sourceName": "ETF Database (实时快讯)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOVRqbHA4czI5ZUF1Z0x4enZnbG8zeVNOWG05Z3NRTF9laERKY1BPWUU4WXA5YjFmY2lrQjlROVRtbkpNU2ZjamlVUTM5UDBINEx6LXlRR2hHUEJjc0VxYkRwVzFzZ1BPVXJrMC1FYzN3ZVpEOWRjUUhGZDVoUTlFZzdYTGJCaUxD?oc=5",
-      "filingDate": "2026-11-04",
-      "reportPeriod": "7×24 实时流",
-      "conviction": "8.8 / 10",
-      "detailLogic": [
-        "【实时异动快讯】Berkshire Hathaway Earnings Put BRKU in the Limelight",
-        "【信息来源与时间】首发媒体：ETF Database | 原始时间戳：Wed, 04 Nov 2026 20:43:51 GMT",
-        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
-      ]
-    },
-    {
-      "id": "news_8142871",
-      "category": "sovereign",
-      "tag": "🏛️ 主权与长线基金异动",
-      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
-      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
-      "accentColor": "#38bdf8",
-      "heroTicker": "TradingView",
-      "heroMetric": "Why are Global Industr...",
-      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-04",
-      "subData": [
-        {
-          "name": "信源媒体",
-          "action": "TradingView",
-          "val": "实时快讯"
-        },
-        {
-          "name": "监控维度",
-          "action": "主权与长线基金异动",
-          "val": "7×24 滚动"
-        },
-        {
-          "name": "发布日期",
-          "action": "2026-11-04",
-          "val": "当日最新"
-        }
-      ],
-      "title": "Why are Global Industrial (GIC) shares soaring today",
-      "instAvatar": "📡",
-      "instName": "TradingView",
-      "sourceName": "TradingView (实时快讯)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOckZxZEZNSHRvWjMtd2lOTC05MWRqOHlWX2JyUlBrbWZycl9qU0JielluYS05bWVnTG9VazQwX29aY201MVM4UG1GOUNKbG5kMV95dU9wcHZla1dzUFlvYjl5VlAtUXUxeGpLbXFrWDAyRmVCVmp4eDFEY0hnYkZCUVBnUDhFeURmOHpJSF9FZm9SOHpsMVJSM3A4OHdqS3ltY195T3hHNmxTSE13SEk3MQ?oc=5",
-      "filingDate": "2026-11-04",
-      "reportPeriod": "7×24 实时流",
-      "conviction": "8.8 / 10",
-      "detailLogic": [
-        "【实时异动快讯】Why are Global Industrial (GIC) shares soaring today",
-        "【信息来源与时间】首发媒体：TradingView | 原始时间戳：Wed, 04 Nov 2026 19:01:09 GMT",
-        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
-      ]
-    },
-    {
-      "id": "news_6684647",
-      "category": "sovereign",
-      "tag": "🏛️ 主权与长线基金异动",
-      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
-      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
-      "accentColor": "#38bdf8",
-      "heroTicker": "Yahoo Finance",
-      "heroMetric": "2 Berkshire Hathaway H...",
-      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-04",
-      "subData": [
-        {
-          "name": "信源媒体",
-          "action": "Yahoo Finance",
-          "val": "实时快讯"
-        },
-        {
-          "name": "监控维度",
-          "action": "主权与长线基金异动",
-          "val": "7×24 滚动"
-        },
-        {
-          "name": "发布日期",
-          "action": "2026-11-04",
-          "val": "当日最新"
-        }
-      ],
-      "title": "2 Berkshire Hathaway Holdings to Buy After Record Third Quarters",
-      "instAvatar": "📡",
-      "instName": "Yahoo Finance",
-      "sourceName": "Yahoo Finance (实时快讯)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUzc5U0lRWFB3UWhTdEEzazg2SU5tekdwVTNXWTY1M3MyM0lWbXhiUFpBVUF2MUtBcEFVblN6a3pENzcybFJyNGhWcnZXTU91aHhtZS04QklkelJjZ09qS01RQjFhNUQxQmZNWVI2UUUwei13VzVkM3RGX0ZRUVhEelZBTDg0QkNyamJMVkd2WEM2TUU0dkZfeE1Fd05xeGc?oc=5",
-      "filingDate": "2026-11-04",
-      "reportPeriod": "7×24 实时流",
-      "conviction": "8.8 / 10",
-      "detailLogic": [
-        "【实时异动快讯】2 Berkshire Hathaway Holdings to Buy After Record Third Quarters",
-        "【信息来源与时间】首发媒体：Yahoo Finance | 原始时间戳：Wed, 04 Nov 2026 14:50:00 GMT",
-        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
-      ]
-    },
-    {
-      "id": "news_8224899",
-      "category": "hk_cn",
-      "tag": "🇨🇳 中资与港股外资席位",
-      "tagColor": "bg-amber-500/20 text-amber-300 border border-amber-500/40",
-      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
-      "accentColor": "#38bdf8",
-      "heroTicker": "东方财富",
-      "heroMetric": "中国人民银行加力实施股票回购增持再贷款政策",
-      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-04",
-      "subData": [
-        {
-          "name": "信源媒体",
-          "action": "东方财富",
-          "val": "实时快讯"
-        },
-        {
-          "name": "监控维度",
-          "action": "中资与港股外资席位",
-          "val": "7×24 滚动"
-        },
-        {
-          "name": "发布日期",
-          "action": "2026-11-04",
-          "val": "当日最新"
-        }
-      ],
-      "title": "中国人民银行加力实施股票回购增持再贷款政策",
-      "instAvatar": "📡",
-      "instName": "东方财富",
-      "sourceName": "东方财富 (实时快讯)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qZVhtdzI4OFFRdUlzZ3poZlowTFJubkdSZDNzZnBPdVRSRjZrT1otUWhWSkszaU1nVUtEUzJWdjJVWkdzYlNkRFBZS3dWcDZKeWVhNlZTbW0yN0RKTFJLLQ?oc=5",
-      "filingDate": "2026-11-04",
-      "reportPeriod": "7×24 实时流",
-      "conviction": "8.8 / 10",
-      "detailLogic": [
-        "【实时异动快讯】中国人民银行加力实施股票回购增持再贷款政策",
-        "【信息来源与时间】首发媒体：东方财富 | 原始时间戳：Wed, 04 Nov 2026 12:00:00 GMT",
-        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
-      ]
-    },
-    {
-      "id": "news_8080275",
-      "category": "hk_cn",
-      "tag": "🇨🇳 中资与港股外资席位",
-      "tagColor": "bg-amber-500/20 text-amber-300 border border-amber-500/40",
-      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
-      "accentColor": "#38bdf8",
-      "heroTicker": "财联社",
-      "heroMetric": "股票回购增持再贷款今起加力，多家银行加大上市...",
-      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-04",
-      "subData": [
-        {
-          "name": "信源媒体",
-          "action": "财联社",
-          "val": "实时快讯"
-        },
-        {
-          "name": "监控维度",
-          "action": "中资与港股外资席位",
-          "val": "7×24 滚动"
-        },
-        {
-          "name": "发布日期",
-          "action": "2026-11-04",
-          "val": "当日最新"
-        }
-      ],
-      "title": "股票回购增持再贷款今起加力，多家银行加大上市公司对接力度，贷款利率预计跟随下调",
-      "instAvatar": "📡",
-      "instName": "财联社",
-      "sourceName": "财联社 (实时快讯)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1KeFh4djhmOHdQM3ZxYlhIdlFyMGtIRDZocTBjVmRmVmRYYVFxU1dNdzJQYlQ5TmpIVExTcndHeTdRRTBtcnExbw?oc=5",
-      "filingDate": "2026-11-04",
-      "reportPeriod": "7×24 实时流",
-      "conviction": "8.8 / 10",
-      "detailLogic": [
-        "【实时异动快讯】股票回购增持再贷款今起加力，多家银行加大上市公司对接力度，贷款利率预计跟随下调",
-        "【信息来源与时间】首发媒体：财联社 | 原始时间戳：Wed, 04 Nov 2026 09:29:18 GMT",
-        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
-      ]
-    },
-    {
-      "id": "news_2947473",
-      "category": "hk_cn",
-      "tag": "🇨🇳 中资与港股外资席位",
-      "tagColor": "bg-amber-500/20 text-amber-300 border border-amber-500/40",
-      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
-      "accentColor": "#38bdf8",
-      "heroTicker": "证券之星",
-      "heroMetric": "上海银行：11月4日陈雷、牛韧增持股份合计4...",
-      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-04",
-      "subData": [
-        {
-          "name": "信源媒体",
-          "action": "证券之星",
-          "val": "实时快讯"
-        },
-        {
-          "name": "监控维度",
-          "action": "中资与港股外资席位",
-          "val": "7×24 滚动"
-        },
-        {
-          "name": "发布日期",
-          "action": "2026-11-04",
-          "val": "当日最新"
-        }
-      ],
-      "title": "上海银行：11月4日陈雷、牛韧增持股份合计4万股_公司新闻",
-      "instAvatar": "📡",
-      "instName": "证券之星",
-      "sourceName": "证券之星 (实时快讯)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PTjEyQW9hNGI1a0dMUmpLZEhlMVZMZnBjaUd2ODBjYkZuUVJNUVdtbUVjc01YTnRKWGZKVXFlbm5ZMVY1ZlQzVUI0U1BCbFZNdmdqYWV3NkNUdHNlMUw5VA?oc=5",
-      "filingDate": "2026-11-04",
-      "reportPeriod": "7×24 实时流",
-      "conviction": "8.8 / 10",
-      "detailLogic": [
-        "【实时异动快讯】上海银行：11月4日陈雷、牛韧增持股份合计4万股_公司新闻",
-        "【信息来源与时间】首发媒体：证券之星 | 原始时间戳：Wed, 04 Nov 2026 12:02:03 GMT",
-        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
-      ]
-    },
-    {
-      "id": "news_1766514",
-      "category": "hk_cn",
-      "tag": "🇨🇳 中资与港股外资席位",
-      "tagColor": "bg-amber-500/20 text-amber-300 border border-amber-500/40",
-      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
-      "accentColor": "#38bdf8",
-      "heroTicker": "J.P. Morgan Privat",
-      "heroMetric": "跨越障碍：冲刺年末| 摩根大通私人银行亚洲",
-      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-03",
-      "subData": [
-        {
-          "name": "信源媒体",
-          "action": "J.P. Morgan Pr",
-          "val": "实时快讯"
-        },
-        {
-          "name": "监控维度",
-          "action": "中资与港股外资席位",
-          "val": "7×24 滚动"
-        },
-        {
-          "name": "发布日期",
-          "action": "2026-11-03",
-          "val": "当日最新"
-        }
-      ],
-      "title": "跨越障碍：冲刺年末| 摩根大通私人银行亚洲",
-      "instAvatar": "📡",
-      "instName": "J.P. Morgan Private Bank",
-      "sourceName": "J.P. Morgan Private Bank (实时快讯)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeXBsN0R1SWc2Q3JpRjN3QUlTdzczT2tKMVB0QWFZZnhZWFNFdEtEdGM2RERUcUp5SXNNdkNKdTRRSXVZRnZoX2N4ZzgzUnloUWtIa0Y1ZlpzSV9IakhhYXQzbkFZX214OFNsV2FFREZ5ZWxKdjZPdmh5UnktOXVpcU44SUVhMkhTNmExdkMwVnFMTWw0TWhzNUt5Q1l0d3pPekZxeUM5cUdxMV92ZkJ3MnVn?oc=5",
-      "filingDate": "2026-11-03",
-      "reportPeriod": "7×24 实时流",
-      "conviction": "8.8 / 10",
-      "detailLogic": [
-        "【实时异动快讯】跨越障碍：冲刺年末| 摩根大通私人银行亚洲",
-        "【信息来源与时间】首发媒体：J.P. Morgan Private Bank | 原始时间戳：Tue, 03 Nov 2026 05:00:00 GMT",
-        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
-      ]
-    },
-    {
-      "id": "news_453987",
-      "category": "sovereign",
-      "tag": "🏛️ 主权与长线基金异动",
-      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
-      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
-      "accentColor": "#38bdf8",
-      "heroTicker": "BlackRock",
-      "heroMetric": "Weekly market commenta...",
-      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-02",
-      "subData": [
-        {
-          "name": "信源媒体",
-          "action": "BlackRock",
-          "val": "实时快讯"
-        },
-        {
-          "name": "监控维度",
-          "action": "主权与长线基金异动",
-          "val": "7×24 滚动"
-        },
-        {
-          "name": "发布日期",
-          "action": "2026-11-02",
-          "val": "当日最新"
-        }
-      ],
-      "title": "Weekly market commentary",
-      "instAvatar": "📡",
-      "instName": "BlackRock",
-      "sourceName": "BlackRock (实时快讯)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-      "filingDate": "2026-11-02",
-      "reportPeriod": "7×24 实时流",
-      "conviction": "8.8 / 10",
-      "detailLogic": [
-        "【实时异动快讯】Weekly market commentary",
-        "【信息来源与时间】首发媒体：BlackRock | 原始时间戳：Mon, 02 Nov 2026 08:00:00 GMT",
-        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
-      ]
-    },
-    {
-      "id": "news_3591485",
-      "category": "macro",
-      "tag": "🌍 全球宏观巨鲸快讯",
-      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
-      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
-      "accentColor": "#38bdf8",
-      "heroTicker": "TradingView",
-      "heroMetric": "Key facts: BlackRock D...",
-      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-04",
-      "subData": [
-        {
-          "name": "信源媒体",
-          "action": "TradingView",
-          "val": "实时快讯"
-        },
-        {
-          "name": "监控维度",
-          "action": "全球宏观巨鲸快讯",
-          "val": "7×24 滚动"
-        },
-        {
-          "name": "发布日期",
-          "action": "2026-11-04",
-          "val": "当日最新"
-        }
-      ],
-      "title": "Key facts: BlackRock Discloses 10.19 Million Prologis Shares; Citadel Reports Transfer",
-      "instAvatar": "📡",
-      "instName": "TradingView",
-      "sourceName": "TradingView (实时快讯)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQU0o3MFl6U0VFTWUwdWJBV2FfWUs5SmxRR3dtR0V3b3VmSVIzNG04OFU0UkdkMFlHSDNsV2t2UGgxa1ppOVg3NGpscGpCX3JSZC15VXhFbHJ0a3UtQU9CV0ZGeU9PZ2FkbGRKUGhLNnVUMjNIU0MwRVhyekNtQlVKenRvTEJNbGI1Ylp1Q3VCMU8yeThvWmZVX05JZlJjbUFyXzJrZlBoZWZtRUVacVZVTmlfZDhmYzY0MUlxTU5UNDh5T2lDTncwbVJqaWZFMWMxcThON2p3eXFfU3VPbjhn?oc=5",
-      "filingDate": "2026-11-04",
-      "reportPeriod": "7×24 实时流",
-      "conviction": "8.8 / 10",
-      "detailLogic": [
-        "【实时异动快讯】Key facts: BlackRock Discloses 10.19 Million Prologis Shares; Citadel Reports Transfer",
-        "【信息来源与时间】首发媒体：TradingView | 原始时间戳：Wed, 04 Nov 2026 08:00:00 GMT",
-        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
-      ]
-    },
-    {
-      "id": "news_7535831",
-      "category": "macro",
-      "tag": "🌍 全球宏观巨鲸快讯",
-      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
-      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
-      "accentColor": "#38bdf8",
-      "heroTicker": "Simply Wall St",
-      "heroMetric": "This Insider Has Just ...",
-      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-04",
-      "subData": [
-        {
-          "name": "信源媒体",
-          "action": "Simply Wall St",
-          "val": "实时快讯"
-        },
-        {
-          "name": "监控维度",
-          "action": "全球宏观巨鲸快讯",
-          "val": "7×24 滚动"
-        },
-        {
-          "name": "发布日期",
-          "action": "2026-11-04",
-          "val": "当日最新"
-        }
-      ],
-      "title": "This Insider Has Just Sold Shares In Bridgewater Bancshares",
-      "instAvatar": "📡",
-      "instName": "Simply Wall St",
-      "sourceName": "Simply Wall St (实时快讯)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMENpY1BxbXNOYVRGMUJ4YWltOEVQaXg0aHNyRkNYcW1nODlSUmFoclhHaXdsQlNycnM4cnJiLTdiZnc1TktCTk80S2FuOEFNNExmdFZEVnhaZE5sWHhkZklpeTVPbmF1VEtBZnRwYUFuMFl1UTZTOERKS1JJOFBhejltTGFIUlp0VFBwMzFGQmhvZTZMQTdKRXhJRUJnTVBOQnN0T1FrX1RnTTlJTDRGUFZhQjROQm5OY2tUeE1GOW02TzBjM05tS1NnaUlfNDVQXzRMVtIB2gFBVV95cUxOVjFrMWhfQ1R3R0gwNkw5TER5dnl4VVhfa3lZdkg4SlFLTGZzNVNVQ2dKcXpYREtaZ1hka1NBc3JyeUVSWTdodllnZDRmcDRRNktEdmxkWTAxd2tlclA5dFdheDM2Y0dJXzhPXzlTWWQ0dkV4aTNrbFFPMldtSXN1UU1OVjZDWWcwR2dfMFVMNjRDeVRMWExlLUx3eXZHbDUwYnJXdzZ6MUlvWUstWFgzYmJTOUp6N29uLS11M0xSSG9WcXd3cWRuc0N1SU0ycWtsYm0tNWdBV2tqZw?oc=5",
-      "filingDate": "2026-11-04",
-      "reportPeriod": "7×24 实时流",
-      "conviction": "8.8 / 10",
-      "detailLogic": [
-        "【实时异动快讯】This Insider Has Just Sold Shares In Bridgewater Bancshares",
-        "【信息来源与时间】首发媒体：Simply Wall St | 原始时间戳：Wed, 04 Nov 2026 10:16:41 GMT",
         "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
       ]
     }
