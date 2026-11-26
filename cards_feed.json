@@ -1,7 +1,458 @@
 {
-  "updated_at": "2026-11-25 23:40 UTC",
+  "updated_at": "2026-11-26 11:48 UTC",
   "total_cards": 300,
   "cards": [
+    {
+      "id": "news_4288701",
+      "category": "macro",
+      "tag": "🌍 全球宏观巨鲸快讯",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "CEOWORLD magazine",
+      "heroMetric": "Billionaire Stanley Dr...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-26",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "CEOWORLD magaz",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "全球宏观巨鲸快讯",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-26",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Billionaire Stanley Druckenmiller Sold 94 Percent of His TSMC Stake, Then Bought Amazon",
+      "instAvatar": "📡",
+      "instName": "CEOWORLD magazine",
+      "sourceName": "CEOWORLD magazine (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdjdFVnJCUlBvWTFuWTdOWmZYcThlTHFrQ05vMm9heGFwZnFwbElzWDFCaDdUT1BIM2cxUkdwbGZrNF9oT2JxOVlYb2dyTmdOeUx4ZURLcEE3bWo1aGlKV0JyUTlPQkx6blVqU0pOeEpScmt2V1BDSkNfT2FrUTRiSjc1SVppUkRMVV9iWUNwQzBfWVJHUTRvdjRGb0t0TDY2eXZEQU5JeHQzM0hkbjZodUc0QU5GdmRUV0dr?oc=5",
+      "filingDate": "2026-11-26",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Billionaire Stanley Druckenmiller Sold 94 Percent of His TSMC Stake, Then Bought Amazon",
+        "【信息来源与时间】首发媒体：CEOWORLD magazine | 原始时间戳：Thu, 26 Nov 2026 07:25:49 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_4513884",
+      "category": "sovereign",
+      "tag": "🏛️ 主权与长线基金异动",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "24/7 Wall St.",
+      "heroMetric": "Warren Buffett Has Giv...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-26",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "24/7 Wall St.",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "主权与长线基金异动",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-26",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Warren Buffett Has Given Away More Than $60 Billion of Berkshire Stock and Never Paid Capital Gains Tax on a Single Share",
+      "instAvatar": "📡",
+      "instName": "24/7 Wall St.",
+      "sourceName": "24/7 Wall St. (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNMEo4cUpqMHlGUlVXU1p6clR6QTlpQjAyRkJUa2lJYzBRTWVyN0MzaWdEa2JOYWlfS19mNk9YdGRhSnlnTUFUQ0FTcWhrWHNJdWttXzI3dHV4UHlGVEV2aHoteDg3RElZQ2ZJckYwVW5nYzVrLXN2NGNzczVpY083U2xKbGllc20tVG5waC0xZ25fdFZRa1E4emdpRkc5VjA1andUVlkwaDZOUjZ4Y0E0b2tGNUVNeEhhbktTbEtEYXZZOXFEMHhMOVdZUzNuazdqWHhWdE9GZTRtX2d4WHZlMlhWTEd0QmdVbTloVzNQclNQeG1ST3k5SEpzUlFZZHV1?oc=5",
+      "filingDate": "2026-11-26",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Warren Buffett Has Given Away More Than $60 Billion of Berkshire Stock and Never Paid Capital Gains Tax on a Single Share",
+        "【信息来源与时间】首发媒体：24/7 Wall St. | 原始时间戳：Thu, 26 Nov 2026 09:57:00 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_2191856",
+      "category": "sovereign",
+      "tag": "🏛️ 主权与长线基金异动",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "Yahoo Finance UK",
+      "heroMetric": "BlackRock Greater Euro...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-26",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "Yahoo Finance ",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "主权与长线基金异动",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-26",
+          "val": "当日最新"
+        }
+      ],
+      "title": "BlackRock Greater Europe Investment Trust Plc - Total Voting Rights",
+      "instAvatar": "📡",
+      "instName": "Yahoo Finance UK",
+      "sourceName": "Yahoo Finance UK (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNG1TWkQ4UzFtUFM4VFdNdFB6NzdiaDVscmZrRUFkbkRPeUdPNXo4M3ZjOXprTE5pN25fdWVXUGt5YldMa0RrdzNmM2p3T2ozanBFc1ZRMDFfVmxBaVd3aDh1NHhoMVV1dTZFYWtaS0ZJcGNvSm54QmowdmpHWWQ2OGRFNGJuTG5YWXIzWlN2VUxja1Vi?oc=5",
+      "filingDate": "2026-11-26",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】BlackRock Greater Europe Investment Trust Plc - Total Voting Rights",
+        "【信息来源与时间】首发媒体：Yahoo Finance UK | 原始时间戳：Thu, 26 Nov 2026 07:00:00 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_3072536",
+      "category": "hk_cn",
+      "tag": "🇨🇳 中资与港股外资席位",
+      "tagColor": "bg-amber-500/20 text-amber-300 border border-amber-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "东方财富网",
+      "heroMetric": "主动ETF减持中国铝业、工商银行、中国银行",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-26",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "东方财富网",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "中资与港股外资席位",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-26",
+          "val": "当日最新"
+        }
+      ],
+      "title": "主动ETF减持中国铝业、工商银行、中国银行",
+      "instAvatar": "📡",
+      "instName": "东方财富网",
+      "sourceName": "东方财富网 (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WLTBONnppV3A5cTQwN2taR3NyZzV6M3pTUW8tUWNhTjlEN1RSVXNnYkduZGtVOEItV3NQanF6dVYzc3J1ZEdZT3duU2VnOThsSFV6UElkbkpSck9McjFRU0lScm5zZw?oc=5",
+      "filingDate": "2026-11-26",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】主动ETF减持中国铝业、工商银行、中国银行",
+        "【信息来源与时间】首发媒体：东方财富网 | 原始时间戳：Thu, 26 Nov 2026 02:04:56 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_6006852",
+      "category": "hk_cn",
+      "tag": "🇨🇳 中资与港股外资席位",
+      "tagColor": "bg-amber-500/20 text-amber-300 border border-amber-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "观点网",
+      "heroMetric": "摩根大通协助传音控股完成港股IPO定价 募资...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-26",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "观点网",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "中资与港股外资席位",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-26",
+          "val": "当日最新"
+        }
+      ],
+      "title": "摩根大通协助传音控股完成港股IPO定价 募资约3.9亿美元",
+      "instAvatar": "📡",
+      "instName": "观点网",
+      "sourceName": "观点网 (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WUUduczh6V1llekx0djhEdVE5VVg5SFNvZ0VNR0d6X2J3dnkxYUxPLTBRYWFHT3NmLXhpYjZWQTRQVGp2OWdvb1N2Vk9pUQ?oc=5",
+      "filingDate": "2026-11-26",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】摩根大通协助传音控股完成港股IPO定价 募资约3.9亿美元",
+        "【信息来源与时间】首发媒体：观点网 | 原始时间戳：Thu, 26 Nov 2026 03:08:57 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_5660388",
+      "category": "macro",
+      "tag": "🌍 全球宏观巨鲸快讯",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "Yahoo Finance",
+      "heroMetric": "Billionaire Stanley Dr...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-25",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "Yahoo Finance",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "全球宏观巨鲸快讯",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-25",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Billionaire Stanley Druckenmiller Sold 94% of His TSMC Stake and All of His Alphabet Shares in Q3. Here’s the Brilliant Stock He Added.",
+      "instAvatar": "📡",
+      "instName": "Yahoo Finance",
+      "sourceName": "Yahoo Finance (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeFdqdU1Ob3RQREVtUmF4MjJEcEMxQllLVmpmeHU4X1F2dFUyb3NWbl9iZG1pY3ZQbkFoWm8xNDBGTTVWQ3lnSzVHdGV3NUZ6ODFVNFBJTUMtWHhEMnVnOTZyeVRWOHBBemRWWWRzYkFQeWZocUQwNDRhRWRKSWRZZmNDelR1ZlVsdG83clhCTko3aEVDdkVLd2hIWnFrQmMzeXVMSS14bFpPZw?oc=5",
+      "filingDate": "2026-11-25",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Billionaire Stanley Druckenmiller Sold 94% of His TSMC Stake and All of His Alphabet Shares in Q3. Here’s the Brilliant Stock He Added.",
+        "【信息来源与时间】首发媒体：Yahoo Finance | 原始时间戳：Wed, 25 Nov 2026 16:37:02 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_2217621",
+      "category": "macro",
+      "tag": "🌍 全球宏观巨鲸快讯",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "Crypto Briefing",
+      "heroMetric": "Stanley Druckenmiller ...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-25",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "Crypto Briefin",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "全球宏观巨鲸快讯",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-25",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Stanley Druckenmiller sells 94% of TSMC stake, exits Alphabet in Q3",
+      "instAvatar": "📡",
+      "instName": "Crypto Briefing",
+      "sourceName": "Crypto Briefing (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TbTdtVXVFbjlIYVRoUW1RWXAxSmVzQmtubEtfSHhkX1I0WUttTDR2WlNMWnV1Z3hNa3JLb1dUY0tyQnNHRVBUUzlKUnZjNGxhS1FwbDVqXy1fbEU1RkZzNHlFMjM1ejdBSmVZVUJ3UVI3LXBFa2FmXzd3?oc=5",
+      "filingDate": "2026-11-25",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Stanley Druckenmiller sells 94% of TSMC stake, exits Alphabet in Q3",
+        "【信息来源与时间】首发媒体：Crypto Briefing | 原始时间戳：Wed, 25 Nov 2026 16:22:39 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_5358647",
+      "category": "sovereign",
+      "tag": "🏛️ 主权与长线基金异动",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "Barron's",
+      "heroMetric": "How 2 Quick Calls Seal...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-25",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "Barron's",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "主权与长线基金异动",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-25",
+          "val": "当日最新"
+        }
+      ],
+      "title": "How 2 Quick Calls Sealed Berkshire Hathaway’s $930M Bending Spoons Investment",
+      "instAvatar": "📡",
+      "instName": "Barron's",
+      "sourceName": "Barron's (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUm5DdzVueDRtNjAta2lfWkxCZFZNNjhUUlhqU0FucEJhQWN2ZzdGWVhUeFhNUXFkT0haSUhDLS1jaWRJbUdNREloNlk1U0xMY2NGMUJTalUtN1Y3ZUVsMW15STVZUjNaQlY0OUpCcFlTa2FhV3F0dEMtNGpxbHRvUW5NVzdLWHBpU1BuTW96aw?oc=5",
+      "filingDate": "2026-11-25",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】How 2 Quick Calls Sealed Berkshire Hathaway’s $930M Bending Spoons Investment",
+        "【信息来源与时间】首发媒体：Barron's | 原始时间戳：Wed, 25 Nov 2026 16:33:00 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_8664593",
+      "category": "hk_cn",
+      "tag": "🇨🇳 中资与港股外资席位",
+      "tagColor": "bg-amber-500/20 text-amber-300 border border-amber-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "J.P. Morgan Privat",
+      "heroMetric": "对冲基金策略| 摩根大通私人银行亚洲",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-24",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "J.P. Morgan Pr",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "中资与港股外资席位",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-24",
+          "val": "当日最新"
+        }
+      ],
+      "title": "对冲基金策略| 摩根大通私人银行亚洲",
+      "instAvatar": "📡",
+      "instName": "J.P. Morgan Private Bank",
+      "sourceName": "J.P. Morgan Private Bank (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUDhWQ2ZwaG52OVd4SGxVV1cwRjQ1NkliYWNfV2hVRTg5LXlER0MwUHdxQ1FUV25rWHB4eXNDTzd4bzRVRHNnVG1teVlUcGR4TDVrRzltXzg5WGN4aDRjWTNWX1RDb2N2UDl4X3RKYnhtbm9pZ3FhN0IzT1hJakU4YktSa3dCa2J1XzNBTXdpWjE3ZXpzemRSVTdLM0FiMFRRc0k0LXJxb1I?oc=5",
+      "filingDate": "2026-11-24",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】对冲基金策略| 摩根大通私人银行亚洲",
+        "【信息来源与时间】首发媒体：J.P. Morgan Private Bank | 原始时间戳：Tue, 24 Nov 2026 08:00:00 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_5159266",
+      "category": "sovereign",
+      "tag": "🏛️ 主权与长线基金异动",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "BlackRock",
+      "heroMetric": "Weekly market commenta...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-23",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "BlackRock",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "主权与长线基金异动",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-23",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Weekly market commentary",
+      "instAvatar": "📡",
+      "instName": "BlackRock",
+      "sourceName": "BlackRock (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+      "filingDate": "2026-11-23",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Weekly market commentary",
+        "【信息来源与时间】首发媒体：BlackRock | 原始时间戳：Mon, 23 Nov 2026 08:00:00 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_3871719",
+      "category": "hk_cn",
+      "tag": "🇨🇳 中资与港股外资席位",
+      "tagColor": "bg-amber-500/20 text-amber-300 border border-amber-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "财联社",
+      "heroMetric": "股价创新高后，南京银行大股东增持浮出水面，年...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-23",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "财联社",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "中资与港股外资席位",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-23",
+          "val": "当日最新"
+        }
+      ],
+      "title": "股价创新高后，南京银行大股东增持浮出水面，年内至少16家A股上市银行获增持",
+      "instAvatar": "📡",
+      "instName": "财联社",
+      "sourceName": "财联社 (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE04UF9uU3FZQXNGa1V0WmhSRnE0OE5FLWlhbTlkRUQzTnpaZWdxdnYyZE41ajNvSlh0STc3a2FLUHJ3SzlvZzJsOQ?oc=5",
+      "filingDate": "2026-11-23",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】股价创新高后，南京银行大股东增持浮出水面，年内至少16家A股上市银行获增持",
+        "【信息来源与时间】首发媒体：财联社 | 原始时间戳：Mon, 23 Nov 2026 23:49:00 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
     {
       "id": "news_3992390",
       "category": "macro",
@@ -11848,457 +12299,6 @@
       "detailLogic": [
         "【实时异动快讯】‘We believe gold and silver are not simply defensive assets’ – BlackRock’s Akullian",
         "【信息来源与时间】首发媒体：Kitco | 原始时间戳：Thu, 12 Nov 2026 19:45:37 GMT",
-        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
-      ]
-    },
-    {
-      "id": "news_3630871",
-      "category": "sovereign",
-      "tag": "🏛️ 主权与长线基金异动",
-      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
-      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
-      "accentColor": "#38bdf8",
-      "heroTicker": "Reuters",
-      "heroMetric": "Singapore's Temasek to...",
-      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-12",
-      "subData": [
-        {
-          "name": "信源媒体",
-          "action": "Reuters",
-          "val": "实时快讯"
-        },
-        {
-          "name": "监控维度",
-          "action": "主权与长线基金异动",
-          "val": "7×24 滚动"
-        },
-        {
-          "name": "发布日期",
-          "action": "2026-11-12",
-          "val": "当日最新"
-        }
-      ],
-      "title": "Singapore's Temasek to invest $267 million in Godrej Industries' financial services arm",
-      "instAvatar": "📡",
-      "instName": "Reuters",
-      "sourceName": "Reuters (实时快讯)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONGNKbWRjYUdDVWczM0UtSi1hQVktWndmQXJVeVZRaXczbHBacy0xb2dLLUpJSmxxWGo3bG56OWoxRnVwSGJNR2N2dVNQQ213REFPOENPYXJNaUVpNllwWHV6VlNZWUl1M2JaRDhSbUxLdU1XZjJuemE2dkZmUlQza1Y5OTdtTkJGYzBKMzFsT0JBU24tTDl0YU9xSnNKN0tfQWZ4ajNwUVhyOTdqNW9tVkFSMjI0WkJtUlFGdExVVmpVNTZW?oc=5",
-      "filingDate": "2026-11-12",
-      "reportPeriod": "7×24 实时流",
-      "conviction": "8.8 / 10",
-      "detailLogic": [
-        "【实时异动快讯】Singapore's Temasek to invest $267 million in Godrej Industries' financial services arm",
-        "【信息来源与时间】首发媒体：Reuters | 原始时间戳：Thu, 12 Nov 2026 08:27:38 GMT",
-        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
-      ]
-    },
-    {
-      "id": "news_3856314",
-      "category": "hk_cn",
-      "tag": "🇨🇳 中资与港股外资席位",
-      "tagColor": "bg-amber-500/20 text-amber-300 border border-amber-500/40",
-      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
-      "accentColor": "#38bdf8",
-      "heroTicker": "J.P. Morgan Privat",
-      "heroMetric": "市场全由人工智能主导吗？",
-      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-10",
-      "subData": [
-        {
-          "name": "信源媒体",
-          "action": "J.P. Morgan Pr",
-          "val": "实时快讯"
-        },
-        {
-          "name": "监控维度",
-          "action": "中资与港股外资席位",
-          "val": "7×24 滚动"
-        },
-        {
-          "name": "发布日期",
-          "action": "2026-11-10",
-          "val": "当日最新"
-        }
-      ],
-      "title": "市场全由人工智能主导吗？",
-      "instAvatar": "📡",
-      "instName": "J.P. Morgan Private Bank",
-      "sourceName": "J.P. Morgan Private Bank (实时快讯)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZXZENlhHZDdRektENTAxNGlYUmExZ1FZdUxvS2pYT2VWQ1lmWHJVR2RMMFdPd3hNbUkwdWJKYVdBSVJadWE0VndSNV9NQnppdmNKdzk5NVBoM1ZYN2lxcG9VT2lfb2p4SkRMTWpYSjJVdml3Q0tSSWpTYlRfb1FHdHpDSks0SzhaSTlzdzFYdENvbnVKejFqQTRucEFJOXdSQlpXMQ?oc=5",
-      "filingDate": "2026-11-10",
-      "reportPeriod": "7×24 实时流",
-      "conviction": "8.8 / 10",
-      "detailLogic": [
-        "【实时异动快讯】市场全由人工智能主导吗？",
-        "【信息来源与时间】首发媒体：J.P. Morgan Private Bank | 原始时间戳：Tue, 10 Nov 2026 08:00:00 GMT",
-        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
-      ]
-    },
-    {
-      "id": "news_2988482",
-      "category": "sovereign",
-      "tag": "🏛️ 主权与长线基金异动",
-      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
-      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
-      "accentColor": "#38bdf8",
-      "heroTicker": "BlackRock",
-      "heroMetric": "Weekly market commenta...",
-      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-09",
-      "subData": [
-        {
-          "name": "信源媒体",
-          "action": "BlackRock",
-          "val": "实时快讯"
-        },
-        {
-          "name": "监控维度",
-          "action": "主权与长线基金异动",
-          "val": "7×24 滚动"
-        },
-        {
-          "name": "发布日期",
-          "action": "2026-11-09",
-          "val": "当日最新"
-        }
-      ],
-      "title": "Weekly market commentary",
-      "instAvatar": "📡",
-      "instName": "BlackRock",
-      "sourceName": "BlackRock (实时快讯)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-      "filingDate": "2026-11-09",
-      "reportPeriod": "7×24 实时流",
-      "conviction": "8.8 / 10",
-      "detailLogic": [
-        "【实时异动快讯】Weekly market commentary",
-        "【信息来源与时间】首发媒体：BlackRock | 原始时间戳：Mon, 09 Nov 2026 08:00:00 GMT",
-        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
-      ]
-    },
-    {
-      "id": "news_588039",
-      "category": "macro",
-      "tag": "🌍 全球宏观巨鲸快讯",
-      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
-      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
-      "accentColor": "#38bdf8",
-      "heroTicker": "Reuters",
-      "heroMetric": "Citadel buys most of S...",
-      "heroLabel": "全球机构实时动态监测 · 发布于 2026-07-30",
-      "subData": [
-        {
-          "name": "信源媒体",
-          "action": "Reuters",
-          "val": "实时快讯"
-        },
-        {
-          "name": "监控维度",
-          "action": "全球宏观巨鲸快讯",
-          "val": "7×24 滚动"
-        },
-        {
-          "name": "发布日期",
-          "action": "2026-07-30",
-          "val": "当日最新"
-        }
-      ],
-      "title": "Citadel buys most of Situational's stock holdings after AI share rout, sources say",
-      "instAvatar": "📡",
-      "instName": "Reuters",
-      "sourceName": "Reuters (实时快讯)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcHJIU1otWHVrMEU0Y1FqRFhmazB2bklSYzhzSzRsQXNJZzFzbk9SM3ZEU2hBZ2ZiWVlTMnhwcWZzTXJhamcxREluUnZDbWNCZjlYbVBSLU5aaGoxbWhYN1BsYy1ZTDN1M2VZampoaGVvNmZWSEsydnptM05OWlQ0QWFmbGd4M1h4WjZzR0RpMUZQRWpaOVh3UGhMenFZMmk5djdxOURGb25qeDh5b01udEU2UFVDNWRNSkhnY2x5Rk8wZw?oc=5",
-      "filingDate": "2026-07-30",
-      "reportPeriod": "7×24 实时流",
-      "conviction": "8.8 / 10",
-      "detailLogic": [
-        "【实时异动快讯】Citadel buys most of Situational's stock holdings after AI share rout, sources say",
-        "【信息来源与时间】首发媒体：Reuters | 原始时间戳：Thu, 30 Jul 2026 07:00:00 GMT",
-        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
-      ]
-    },
-    {
-      "id": "news_6523634",
-      "category": "macro",
-      "tag": "🌍 全球宏观巨鲸快讯",
-      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
-      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
-      "accentColor": "#38bdf8",
-      "heroTicker": "Hedgeweek",
-      "heroMetric": "Citadel builds 4.5% st...",
-      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-12",
-      "subData": [
-        {
-          "name": "信源媒体",
-          "action": "Hedgeweek",
-          "val": "实时快讯"
-        },
-        {
-          "name": "监控维度",
-          "action": "全球宏观巨鲸快讯",
-          "val": "7×24 滚动"
-        },
-        {
-          "name": "发布日期",
-          "action": "2026-11-12",
-          "val": "当日最新"
-        }
-      ],
-      "title": "Citadel builds 4.5% stake in Japanese railway operator Hankyu Hanshin",
-      "instAvatar": "📡",
-      "instName": "Hedgeweek",
-      "sourceName": "Hedgeweek (实时快讯)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbTRnb3Y5VjBadWxTcmczWkJlZzRlVm9NNTRZUm5WS00wdy1FaGdlZERZeTNiQ3ZBekM3ZS1faEJTVWM3dnBaODNqQVRqWWRjd1hvaGRneGZGY0owcWhUcXZCOS0tTUhEQWpZUVVwZVhwbzUzeXJSYllaVUhCZFFTMlhjdTktSXRIdEpnZXFxZkpHcndObDFLR1E3aw?oc=5",
-      "filingDate": "2026-11-12",
-      "reportPeriod": "7×24 实时流",
-      "conviction": "8.8 / 10",
-      "detailLogic": [
-        "【实时异动快讯】Citadel builds 4.5% stake in Japanese railway operator Hankyu Hanshin",
-        "【信息来源与时间】首发媒体：Hedgeweek | 原始时间戳：Thu, 12 Nov 2026 10:43:27 GMT",
-        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
-      ]
-    },
-    {
-      "id": "news_4059290",
-      "category": "macro",
-      "tag": "🌍 全球宏观巨鲸快讯",
-      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
-      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
-      "accentColor": "#38bdf8",
-      "heroTicker": "Bloomberg.com",
-      "heroMetric": "Citadel Builds Stake i...",
-      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-12",
-      "subData": [
-        {
-          "name": "信源媒体",
-          "action": "Bloomberg.com",
-          "val": "实时快讯"
-        },
-        {
-          "name": "监控维度",
-          "action": "全球宏观巨鲸快讯",
-          "val": "7×24 滚动"
-        },
-        {
-          "name": "发布日期",
-          "action": "2026-11-12",
-          "val": "当日最新"
-        }
-      ],
-      "title": "Citadel Builds Stake in Japanese Railway Firm Hankyu Hanshin",
-      "instAvatar": "📡",
-      "instName": "Bloomberg.com",
-      "sourceName": "Bloomberg.com (实时快讯)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTV81UHdsZEdyaUFDMzNZWXJLY0xjQzR1ZTQtaERkOXgzWGg1alNScGpOcXVwZ0xYSGhjQnEyWDNkcVpsbkNiUEpKYWdVamFUNDFZUUtydmwtQXh2SkpnOFRweGZKbHVnekwybDVMVGlfaGpWUHVCel8yMEVJNUxrcGpvUm83VVdfRGdSMFhlcy1meDhuSXJlS3hxa1lxejQzYWxkZml2NGZUT09ERjBDMjZn?oc=5",
-      "filingDate": "2026-11-12",
-      "reportPeriod": "7×24 实时流",
-      "conviction": "8.8 / 10",
-      "detailLogic": [
-        "【实时异动快讯】Citadel Builds Stake in Japanese Railway Firm Hankyu Hanshin",
-        "【信息来源与时间】首发媒体：Bloomberg.com | 原始时间戳：Thu, 12 Nov 2026 02:48:00 GMT",
-        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
-      ]
-    },
-    {
-      "id": "news_2269079",
-      "category": "macro",
-      "tag": "🌍 全球宏观巨鲸快讯",
-      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
-      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
-      "accentColor": "#38bdf8",
-      "heroTicker": "Briefs Finance",
-      "heroMetric": "Citadel Takes 4.5% Sta...",
-      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-12",
-      "subData": [
-        {
-          "name": "信源媒体",
-          "action": "Briefs Finance",
-          "val": "实时快讯"
-        },
-        {
-          "name": "监控维度",
-          "action": "全球宏观巨鲸快讯",
-          "val": "7×24 滚动"
-        },
-        {
-          "name": "发布日期",
-          "action": "2026-11-12",
-          "val": "当日最新"
-        }
-      ],
-      "title": "Citadel Takes 4.5% Stake in Hankyu Hanshin, Lifting Its Japan Footprint",
-      "instAvatar": "📡",
-      "instName": "Briefs Finance",
-      "sourceName": "Briefs Finance (实时快讯)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTndGaU80R1FwTmFDRFpRZXZDRGdPMFdndW9wbXU4V0FUVVNSS3U3bEFhNkZRdEFCVHcwXzFxbC1TWmNZOWZId1RPVDczdGV0NVBJRTZPVlE3eEJiaXJhNkVhN01xRktwWE9nZ3JuTnFvbEJvZktnem4tRmxXd09tb0lzM1hoSG94SWpNUThwQ2w?oc=5",
-      "filingDate": "2026-11-12",
-      "reportPeriod": "7×24 实时流",
-      "conviction": "8.8 / 10",
-      "detailLogic": [
-        "【实时异动快讯】Citadel Takes 4.5% Stake in Hankyu Hanshin, Lifting Its Japan Footprint",
-        "【信息来源与时间】首发媒体：Briefs Finance | 原始时间戳：Thu, 12 Nov 2026 09:45:00 GMT",
-        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
-      ]
-    },
-    {
-      "id": "news_3210725",
-      "category": "macro",
-      "tag": "🌍 全球宏观巨鲸快讯",
-      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
-      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
-      "accentColor": "#38bdf8",
-      "heroTicker": "TIKR.com",
-      "heroMetric": "Stanley Druckenmiller’...",
-      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-12",
-      "subData": [
-        {
-          "name": "信源媒体",
-          "action": "TIKR.com",
-          "val": "实时快讯"
-        },
-        {
-          "name": "监控维度",
-          "action": "全球宏观巨鲸快讯",
-          "val": "7×24 滚动"
-        },
-        {
-          "name": "发布日期",
-          "action": "2026-11-12",
-          "val": "当日最新"
-        }
-      ],
-      "title": "Stanley Druckenmiller’s Next 13F Likely Lands Monday. 3 Positions to Watch",
-      "instAvatar": "📡",
-      "instName": "TIKR.com",
-      "sourceName": "TIKR.com (实时快讯)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQclhzSy1EZ0xVY1FSM3owa2VuRThkVjhMOWZ3RGdhdTFIWU1YRVRzZklnVlNLZ0Jlbm50MURGRjVkUlMyNHJwYUttaTBuWVZHUzZZZllveHQ0MVFxUS13V05NRTBnbWt4czgyc29JTm5OcGktZGxPcUoxcWtyTUFZbU91ZlpvTG85UVFsMG1VMjFPZkticUlRR1hOZGhhX0RVVUxhdlJsMGgwdG5vZ2p2Wk11R2xsNXlRYzRwUEIxRGljTVVvNm5FUGpuSjJ6aG44bG5JTjJB?oc=5",
-      "filingDate": "2026-11-12",
-      "reportPeriod": "7×24 实时流",
-      "conviction": "8.8 / 10",
-      "detailLogic": [
-        "【实时异动快讯】Stanley Druckenmiller’s Next 13F Likely Lands Monday. 3 Positions to Watch",
-        "【信息来源与时间】首发媒体：TIKR.com | 原始时间戳：Thu, 12 Nov 2026 15:19:16 GMT",
-        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
-      ]
-    },
-    {
-      "id": "news_3034301",
-      "category": "sovereign",
-      "tag": "🏛️ 主权与长线基金异动",
-      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
-      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
-      "accentColor": "#38bdf8",
-      "heroTicker": "Reuters",
-      "heroMetric": "Singapore's Temasek to...",
-      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-12",
-      "subData": [
-        {
-          "name": "信源媒体",
-          "action": "Reuters",
-          "val": "实时快讯"
-        },
-        {
-          "name": "监控维度",
-          "action": "主权与长线基金异动",
-          "val": "7×24 滚动"
-        },
-        {
-          "name": "发布日期",
-          "action": "2026-11-12",
-          "val": "当日最新"
-        }
-      ],
-      "title": "Singapore's Temasek to invest $267 million in Godrej Industries' financial services arm",
-      "instAvatar": "📡",
-      "instName": "Reuters",
-      "sourceName": "Reuters (实时快讯)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONGNKbWRjYUdDVWczM0UtSi1hQVktWndmQXJVeVZRaXczbHBacy0xb2dLLUpJSmxxWGo3bG56OWoxRnVwSGJNR2N2dVNQQ213REFPOENPYXJNaUVpNllwWHV6VlNZWUl1M2JaRDhSbUxLdU1XZjJuemE2dkZmUlQza1Y5OTdtTkJGYzBKMzFsT0JBU24tTDl0YU9xSnNKN0tfQWZ4ajNwUVhyOTdqNW9tVkFSMjI0WkJtUlFGdExVVmpVNTZW?oc=5",
-      "filingDate": "2026-11-12",
-      "reportPeriod": "7×24 实时流",
-      "conviction": "8.8 / 10",
-      "detailLogic": [
-        "【实时异动快讯】Singapore's Temasek to invest $267 million in Godrej Industries' financial services arm",
-        "【信息来源与时间】首发媒体：Reuters | 原始时间戳：Thu, 12 Nov 2026 08:27:38 GMT",
-        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
-      ]
-    },
-    {
-      "id": "news_554776",
-      "category": "sovereign",
-      "tag": "🏛️ 主权与长线基金异动",
-      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
-      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
-      "accentColor": "#38bdf8",
-      "heroTicker": "Yahoo Finance UK",
-      "heroMetric": "BlackRock Greater Euro...",
-      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-12",
-      "subData": [
-        {
-          "name": "信源媒体",
-          "action": "Yahoo Finance ",
-          "val": "实时快讯"
-        },
-        {
-          "name": "监控维度",
-          "action": "主权与长线基金异动",
-          "val": "7×24 滚动"
-        },
-        {
-          "name": "发布日期",
-          "action": "2026-11-12",
-          "val": "当日最新"
-        }
-      ],
-      "title": "BlackRock Greater Europe Investment Trust Plc - Transaction in Own Shares",
-      "instAvatar": "📡",
-      "instName": "Yahoo Finance UK",
-      "sourceName": "Yahoo Finance UK (实时快讯)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORlFBX1U0cTc4LXlnMGZwOGxZY1NhVDZialNkOXhiQ3V1M0EwcE9jZUoxVGNoclNubzRYNzJ6cDkwM2U5Z29hbUxHOFB1Y2FtQ2ZSdlpkbmttVlVjRnN4M0VoeGY5dzRrY0IySU0tc1VPNlZTeUNzMG9vZEU2SVBxNWltU1pfdTJIemRuZTB0YVdicy1s?oc=5",
-      "filingDate": "2026-11-12",
-      "reportPeriod": "7×24 实时流",
-      "conviction": "8.8 / 10",
-      "detailLogic": [
-        "【实时异动快讯】BlackRock Greater Europe Investment Trust Plc - Transaction in Own Shares",
-        "【信息来源与时间】首发媒体：Yahoo Finance UK | 原始时间戳：Thu, 12 Nov 2026 17:30:00 GMT",
-        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
-      ]
-    },
-    {
-      "id": "news_5752578",
-      "category": "sovereign",
-      "tag": "🏛️ 主权与长线基金异动",
-      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
-      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
-      "accentColor": "#38bdf8",
-      "heroTicker": "24/7 Wall St.",
-      "heroMetric": "Berkshire’s Greg Abel ...",
-      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-12",
-      "subData": [
-        {
-          "name": "信源媒体",
-          "action": "24/7 Wall St.",
-          "val": "实时快讯"
-        },
-        {
-          "name": "监控维度",
-          "action": "主权与长线基金异动",
-          "val": "7×24 滚动"
-        },
-        {
-          "name": "发布日期",
-          "action": "2026-11-12",
-          "val": "当日最新"
-        }
-      ],
-      "title": "Berkshire’s Greg Abel Spent $14.4 Billion on Buffett’s Favorite Stock",
-      "instAvatar": "📡",
-      "instName": "24/7 Wall St.",
-      "sourceName": "24/7 Wall St. (实时快讯)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVkxDV3ZJUzVsVWxvNXJvdk1oUDU0YjVtbHBrempqdXprRGluZFhIWDN0bF9SNXZzRXRwY3FZZTgxWWdRXzVpLTlGT1ZRUEpIRWV2cU9hOTVibGgtTm9XUFVxOUd0ZTdhenZEYS1XS1lIbDBSLVZEVWRJZFFOMlhzVk9hQ2o5VEt2enUwMzM0a25vel8wUEp2T1hMMnZremJIQlVWNWk3WHNUdWtCWUww?oc=5",
-      "filingDate": "2026-11-12",
-      "reportPeriod": "7×24 实时流",
-      "conviction": "8.8 / 10",
-      "detailLogic": [
-        "【实时异动快讯】Berkshire’s Greg Abel Spent $14.4 Billion on Buffett’s Favorite Stock",
-        "【信息来源与时间】首发媒体：24/7 Wall St. | 原始时间戳：Thu, 12 Nov 2026 17:08:00 GMT",
         "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
       ]
     }
