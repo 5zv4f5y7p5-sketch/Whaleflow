@@ -1,7 +1,499 @@
 {
-  "updated_at": "2026-11-27 23:41 UTC",
+  "updated_at": "2026-11-28 11:39 UTC",
   "total_cards": 300,
   "cards": [
+    {
+      "id": "news_8243452",
+      "category": "macro",
+      "tag": "🌍 全球宏观巨鲸快讯",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "CEOWORLD magazine",
+      "heroMetric": "Billionaire Bill Ackma...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-28",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "CEOWORLD magaz",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "全球宏观巨鲸快讯",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-28",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Billionaire Bill Ackman Sold 2.1 Million Microsoft Shares and Kept Nearly All of His Exposure",
+      "instAvatar": "📡",
+      "instName": "CEOWORLD magazine",
+      "sourceName": "CEOWORLD magazine (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa0pia1hLdTRKdDBkQTBBV0phZzUyQm1CM1A1ZEpvc3p2WmE1cVlTUUhqN0pBUUFYaXlRRFVxZm1PWm1VVGUwU1VHLTNpMld2VDZsQXRWLTlpenNOQ2U3MGcwdDhhN1hjYnVWMDJvWGFWN2pwaXpIVkdNM0xqTVRVUWRTcVpCLU91N0ZCNlBxQW9aOGp6Y0ZyZ2lDdGR3OG5jcFhOQ1dMWjJ6MUM3Sm1KVGxza2ZmekdDUnBrQl8yd1hwa2hy?oc=5",
+      "filingDate": "2026-11-28",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Billionaire Bill Ackman Sold 2.1 Million Microsoft Shares and Kept Nearly All of His Exposure",
+        "【信息来源与时间】首发媒体：CEOWORLD magazine | 原始时间戳：Sat, 28 Nov 2026 07:22:08 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_619841",
+      "category": "sovereign",
+      "tag": "🏛️ 主权与长线基金异动",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "The Globe and Mail",
+      "heroMetric": "$1,000 Invested in Ber...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-28",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "The Globe and ",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "主权与长线基金异动",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-28",
+          "val": "当日最新"
+        }
+      ],
+      "title": "$1,000 Invested in Berkshire Hathaway Stock 10 Years Ago Is Worth About $3,650. Where Will It Be in 2036?",
+      "instAvatar": "📡",
+      "instName": "The Globe and Mail",
+      "sourceName": "The Globe and Mail (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimAJBVV95cUxObTlqS0xBSEZwdnpKTjhwaDRyRXkyRFhxOEJJYmtyUG9oOXVfYk83Tmg2TUVnY0Mwck5EOHBZTnBnWEZaTUNaWFFlRjRhUGI2M3JmbjlwY1k5QllqN2lrSVJ1VzFUazFDUkM3LUh6N3dScC1qdTlpQkRrbS10SlhZSVVXd0ZieDEwUWNkb2FWMkI0OUhYOFRCR19PWE5zZmhHcV96SVJlQ2lxTC1uRXkwSjV1UFlhbUthQ1F2M0xvWFdwVUVzY2E3cGJEb1RVR1daS0lLZXFEZ3ExTGl1UHp5M0xHMm1HNVhXSXYtcDNITnhlblBNcUZwb29DeUJZOVFTaExaeDJ5SkZKbHFGMGJ4UGpOcDFMV0hZ?oc=5",
+      "filingDate": "2026-11-28",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】$1,000 Invested in Berkshire Hathaway Stock 10 Years Ago Is Worth About $3,650. Where Will It Be in 2036?",
+        "【信息来源与时间】首发媒体：The Globe and Mail | 原始时间戳：Sat, 28 Nov 2026 11:11:31 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_7329602",
+      "category": "hk_cn",
+      "tag": "🇨🇳 中资与港股外资席位",
+      "tagColor": "bg-amber-500/20 text-amber-300 border border-amber-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "21财经",
+      "heroMetric": "银行股增持潮再起！年内14家上市银行获47亿...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-28",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "21财经",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "中资与港股外资席位",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-28",
+          "val": "当日最新"
+        }
+      ],
+      "title": "银行股增持潮再起！年内14家上市银行获47亿增持，沪农商行管理层增持190万",
+      "instAvatar": "📡",
+      "instName": "21财经",
+      "sourceName": "21财经 (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVkhhNnpQbll1Q05uN2U2WlluZFlhREZPd2U5azZHaS0ycWJiOXN6c0Jad3o5eDB1RUhGUmN0MmxwNjNhZUxCcEdZaFZUOWNacmdVcEp1WW9mdTFqUjJrMElFbEJ2bWVQNUVBYWdBRVRSb0kyR0k4V2dONmxtd211TkxrZkxKQ0xpUHllSUNybw?oc=5",
+      "filingDate": "2026-11-28",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】银行股增持潮再起！年内14家上市银行获47亿增持，沪农商行管理层增持190万",
+        "【信息来源与时间】首发媒体：21财经 | 原始时间戳：Sat, 28 Nov 2026 05:46:00 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_1953603",
+      "category": "hk_cn",
+      "tag": "🇨🇳 中资与港股外资席位",
+      "tagColor": "bg-amber-500/20 text-amber-300 border border-amber-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "同花顺财经",
+      "heroMetric": "回购增持再贷款常态化之后：低息资金如何从银行...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-28",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "同花顺财经",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "中资与港股外资席位",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-28",
+          "val": "当日最新"
+        }
+      ],
+      "title": "回购增持再贷款常态化之后：低息资金如何从银行资产负债表传导到股市供需",
+      "instAvatar": "📡",
+      "instName": "同花顺财经",
+      "sourceName": "同花顺财经 (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Bd2xFd19kU1lSTkZSak53eEcyVHhNQTF1azBGT3dVMW9yc2pKV2l2Sk05MDB0WWxmZnNReWhDMGpsY0RlWEs3aDdhZEVpOXhhZ2ZfMjVKQkpQTUtpUnNTQQ?oc=5",
+      "filingDate": "2026-11-28",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】回购增持再贷款常态化之后：低息资金如何从银行资产负债表传导到股市供需",
+        "【信息来源与时间】首发媒体：同花顺财经 | 原始时间戳：Sat, 28 Nov 2026 05:30:30 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_5095922",
+      "category": "hk_cn",
+      "tag": "🇨🇳 中资与港股外资席位",
+      "tagColor": "bg-amber-500/20 text-amber-300 border border-amber-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "手机新浪网",
+      "heroMetric": "上市公司回购增持升温 银行加快投放专项贷款",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-28",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "手机新浪网",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "中资与港股外资席位",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-28",
+          "val": "当日最新"
+        }
+      ],
+      "title": "上市公司回购增持升温 银行加快投放专项贷款",
+      "instAvatar": "📡",
+      "instName": "手机新浪网",
+      "sourceName": "手机新浪网 (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWHJXelBsZXZadGRqNG53NU5TRkt2Z3pORkJIWC1RbXRTUkF0UFZwV3BJMmNJUkZaRHRDbkxlSERUSUwtS1B4ay1CYi1LWU51RkhvWm1lcGVSMW43d3VQZHFDbGZtOXptbW5mTGpXZGNCLVhTQ29ZRGRLcWFMaV9IODFn?oc=5",
+      "filingDate": "2026-11-28",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】上市公司回购增持升温 银行加快投放专项贷款",
+        "【信息来源与时间】首发媒体：手机新浪网 | 原始时间戳：Sat, 28 Nov 2026 07:26:22 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_4113932",
+      "category": "macro",
+      "tag": "🌍 全球宏观巨鲸快讯",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "The Globe and Mail",
+      "heroMetric": "Did Billionaire Bill A...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-27",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "The Globe and ",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "全球宏观巨鲸快讯",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-27",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Did Billionaire Bill Ackman Lose Confidence in Microsoft? The Answer Might Surprise You",
+      "instAvatar": "📡",
+      "instName": "The Globe and Mail",
+      "sourceName": "The Globe and Mail (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQVmg0SW5uV3RVYXpYWG9yWWc4STZrM2x6YjZlUEdvRkZRWmpNeDg3Nm5zazY5NnJCcmF0VHJLUzV6U0hFdzBpbmRLQUpxMGRCcGh5X2tJWDBJQk0yZFIzRWttWEU1TWg4ZXVuNGxVUVpuOU9iWVZiY2NodXk3WVBUbzA4MjF4aWhBRVVkS3pyWDRndGtlWXpJWTdvWU5qREpRLWtMMjBtTXNWd3RpSHlNS2JDSjE5TVhMdExrMFBtM0tydmFwMlNoWWxTZGNVa1lBRHhyTmZtZ3NkMmZ2Rm5SS3JWSl9EY1RFTjRuVDVhT2E5bjkwakRoTVBxbnBJTzBj?oc=5",
+      "filingDate": "2026-11-27",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Did Billionaire Bill Ackman Lose Confidence in Microsoft? The Answer Might Surprise You",
+        "【信息来源与时间】首发媒体：The Globe and Mail | 原始时间戳：Fri, 27 Nov 2026 17:47:21 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_1287122",
+      "category": "sovereign",
+      "tag": "🏛️ 主权与长线基金异动",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "Yahoo Finance",
+      "heroMetric": "Warren Buffett's Succe...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-27",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "Yahoo Finance",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "主权与长线基金异动",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-27",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Warren Buffett's Successor, Greg Abel, Has 47% of Berkshire Hathaway's $346 Billion Portfolio Invested in 3 Proven Winners",
+      "instAvatar": "📡",
+      "instName": "Yahoo Finance",
+      "sourceName": "Yahoo Finance (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM3dDbG5iMlhpN1Q5U0RCTzhMdXJ6WFhYcVZ4Sk1zZS1VQ2F5N1BidWM5V1dIbm5NTTBXRjBKNlVHZklrUnprQ1dScEJkWEdGVnZrU25Pek13LWtSY2dBNkxTWGFSWlNrVHc5N1cya2RYLWxfOTFnc01wNjZBSS1vT3NNZlV6V0FVZ0FqNDFaMzVUTDR2Z29hRm9EZlp2ci03QXc?oc=5",
+      "filingDate": "2026-11-27",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Warren Buffett's Successor, Greg Abel, Has 47% of Berkshire Hathaway's $346 Billion Portfolio Invested in 3 Proven Winners",
+        "【信息来源与时间】首发媒体：Yahoo Finance | 原始时间戳：Fri, 27 Nov 2026 10:26:02 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_1513787",
+      "category": "hk_cn",
+      "tag": "🇨🇳 中资与港股外资席位",
+      "tagColor": "bg-amber-500/20 text-amber-300 border border-amber-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "财联社",
+      "heroMetric": "入围银行加速响应股票回购增持贷，城商行也有项...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-27",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "财联社",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "中资与港股外资席位",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-27",
+          "val": "当日最新"
+        }
+      ],
+      "title": "入围银行加速响应股票回购增持贷，城商行也有项目落地，先进制造领域成投放重点",
+      "instAvatar": "📡",
+      "instName": "财联社",
+      "sourceName": "财联社 (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5SdnF4M3JydnA1OERIWFVuRFAyYlpScGpyX3lkVy1MRlNtLUYwajFIUUhhM3dGUk9nQndqTXE2VVJ3ckY0ZTN3Rg?oc=5",
+      "filingDate": "2026-11-27",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】入围银行加速响应股票回购增持贷，城商行也有项目落地，先进制造领域成投放重点",
+        "【信息来源与时间】首发媒体：财联社 | 原始时间戳：Fri, 27 Nov 2026 12:49:00 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_4323241",
+      "category": "macro",
+      "tag": "🌍 全球宏观巨鲸快讯",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "Business Insider",
+      "heroMetric": "Investor Bill Ackman r...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-26",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "Business Insid",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "全球宏观巨鲸快讯",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-26",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Investor Bill Ackman reveals that he recently read a new account of Leon Black and Apollo",
+      "instAvatar": "📡",
+      "instName": "Business Insider",
+      "sourceName": "Business Insider (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WMGw1X09sQV8wNEZRcFRrUm94RHJPaUtVRWxXVUg3bzF3cFhubmgxYW1wU29oSEJYVUVwRksxQ0RoLThoX0ZUZjh2Nldqa0dKZ1FELXh3bHFuazJHYjgzSXhNeEY2NEItUDI0ODBBMzdOeTBtUzBuN0VkX3M?oc=5",
+      "filingDate": "2026-11-26",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Investor Bill Ackman reveals that he recently read a new account of Leon Black and Apollo",
+        "【信息来源与时间】首发媒体：Business Insider | 原始时间戳：Thu, 26 Nov 2026 22:05:00 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_2215020",
+      "category": "macro",
+      "tag": "🌍 全球宏观巨鲸快讯",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "Yahoo Finance",
+      "heroMetric": "Billionaire Stanley Dr...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-25",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "Yahoo Finance",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "全球宏观巨鲸快讯",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-25",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Billionaire Stanley Druckenmiller Sold 94% of His TSMC Stake and All of His Alphabet Shares in Q3. Here’s the Brilliant Stock He Added.",
+      "instAvatar": "📡",
+      "instName": "Yahoo Finance",
+      "sourceName": "Yahoo Finance (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeFdqdU1Ob3RQREVtUmF4MjJEcEMxQllLVmpmeHU4X1F2dFUyb3NWbl9iZG1pY3ZQbkFoWm8xNDBGTTVWQ3lnSzVHdGV3NUZ6ODFVNFBJTUMtWHhEMnVnOTZyeVRWOHBBemRWWWRzYkFQeWZocUQwNDRhRWRKSWRZZmNDelR1ZlVsdG83clhCTko3aEVDdkVLd2hIWnFrQmMzeXVMSS14bFpPZw?oc=5",
+      "filingDate": "2026-11-25",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Billionaire Stanley Druckenmiller Sold 94% of His TSMC Stake and All of His Alphabet Shares in Q3. Here’s the Brilliant Stock He Added.",
+        "【信息来源与时间】首发媒体：Yahoo Finance | 原始时间戳：Wed, 25 Nov 2026 16:37:02 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_28736",
+      "category": "sovereign",
+      "tag": "🏛️ 主权与长线基金异动",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "Barron's",
+      "heroMetric": "How 2 Quick Calls Seal...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-25",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "Barron's",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "主权与长线基金异动",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-25",
+          "val": "当日最新"
+        }
+      ],
+      "title": "How 2 Quick Calls Sealed Berkshire Hathaway’s $930M Bending Spoons Investment",
+      "instAvatar": "📡",
+      "instName": "Barron's",
+      "sourceName": "Barron's (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUm5DdzVueDRtNjAta2lfWkxCZFZNNjhUUlhqU0FucEJhQWN2ZzdGWVhUeFhNUXFkT0haSUhDLS1jaWRJbUdNREloNlk1U0xMY2NGMUJTalUtN1Y3ZUVsMW15STVZUjNaQlY0OUpCcFlTa2FhV3F0dEMtNGpxbHRvUW5NVzdLWHBpU1BuTW96aw?oc=5",
+      "filingDate": "2026-11-25",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】How 2 Quick Calls Sealed Berkshire Hathaway’s $930M Bending Spoons Investment",
+        "【信息来源与时间】首发媒体：Barron's | 原始时间戳：Wed, 25 Nov 2026 16:33:00 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
+    {
+      "id": "news_6200904",
+      "category": "sovereign",
+      "tag": "🏛️ 主权与长线基金异动",
+      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
+      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
+      "accentColor": "#38bdf8",
+      "heroTicker": "BlackRock",
+      "heroMetric": "Weekly market commenta...",
+      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-23",
+      "subData": [
+        {
+          "name": "信源媒体",
+          "action": "BlackRock",
+          "val": "实时快讯"
+        },
+        {
+          "name": "监控维度",
+          "action": "主权与长线基金异动",
+          "val": "7×24 滚动"
+        },
+        {
+          "name": "发布日期",
+          "action": "2026-11-23",
+          "val": "当日最新"
+        }
+      ],
+      "title": "Weekly market commentary",
+      "instAvatar": "📡",
+      "instName": "BlackRock",
+      "sourceName": "BlackRock (实时快讯)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+      "filingDate": "2026-11-23",
+      "reportPeriod": "7×24 实时流",
+      "conviction": "8.8 / 10",
+      "detailLogic": [
+        "【实时异动快讯】Weekly market commentary",
+        "【信息来源与时间】首发媒体：BlackRock | 原始时间戳：Mon, 23 Nov 2026 08:00:00 GMT",
+        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
+      ]
+    },
     {
       "id": "news_2672749",
       "category": "macro",
@@ -11807,498 +12299,6 @@
       "detailLogic": [
         "【实时异动快讯】Weekly market commentary",
         "【信息来源与时间】首发媒体：BlackRock | 原始时间戳：Mon, 09 Nov 2026 08:00:00 GMT",
-        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
-      ]
-    },
-    {
-      "id": "news_5921469",
-      "category": "macro",
-      "tag": "🌍 全球宏观巨鲸快讯",
-      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
-      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
-      "accentColor": "#38bdf8",
-      "heroTicker": "24/7 Wall St.",
-      "heroMetric": "Soros’ Fund Made Intel...",
-      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-14",
-      "subData": [
-        {
-          "name": "信源媒体",
-          "action": "24/7 Wall St.",
-          "val": "实时快讯"
-        },
-        {
-          "name": "监控维度",
-          "action": "全球宏观巨鲸快讯",
-          "val": "7×24 滚动"
-        },
-        {
-          "name": "发布日期",
-          "action": "2026-11-14",
-          "val": "当日最新"
-        }
-      ],
-      "title": "Soros’ Fund Made Intel Its Biggest Stock Bet Right Before It Halved",
-      "instAvatar": "📡",
-      "instName": "24/7 Wall St.",
-      "sourceName": "24/7 Wall St. (实时快讯)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUVBYYktBeE9obVNGRmJJYS1DcndfUTBkQVZqOGtfYzMyZDZZUFV3ZUI0S0V1UHZVT21sWFhfX0FoX0lEOHdDeDdQaVlhSkFwdnd1cDFONF9nVnFySlVCWW9kZWpvWGQ0YlFmYTNXRFJpU09XZ1k2OU94eTNzTlQ5dmFCSDlTLUNQN05BNHRvWmg3X2MyY3h6c1E5R3ltdWh5TVdSdTc0c2hMdUsyWjRN?oc=5",
-      "filingDate": "2026-11-14",
-      "reportPeriod": "7×24 实时流",
-      "conviction": "8.8 / 10",
-      "detailLogic": [
-        "【实时异动快讯】Soros’ Fund Made Intel Its Biggest Stock Bet Right Before It Halved",
-        "【信息来源与时间】首发媒体：24/7 Wall St. | 原始时间戳：Sat, 14 Nov 2026 17:34:00 GMT",
-        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
-      ]
-    },
-    {
-      "id": "news_2520523",
-      "category": "sovereign",
-      "tag": "🏛️ 主权与长线基金异动",
-      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
-      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
-      "accentColor": "#38bdf8",
-      "heroTicker": "CNBC",
-      "heroMetric": "Berkshire breaks out t...",
-      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-14",
-      "subData": [
-        {
-          "name": "信源媒体",
-          "action": "CNBC",
-          "val": "实时快讯"
-        },
-        {
-          "name": "监控维度",
-          "action": "主权与长线基金异动",
-          "val": "7×24 滚动"
-        },
-        {
-          "name": "发布日期",
-          "action": "2026-11-14",
-          "val": "当日最新"
-        }
-      ],
-      "title": "Berkshire breaks out to record high with fourth-quarter rally reaching 19%",
-      "instAvatar": "📡",
-      "instName": "CNBC",
-      "sourceName": "CNBC (实时快讯)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbUV4NF9lbkt0WEpneTdsTUFfMDE2dklud1lnVnFPR0YtWGNTck9NbUNJZHk2WWtIeERxXzQ5VWdUTzNDNGRnb2Npd3h0SEp2aVc2VmszQ2lXUjVjZ1lrMEtoSTRYdXJFM0d1TnNNV0ROV1R5VFN5RjJoZjgtWlZBM0lsVnpydV82a1BVQmZibTdaNDA0WFpQMklSaHMwZEtmZ0FhSHM3a0VLQXpwTHFBRHVFMWFaRGZ10gG-AUFVX3lxTE0ycGVWQ2xHWWV0U2xFdWpmbkZiWVhMR2tlQy0wNFlvMXZ0ejlHU0IyNE85Yk0wSjdXODRpSTF4MkZJYXpqMTBSRlZFakhHTjdGSXNpcFZKRHVNcWk0YW5EanM4cW1iYU1oR29PVVYyODUwajRjSjZiR0VFdDdlbWZkUXFXanNTby1fYl9hdkFzVHFKUy1lQXZlUkNzRWNENElhUXBfU0Z1NVdpcXZwM0RVRXpTT3BtQy11QnFGc0E?oc=5",
-      "filingDate": "2026-11-14",
-      "reportPeriod": "7×24 实时流",
-      "conviction": "8.8 / 10",
-      "detailLogic": [
-        "【实时异动快讯】Berkshire breaks out to record high with fourth-quarter rally reaching 19%",
-        "【信息来源与时间】首发媒体：CNBC | 原始时间戳：Sat, 14 Nov 2026 14:02:39 GMT",
-        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
-      ]
-    },
-    {
-      "id": "news_5781797",
-      "category": "sovereign",
-      "tag": "🏛️ 主权与长线基金异动",
-      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
-      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
-      "accentColor": "#38bdf8",
-      "heroTicker": "Electric Vehicles",
-      "heroMetric": "BlackRock Slashes Nio ...",
-      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-14",
-      "subData": [
-        {
-          "name": "信源媒体",
-          "action": "Electric Vehic",
-          "val": "实时快讯"
-        },
-        {
-          "name": "监控维度",
-          "action": "主权与长线基金异动",
-          "val": "7×24 滚动"
-        },
-        {
-          "name": "发布日期",
-          "action": "2026-11-14",
-          "val": "当日最新"
-        }
-      ],
-      "title": "BlackRock Slashes Nio Stake by 73%, Adds to Its Nio Convertible Notes",
-      "instAvatar": "📡",
-      "instName": "Electric Vehicles",
-      "sourceName": "Electric Vehicles (实时快讯)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVFphWHRrRktaamNiVVVzS1RLSnpKQkxhZndOVk1tcFI0Q0pvWEFMSnlHRFB2dTdSYmdBdmQ1WktDMmNaVGl4YW94cURJNlJtSUxZNGRpY2hTTmk4azc0V2dJY1ZoQzlxYU1Uc0xvekp5UnctcXJMRDZmZklSSTZvMlp0TWJ0b3ZNMnM1bjU3bzdnbkVMMW5ibnMtTGIySmJMbV9F?oc=5",
-      "filingDate": "2026-11-14",
-      "reportPeriod": "7×24 实时流",
-      "conviction": "8.8 / 10",
-      "detailLogic": [
-        "【实时异动快讯】BlackRock Slashes Nio Stake by 73%, Adds to Its Nio Convertible Notes",
-        "【信息来源与时间】首发媒体：Electric Vehicles | 原始时间戳：Sat, 14 Nov 2026 18:05:00 GMT",
-        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
-      ]
-    },
-    {
-      "id": "news_2589394",
-      "category": "hk_cn",
-      "tag": "🇨🇳 中资与港股外资席位",
-      "tagColor": "bg-amber-500/20 text-amber-300 border border-amber-500/40",
-      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
-      "accentColor": "#38bdf8",
-      "heroTicker": "ThePaper.cn",
-      "heroMetric": "景林三季度持仓曝光：大举增持台积电，新进英伟...",
-      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-14",
-      "subData": [
-        {
-          "name": "信源媒体",
-          "action": "ThePaper.cn",
-          "val": "实时快讯"
-        },
-        {
-          "name": "监控维度",
-          "action": "中资与港股外资席位",
-          "val": "7×24 滚动"
-        },
-        {
-          "name": "发布日期",
-          "action": "2026-11-14",
-          "val": "当日最新"
-        }
-      ],
-      "title": "景林三季度持仓曝光：大举增持台积电，新进英伟达与阿里",
-      "instAvatar": "📡",
-      "instName": "ThePaper.cn",
-      "sourceName": "ThePaper.cn (实时快讯)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15enV2aTIwdkZULUE0STVrdFhGQzZDUmdRT1E3dXVFaFFPbEw4QnlfRG5ETFpDb2lTR3RTblMxZ2FUQ0p4RUUzSkJ1Z3JtSVVIVjh3YURtNC03c1NsdUFhOQ?oc=5",
-      "filingDate": "2026-11-14",
-      "reportPeriod": "7×24 实时流",
-      "conviction": "8.8 / 10",
-      "detailLogic": [
-        "【实时异动快讯】景林三季度持仓曝光：大举增持台积电，新进英伟达与阿里",
-        "【信息来源与时间】首发媒体：ThePaper.cn | 原始时间戳：Sat, 14 Nov 2026 03:42:19 GMT",
-        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
-      ]
-    },
-    {
-      "id": "news_3922659",
-      "category": "hk_cn",
-      "tag": "🇨🇳 中资与港股外资席位",
-      "tagColor": "bg-amber-500/20 text-amber-300 border border-amber-500/40",
-      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
-      "accentColor": "#38bdf8",
-      "heroTicker": "经济参考报",
-      "heroMetric": "银行真金白银增持传递信心 估值修复预期升温",
-      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-14",
-      "subData": [
-        {
-          "name": "信源媒体",
-          "action": "经济参考报",
-          "val": "实时快讯"
-        },
-        {
-          "name": "监控维度",
-          "action": "中资与港股外资席位",
-          "val": "7×24 滚动"
-        },
-        {
-          "name": "发布日期",
-          "action": "2026-11-14",
-          "val": "当日最新"
-        }
-      ],
-      "title": "银行真金白银增持传递信心 估值修复预期升温",
-      "instAvatar": "📡",
-      "instName": "经济参考报",
-      "sourceName": "经济参考报 (实时快讯)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYUtpYjhzaEhRMVk0V3hHZ3YwUDdwMXVweW1STElnZVBwVXNhSFYxN0FobHRZYXY2bnk5MVJwTDU0OERqV2thUV9hY0hHdDdwck82N045bGtuVjNTTWxHYUVnWlhNX3A2T2l5cGlDM0tNZTF2NC1DNVhGUUhCU01rVg?oc=5",
-      "filingDate": "2026-11-14",
-      "reportPeriod": "7×24 实时流",
-      "conviction": "8.8 / 10",
-      "detailLogic": [
-        "【实时异动快讯】银行真金白银增持传递信心 估值修复预期升温",
-        "【信息来源与时间】首发媒体：经济参考报 | 原始时间戳：Sat, 14 Nov 2026 02:44:32 GMT",
-        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
-      ]
-    },
-    {
-      "id": "news_5821812",
-      "category": "macro",
-      "tag": "🌍 全球宏观巨鲸快讯",
-      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
-      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
-      "accentColor": "#38bdf8",
-      "heroTicker": "Reuters",
-      "heroMetric": "Soros Fund ramps up In...",
-      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-13",
-      "subData": [
-        {
-          "name": "信源媒体",
-          "action": "Reuters",
-          "val": "实时快讯"
-        },
-        {
-          "name": "监控维度",
-          "action": "全球宏观巨鲸快讯",
-          "val": "7×24 滚动"
-        },
-        {
-          "name": "发布日期",
-          "action": "2026-11-13",
-          "val": "当日最新"
-        }
-      ],
-      "title": "Soros Fund ramps up Intel stake to over $340 million in third quarter",
-      "instAvatar": "📡",
-      "instName": "Reuters",
-      "sourceName": "Reuters (实时快讯)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNU5NTnNGZkFTY1B0YjV1NVVUTzg1djhxeDdWODRhRFFGSUdpWnpIMG1rdlI2RnRoUzBVYVlqY0FwbHB0eDR1eVpTdlBfd1JaNVdRZVZBNTVQcjVMeXFFZDhUTE9FSml6TDlLVE4tZUZWWUVmSGRIRlM3NE9mVFNpOXFVZko1LTc0bHBjVG9PbkxmSWxWX2V5VzBtNG03UWIwUWdQV0lpNEw2TW5mYjlxYnZHLWVKVWxKYWc?oc=5",
-      "filingDate": "2026-11-13",
-      "reportPeriod": "7×24 实时流",
-      "conviction": "8.8 / 10",
-      "detailLogic": [
-        "【实时异动快讯】Soros Fund ramps up Intel stake to over $340 million in third quarter",
-        "【信息来源与时间】首发媒体：Reuters | 原始时间戳：Fri, 13 Nov 2026 23:39:43 GMT",
-        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
-      ]
-    },
-    {
-      "id": "news_1952054",
-      "category": "macro",
-      "tag": "🌍 全球宏观巨鲸快讯",
-      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
-      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
-      "accentColor": "#38bdf8",
-      "heroTicker": "Yahoo Finance",
-      "heroMetric": "4 Stocks Bill Ackman a...",
-      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-13",
-      "subData": [
-        {
-          "name": "信源媒体",
-          "action": "Yahoo Finance",
-          "val": "实时快讯"
-        },
-        {
-          "name": "监控维度",
-          "action": "全球宏观巨鲸快讯",
-          "val": "7×24 滚动"
-        },
-        {
-          "name": "发布日期",
-          "action": "2026-11-13",
-          "val": "当日最新"
-        }
-      ],
-      "title": "4 Stocks Bill Ackman and Jim Cramer Are Bullish On",
-      "instAvatar": "📡",
-      "instName": "Yahoo Finance",
-      "sourceName": "Yahoo Finance (实时快讯)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWVQtVEE5Q3dlRGJVTlBnd1hzaVhnbzF3V19TeUdNU3dScUJjRThiMVcxWHExejVSVmROSVF1MG5uTlcyS2lBRDluWjFQT1Z4MUt3RC1KbnRKWkJjOGtRcEdzam5jdXktWUNQMlRoOHU5MERLOW85YTJFRy1sMDJ1QlFuM2xRVE8xY2d1ZnZaOXRlU1k?oc=5",
-      "filingDate": "2026-11-13",
-      "reportPeriod": "7×24 实时流",
-      "conviction": "8.8 / 10",
-      "detailLogic": [
-        "【实时异动快讯】4 Stocks Bill Ackman and Jim Cramer Are Bullish On",
-        "【信息来源与时间】首发媒体：Yahoo Finance | 原始时间戳：Fri, 13 Nov 2026 16:25:40 GMT",
-        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
-      ]
-    },
-    {
-      "id": "news_1869893",
-      "category": "hk_cn",
-      "tag": "🇨🇳 中资与港股外资席位",
-      "tagColor": "bg-amber-500/20 text-amber-300 border border-amber-500/40",
-      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
-      "accentColor": "#38bdf8",
-      "heroTicker": "财联社",
-      "heroMetric": "大佬持仓追踪：景林Q3大幅加仓台积电 重新建...",
-      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-13",
-      "subData": [
-        {
-          "name": "信源媒体",
-          "action": "财联社",
-          "val": "实时快讯"
-        },
-        {
-          "name": "监控维度",
-          "action": "中资与港股外资席位",
-          "val": "7×24 滚动"
-        },
-        {
-          "name": "发布日期",
-          "action": "2026-11-13",
-          "val": "当日最新"
-        }
-      ],
-      "title": "大佬持仓追踪：景林Q3大幅加仓台积电 重新建仓Meta、英伟达",
-      "instAvatar": "📡",
-      "instName": "财联社",
-      "sourceName": "财联社 (实时快讯)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ITWdMcy03dENlTnV4RGoyek53S2FQVVFrWkgxYkltYm9SX3JMSTFVd2Q1WnhPSUlFbGRQQmNJWkVaTlJFbDMzYg?oc=5",
-      "filingDate": "2026-11-13",
-      "reportPeriod": "7×24 实时流",
-      "conviction": "8.8 / 10",
-      "detailLogic": [
-        "【实时异动快讯】大佬持仓追踪：景林Q3大幅加仓台积电 重新建仓Meta、英伟达",
-        "【信息来源与时间】首发媒体：财联社 | 原始时间戳：Fri, 13 Nov 2026 20:15:41 GMT",
-        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
-      ]
-    },
-    {
-      "id": "news_1792677",
-      "category": "sovereign",
-      "tag": "🏛️ 主权与长线基金异动",
-      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
-      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
-      "accentColor": "#38bdf8",
-      "heroTicker": "Reuters",
-      "heroMetric": "Singapore's Temasek to...",
-      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-12",
-      "subData": [
-        {
-          "name": "信源媒体",
-          "action": "Reuters",
-          "val": "实时快讯"
-        },
-        {
-          "name": "监控维度",
-          "action": "主权与长线基金异动",
-          "val": "7×24 滚动"
-        },
-        {
-          "name": "发布日期",
-          "action": "2026-11-12",
-          "val": "当日最新"
-        }
-      ],
-      "title": "Singapore's Temasek to invest $267 million in Godrej Industries' financial services arm",
-      "instAvatar": "📡",
-      "instName": "Reuters",
-      "sourceName": "Reuters (实时快讯)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONGNKbWRjYUdDVWczM0UtSi1hQVktWndmQXJVeVZRaXczbHBacy0xb2dLLUpJSmxxWGo3bG56OWoxRnVwSGJNR2N2dVNQQ213REFPOENPYXJNaUVpNllwWHV6VlNZWUl1M2JaRDhSbUxLdU1XZjJuemE2dkZmUlQza1Y5OTdtTkJGYzBKMzFsT0JBU24tTDl0YU9xSnNKN0tfQWZ4ajNwUVhyOTdqNW9tVkFSMjI0WkJtUlFGdExVVmpVNTZW?oc=5",
-      "filingDate": "2026-11-12",
-      "reportPeriod": "7×24 实时流",
-      "conviction": "8.8 / 10",
-      "detailLogic": [
-        "【实时异动快讯】Singapore's Temasek to invest $267 million in Godrej Industries' financial services arm",
-        "【信息来源与时间】首发媒体：Reuters | 原始时间戳：Thu, 12 Nov 2026 08:27:38 GMT",
-        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
-      ]
-    },
-    {
-      "id": "news_9931870",
-      "category": "hk_cn",
-      "tag": "🇨🇳 中资与港股外资席位",
-      "tagColor": "bg-amber-500/20 text-amber-300 border border-amber-500/40",
-      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
-      "accentColor": "#38bdf8",
-      "heroTicker": "J.P. Morgan Privat",
-      "heroMetric": "动能交易是否已到尽头？",
-      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-10",
-      "subData": [
-        {
-          "name": "信源媒体",
-          "action": "J.P. Morgan Pr",
-          "val": "实时快讯"
-        },
-        {
-          "name": "监控维度",
-          "action": "中资与港股外资席位",
-          "val": "7×24 滚动"
-        },
-        {
-          "name": "发布日期",
-          "action": "2026-11-10",
-          "val": "当日最新"
-        }
-      ],
-      "title": "动能交易是否已到尽头？",
-      "instAvatar": "📡",
-      "instName": "J.P. Morgan Private Bank",
-      "sourceName": "J.P. Morgan Private Bank (实时快讯)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOemRQWERPb1VCb2NySmlsTXZGMXhEeUwtTUtEVy1XWU96Unp2NnpXckdaT3ZraHRUYlNTYnBuWnp1amEtc05oRURhVVZVSEpBVXRXcDhFMHVDVW5GcHQ1WHdKYkR2cWRjUm1FelJ6bWJadTA1MHZnTnY3TFdhMzJaRWR1MFNuMDJzc1dFUmd4ekhteVVmbVFnTWkxQ1JVcHJLZWFSdQ?oc=5",
-      "filingDate": "2026-11-10",
-      "reportPeriod": "7×24 实时流",
-      "conviction": "8.8 / 10",
-      "detailLogic": [
-        "【实时异动快讯】动能交易是否已到尽头？",
-        "【信息来源与时间】首发媒体：J.P. Morgan Private Bank | 原始时间戳：Tue, 10 Nov 2026 08:00:00 GMT",
-        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
-      ]
-    },
-    {
-      "id": "news_406026",
-      "category": "sovereign",
-      "tag": "🏛️ 主权与长线基金异动",
-      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
-      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
-      "accentColor": "#38bdf8",
-      "heroTicker": "BlackRock",
-      "heroMetric": "Weekly market commenta...",
-      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-09",
-      "subData": [
-        {
-          "name": "信源媒体",
-          "action": "BlackRock",
-          "val": "实时快讯"
-        },
-        {
-          "name": "监控维度",
-          "action": "主权与长线基金异动",
-          "val": "7×24 滚动"
-        },
-        {
-          "name": "发布日期",
-          "action": "2026-11-09",
-          "val": "当日最新"
-        }
-      ],
-      "title": "Weekly market commentary",
-      "instAvatar": "📡",
-      "instName": "BlackRock",
-      "sourceName": "BlackRock (实时快讯)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-      "filingDate": "2026-11-09",
-      "reportPeriod": "7×24 实时流",
-      "conviction": "8.8 / 10",
-      "detailLogic": [
-        "【实时异动快讯】Weekly market commentary",
-        "【信息来源与时间】首发媒体：BlackRock | 原始时间戳：Mon, 09 Nov 2026 08:00:00 GMT",
-        "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
-      ]
-    },
-    {
-      "id": "news_509204",
-      "category": "macro",
-      "tag": "🌍 全球宏观巨鲸快讯",
-      "tagColor": "bg-cyan-500/20 text-cyan-300 border border-cyan-500/40",
-      "bgGradient": "from-slate-900 via-[#111827] to-[#0f172a]",
-      "accentColor": "#38bdf8",
-      "heroTicker": "Finimize",
-      "heroMetric": "Soros Fund Management ...",
-      "heroLabel": "全球机构实时动态监测 · 发布于 2026-11-14",
-      "subData": [
-        {
-          "name": "信源媒体",
-          "action": "Finimize",
-          "val": "实时快讯"
-        },
-        {
-          "name": "监控维度",
-          "action": "全球宏观巨鲸快讯",
-          "val": "7×24 滚动"
-        },
-        {
-          "name": "发布日期",
-          "action": "2026-11-14",
-          "val": "当日最新"
-        }
-      ],
-      "title": "Soros Fund Management Loaded Up On Intel, Filings Show",
-      "instAvatar": "📡",
-      "instName": "Finimize",
-      "sourceName": "Finimize (实时快讯)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTWpFU2xDNWxSaXNqN3VYRWV1Y1Q0UUtsMXpxWFBKalBIZEt4X0VKT3FLemFWcHZMUXdyeDN1VDlzZzhGbGhMb2RiUVBZc2NoMFNDdEJXQ1QwRlpoYzFXZWVQM0NFUUkweUZOcnBmbjFnMDFUWHBqU1k3TFZNVGN0NEZQdjNvZGVVQnc?oc=5",
-      "filingDate": "2026-11-14",
-      "reportPeriod": "7×24 实时流",
-      "conviction": "8.8 / 10",
-      "detailLogic": [
-        "【实时异动快讯】Soros Fund Management Loaded Up On Intel, Filings Show",
-        "【信息来源与时间】首发媒体：Finimize | 原始时间戳：Sat, 14 Nov 2026 07:49:28 GMT",
         "【核验提示】点击下方「查验官方原始底稿」可直接跳转该条机构异动报道的原始网页链接。"
       ]
     }
